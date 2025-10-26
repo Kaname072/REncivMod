@@ -31,7 +31,7 @@
 		"name": "Kongo",
 		"leaderName": "Mvemba a Nzinga",
 		"adjective": ["idk sorry"],
-		"startBias": ["Jungle","Coast"],
+		"startBias": ["Desert","Coast"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Mvemba a Nzinga",
 
@@ -50,8 +50,8 @@
 
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
-		"uniqueName": "Traditional Religion",
-		"uniques": [""],
+		"uniqueName": "Slave Commerce",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
