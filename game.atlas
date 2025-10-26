@@ -32,6 +32,20 @@ NationIcons/Romania
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Zulu
+  rotate: false
+  xy: 800, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Assyria
+  rotate: false
+  xy: 1000, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Volunteer
   rotate: false
   xy: 0, 200
@@ -67,6 +81,20 @@ UnitIcons/Rosiori
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Impi
+  rotate: false
+  xy: 800, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Siege Tower
+  rotate: false
+  xy: 1000, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Samba School
   rotate: false
   xy: 200, 200
@@ -77,6 +105,27 @@ BuildingIcons/Samba School
 BuildingIcons/Painted Monastery
   rotate: false
   xy: 600, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sankore University
+  rotate: false
+  xy: 400, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ikanda
+  rotate: false
+  xy: 800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Royal Library
+  rotate: false
+  xy: 1000, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
