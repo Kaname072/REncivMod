@@ -9,6 +9,6 @@
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] take [5] damage <every [1] turn>","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [5] damage <every [1] turn>","Can only heal by pillaging","Unable to pillage tiles"]
   }
 ]
