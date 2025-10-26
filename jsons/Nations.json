@@ -81,5 +81,33 @@
 		"uniques": [""],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
+	},
+	{
+		"name": "Mali",
+		"leaderName": "Mansa Musa",
+		"adjective": ["Malian"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Mansa Musa",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You dont have spiritual abundance! i will show how to make a true nation for you people!",
+		"attacked": "This have a price! and you will pay!",
+		"defeated": "Ok, you win. Stay with my richness, i dont care.",
+		"introduction": "Greetings.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you?",
+
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+		"outerColor": [216,1,65],
+		"innerColor": [255,204,0],
+		"uniqueName": "Inflation",
+		"uniques": [""],
+		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
+		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	}
 ]
