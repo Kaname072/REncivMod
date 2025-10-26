@@ -11,24 +11,73 @@ NationIcons/Brazil
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+NationIcons/Kongo
   rotate: false
-  xy: 220, 4
-  size: 100, 100
+  xy: 200, 200
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/Mali
   rotate: false
-  xy: 4, 4
-  size: 100, 100
+  xy: 400, 400
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+NationIcons/Romania
   rotate: false
-  xy: 328, 4
-  size: 100, 100
+  xy: 600, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Volunteer
+  rotate: false
+  xy: 0, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+  rotate: false
+  xy: 0, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Kongo Warrior
+  rotate: false
+  xy: 400, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sofa Archer
+  rotate: false
+  xy: 600, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rosiori
+  rotate: false
+  xy: 400, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Samba School
+  rotate: false
+  xy: 200, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Painted Monastery
+  rotate: false
+  xy: 600, 400
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
