@@ -78,7 +78,7 @@
 		"outerColor": [126,0,12],
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
+		"uniques": ["[+15]% Strength <when fighting in [your Land] tiles> <in cities with a [foreign] religion>",
 			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
 			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
@@ -108,10 +108,41 @@
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
 		"uniqueName": "Inflation",
-		"uniques": ["[-50]% Gold cost of purchasing items in cities",
+		"uniques": ["Gold cost of purchasing items in cities [-50]%",
 			"[+50]% Gold from Great Merchant trade missions",
 			"May buy items in puppet cities"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
+	},
+	{
+		"name": "Zulu",
+		"leaderName": "Shaka",
+		"adjective": ["Zulu"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		"personality": "Shaka",
+
+		"startIntroPart1": "Your people kneel before you, great warrior Shaka of the Zulu Kingdom. As you rose from a place of exile to become the true leader of the Zulus, you ushered in changes throughout the Zulu society, implementing new laws and cultural reforms that strengthened the position of your kingdom. However, it was your tenacity in the art of war that truly established your reputation, as your tactics and strategies on the battlefield forever changed the face of combat across the plains of southern Africa.",
+		"startIntroPart2": "Most formidable king, your people once again long for the unity and strength your leadership afforded them. Can you return the Zulu kingdom to such great prominence? Will you build a civilization that stands the test of time?",
+
+		"declaringWar": "None will slow our progress, not even you! Prepare for war!",
+		"attacked": "Your arrogance will only lead you to defeat!",
+		"defeated": "My warriors have failed, and so I failed them.",
+		"introduction": "I'm Shaka of Zulu. Don't try to move, warrior, or I'll destroy you.",
+
+		"neutralHello": "Hail your Majesty!",
+		"hateHello": "You say? What are you doing here?"",
+
+		"tradeRequest": "Approve the closure sell.",
+
+		"outerColor": [255,247,241],
+		"innerColor": [116,55,25],
+		"uniqueName": "Ikwla",
+		"uniques": ["[-50]% maintenance costs <for [Melee] units>",
+			"[+50]% XP gained from combat <for [Military] units>"],
+		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
+			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","eMangweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
+			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hluhluwe","Matubatuba","Mhlahlandlela",
+			"Mthatha","Maseru","Lobamba","Qunu"]
 	}
 ]
