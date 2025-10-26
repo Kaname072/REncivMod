@@ -1,0 +1,10 @@
+[
+  {
+    "name": "[Kongo Warrior] ability",
+    "uniques": ["[+50]% Strength <when defending> <vs [Ranged] units>"]
+  },
+  {
+    "name": "Volunteers of the Fatherland",
+    "uniques": ["[This Unit] heals [25] HP <when conquering a city>"]
+  }
+]
