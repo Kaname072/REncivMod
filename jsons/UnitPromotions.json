@@ -6,5 +6,9 @@
   {
     "name": "Volunteers of the Fatherland",
     "uniques": ["[This Unit] heals [25] HP <when conquering a city>"]
+  },
+  {
+    "name": "Poisoned",
+    "uniques": ["[This Unit] take [5] damage <every [1] turn>","Can only heal by pillaging","Unable to pillage tiles"]
   }
 ]
