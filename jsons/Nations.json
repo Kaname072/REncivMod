@@ -78,7 +78,9 @@
 		"outerColor": [126,0,12],
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": [""],
+		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
+			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
+			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -106,7 +108,9 @@
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
 		"uniqueName": "Inflation",
-		"uniques": [""],
+		"uniques": ["[-50]% Gold cost of purchasing items in cities",
+			"[+50]% Gold from Great Merchant trade missions",
+			"May buy items in puppet cities"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	}
