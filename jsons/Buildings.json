@@ -53,5 +53,18 @@
 		"cityStrength": 2.5,
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Sankore University",
+		"uniqueTo": "Mali",
+		"replaces": "University",
+		"faith": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
