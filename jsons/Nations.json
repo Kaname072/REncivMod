@@ -78,8 +78,8 @@
 		"outerColor": [126,0,12],
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when fighting in [your Land] tiles> <in cities with a [foreign] religion>",
-			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
+		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
+			"[+15]% Strength <when fighting in [Your Land] tiles>",
 			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -135,7 +135,7 @@
 
 		"tradeRequest": "Approve the closure sell.",
 
-		"outerColor": [255,247,241],
+		"outerColor": [255,251,248],
 		"innerColor": [116,55,25],
 		"uniqueName": "Ikwla",
 		"uniques": ["[-50]% maintenance costs <for [Melee] units>",
