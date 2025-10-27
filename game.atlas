@@ -130,21 +130,21 @@ BuildingIcons/Royal Library
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Poisoned
+UnitPromotionIcons/Poisoned
   rotate: false
   xy: 200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Volunteers of the Fatherland
+UnitPromotionIcons/Volunteers of the Fatherland
   rotate: false
   xy: 0, 200
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-PromotionIcons/Buffalo Chest
+UnitPromotionIcons/Buffalo Chest
   rotate: false
   xy: 800, 200
   size: 200, 200
