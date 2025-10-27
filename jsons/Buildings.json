@@ -40,5 +40,18 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [10] XP [in this city]"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "M'Banza",
+		"uniqueTo": "Kongo",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 3,
+		"cityStrength": 2.5,
+		"cost": 0,
+		"uniques": ["Indicates the capital city"]
 	}
 ]
