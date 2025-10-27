@@ -1,11 +1,11 @@
 [
   {
     "name": "[Kongo Warrior] ability",
-    "uniques": ["[+33]% Strength <when defending> <vs [non-[Melee]] units>"]
+    "uniques": ["[+1] Sight <in [Rough terrain] tiles>","[+33]% Strength <when defending> <vs [non-[Melee]] units>"]
   },
   {
     "name": "Volunteers of the Fatherland",
-    "uniques": ["Ignore terrain cost"]
+    "uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "Ignore terrain cost <in [Enemy Land] tiles>"]
   },
   {
     "name": "Poisoned",
@@ -13,6 +13,6 @@
   },
   {
     "name": "Buffalo Chest",
-    "uniques": ["[+20]% Strength <when defending>"]
+    "uniques": ["[+15]% Strength <when defending>"]
   }
 ]
