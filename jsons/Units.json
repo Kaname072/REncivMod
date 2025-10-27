@@ -30,16 +30,17 @@
 	{
 		"name": "Kongo Warrior",
 		"uniqueTo": "Kongo",
-		"replaces": "Spearman",
+		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 11,
-		"cost": 56,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
 		"promotions": ["[Kongo Warrior] ability"],
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"attackSound": "metalhit"
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Rosiori",
@@ -56,6 +57,19 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
+	},
+	{
+		"name": "Dorobanti",
+		"uniqueTo": "Romania",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	},
 	{
 		"name": "Sofa Archer",
