@@ -5,14 +5,18 @@
   },
   {
     "name": "Volunteers of the Fatherland",
-    "uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "Ignore terrain cost <in [Enemy Land] tiles>"]
+    "uniques": ["[+10]% Production when constructing [Military] units [in all cities]"]
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] takes [20] damage <every [1] turns>","[-1] Sight","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [20] damage <every [1] turns> <upon turn start>","[-1] Sight","Can only heal by pillaging","Unable to pillage tiles"]
   },
   {
     "name": "Buffalo Chest",
     "uniques": ["[+15]% Strength <when defending>"]
+  },
+  {
+    "name": "[Dorobanti] ability",
+    "uniques": ["[+15]% Strength <when attacking>","[-100]% maintenance costs <when not at war>"]
   }
 ]
