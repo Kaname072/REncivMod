@@ -8,7 +8,7 @@
 		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
-		"promotions": ["Volunteers of the Fatherland","Great Generals II"],
+		"promotions": ["Volunteers of the Fatherland"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
@@ -66,6 +66,7 @@
 		"movement": 2,
 		"strength": 24,
 		"cost": 150,
+		"promotions": ["[Dorobanti] ability"],
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
