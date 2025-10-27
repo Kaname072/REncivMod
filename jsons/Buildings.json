@@ -17,10 +17,28 @@
 		"uniqueTo": "Romania",
 		"replaces": "Library",
 		"faith": 2,
-		"culture": 2,
+		"culture": 4,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Ikanda",
+		"uniqueTo": "Zulu",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [{Military} {Land}] units [in this city] receive the [Buffalo Chest] promotion", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Royal Library",
+		"uniqueTo": "Assyria",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [10] XP [in this city]"],
 		"requiredTech": "Writing"
 	}
 ]
