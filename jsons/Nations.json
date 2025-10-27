@@ -51,7 +51,8 @@
 		"outerColor": [255,212,0],
 		"innerColor": [246,0,0],
 		"uniqueName": "Slave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+			"[+25]% [Gold] [in all coastal cities] <for [30] turns> <when not at war> <upon declaring friendship>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
@@ -79,7 +80,7 @@
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
-			"[+15]% Strength <when fighting in [Your Land] tiles>",
+			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
 			"Units ignore terrain costs when moving into any tile with Hills"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
