@@ -4,10 +4,6 @@
     "uniques": ["[+1] Sight <in [Rough terrain] tiles>","[+25]% Strength <when defending>"]
   },
   {
-    "name": "Volunteers of the Fatherland",
-    "uniques": ["[+1] Movement <in [Foreign Land] tiles>"]
-  },
-  {
     "name": "Poisoned",
     "uniques": ["[This Unit] takes [20] damage <every [1] turns> <upon turn start>","[-1] Sight","Can only heal by pillaging","Unable to pillage tiles"]
   },
