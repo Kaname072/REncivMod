@@ -22,8 +22,9 @@
 
 		"outerColor": [0,112,36],
 		"innerColor": [246,198,0],
-		"uniqueName": "Carnival",
-		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>"],
+		"uniqueName": "Bossa Nova",
+		"uniques": ["[+2 Culture] from every [Jungle]",
+			"[+2 Culture] from every [Coast]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -52,7 +53,7 @@
 		"innerColor": [246,0,0],
 		"uniqueName": "Slave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[+25]% [Gold] [in all coastal cities] <for [30] turns> <when not at war> <upon declaring friendship>"],
+			"[+25]% [Gold] [in all coastal cities] <for [10] turns> <when not at war> <upon declaring friendship>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
