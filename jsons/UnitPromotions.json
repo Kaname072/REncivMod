@@ -1,11 +1,11 @@
 [
   {
     "name": "[Kongo Warrior] ability",
-    "uniques": ["[+1] Sight <in [Rough terrain] tiles>","[+33]% Strength <when defending> <vs [non-[Melee]] units>"]
+    "uniques": ["[+1] Sight <in [Rough terrain] tiles>","[+25]% Strength <when defending>"]
   },
   {
     "name": "Volunteers of the Fatherland",
-    "uniques": ["[+10]% Production when constructing [Military] units [in all cities]"]
+    "uniques": ["[+1] Movement <in [Foreign Land] tiles>"]
   },
   {
     "name": "Poisoned",
@@ -17,6 +17,6 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[+15]% Strength <when attacking>","[-100]% maintenance costs <when not at war>"]
+    "uniques": ["[-100]% maintenance costs <when not at war>"]
   }
 ]
