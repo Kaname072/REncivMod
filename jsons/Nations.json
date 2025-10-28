@@ -22,9 +22,9 @@
 
 		"outerColor": [0,112,36],
 		"innerColor": [246,198,0],
-		"uniqueName": "Bossa Nova",
-		"uniques": ["[+2 Culture] from every [Jungle]",
-			"[+2 Culture] from every [Coast]"],
+		"uniqueName": "Beloved Fatherland",
+		"uniques": ["[+25]% Production when constructing [{Military} {Land}] units <for [10] turns> <upon being declared war on by [Major] Civilizations>",
+			"[-15]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -53,7 +53,8 @@
 		"innerColor": [246,0,0],
 		"uniqueName": "Slave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[+25]% [Gold] [in all coastal cities] <for [10] turns> <when not at war> <upon declaring friendship>"],
+			"[+25]% [Gold] [in all coastal cities] <for [10] turns> <when not at war> <upon declaring friendship> <hidden from users>",
+			"Comment [Receive a Gold boost when declaring a friendship (not at war) in all costal cities]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
@@ -81,8 +82,7 @@
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
-			"[+15]% Strength <when fighting in [Friendly Land] tiles>",
-			"Units ignore terrain costs when moving into any tile with Hills"],
+			"[+15]% Strength <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
