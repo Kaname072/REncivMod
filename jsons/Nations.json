@@ -49,8 +49,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,212,0],
-		"innerColor": [246,0,0],
+		"outerColor": [255,212,12],
+		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
 			"[+25]% [Gold] [in all coastal cities] <for [10] turns> <when not at war> <upon declaring friendship> <hidden from users>",
@@ -78,10 +78,10 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [126,0,12],
-		"innerColor": [0,110,56],
+		"outerColor": [104,3,13],
+		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [Foriegn] religion>",
+		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>",
 			"[Faith] cost of purchasing items in cities [-33]%"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -168,8 +168,8 @@
 		
 		"tradeRequest": "Will you consider a trade?",
 
-		"outerColor": [251,255,206],
-		"innerColor": [255,177,9],
+		"outerColor": [252,255,220],
+		"innerColor": [183,129,11],
 
 		"uniqueName": "Treasures of Nineveh",
 		"uniques": ["Free Technology <upon conquering a city>"],
