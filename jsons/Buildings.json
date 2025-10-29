@@ -9,7 +9,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+33]% [Culture] [in this city] <during We Love The King Day>"],
+		"uniques": ["[+75]% [Culture] [in this city] <during We Love The King Day>","Comment [+1 Great Artist Points]"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -17,7 +17,7 @@
 		"uniqueTo": "Romania",
 		"replaces": "Library",
 		"faith": 2,
-		"culture": 4,
+		"culture": 3,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
