@@ -81,7 +81,7 @@
 		"outerColor": [126,0,12],
 		"innerColor": [0,110,56],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [Foreign] religion>",
+		"uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [Foriegn] religion>",
 			"[Faith] cost of purchasing items in cities [-33]%"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
