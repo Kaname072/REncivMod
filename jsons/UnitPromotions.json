@@ -1,11 +1,11 @@
 [
   {
     "name": "[Kongo Warrior] ability",
-    "uniques": ["[+1] Sight <in [Rough terrain] tiles>","[+25]% Strength <when defending>"]
+    "uniques": ["[+33]% Strength <when defending>"]
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] takes [20] damage <every [1] turns> <upon turn start>","[-1] Sight","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [20] damage <every [1] turns>","[-1] Sight","Can only heal by pillaging","Unable to pillage tiles"]
   },
   {
     "name": "Buffalo Chest",
@@ -13,9 +13,10 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[-100]% maintenance costs <when not at war>"]
+    "uniques": ["[+25]% Strength <when attacking> <when fighting in [Friendly Land] tiles>"]
   },
   {
     "name": "Poison Arrow",
     "uniques": ["[Target Unit] gains the [Poisoned] status for [4] turn(s) <when attacking> <upon damaging a [{non-[Poisoned]} {Land}] unit>"]
+  }
 ]
