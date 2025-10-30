@@ -24,7 +24,7 @@
 		"innerColor": [246,198,0],
 		"uniqueName": "Beloved Fatherland",
 		"uniques": ["[+25]% Production when constructing [{Military} {Land}] units [in all cities] <for [10] turns> <upon being declared war on by [Major] Civilizations>",
-			"[-15]% Culture cost of natural border growth [in all cities]"],
+			"[-25]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -52,9 +52,7 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[+25]% [Gold] [in all coastal cities] <for [10] turns> <when not at war> <upon declaring friendship> <hidden from users>",
-			"Comment [Receive a Gold boost when declaring a friendship (not at war) in all costal cities]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
