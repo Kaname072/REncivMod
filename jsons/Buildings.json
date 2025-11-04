@@ -8,7 +8,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>"],
+		"uniques": ["[+66]% [Culture] [in this city] <during We Love The King Day>"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -37,7 +37,7 @@
 		"production": 3,
 		"science": 3,
 		"gold": 3,
-		"culture": 5,
+		"culture": 6,
 		"cityStrength": 2.5,
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
@@ -46,7 +46,7 @@
 		"name": "Sankore University",
 		"uniqueTo": "Mali",
 		"replaces": "University",
-		"faith": 2,
+		"faith": 3,
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
