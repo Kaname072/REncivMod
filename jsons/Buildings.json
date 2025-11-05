@@ -52,7 +52,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[-5]% Science cost for researching new Technologies"],
+		"uniques": ["[-5]% Science cost of researching new Technologies"],
 		"requiredTech": "Education"
 	}
 ]
