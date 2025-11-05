@@ -5,7 +5,7 @@
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] takes [10] damage <upon turn start>","[-10]% Strength <when attacking>","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [15] damage <upon turn start>","[-5]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
   },
   {
     "name": "Buffalo Chest",
