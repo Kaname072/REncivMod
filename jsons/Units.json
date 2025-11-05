@@ -66,10 +66,11 @@
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 4,
+		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
 		"promotions": ["Poison Arrow"],
+		"unique": ["Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
