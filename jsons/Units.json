@@ -25,7 +25,8 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"promotions": ["[Kongo Warrior] ability"],
+		"uniques": ["[+33]% Strength <when defending> <vs [Land] units>","Ignore terrain cost"],
+		"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	},
@@ -70,7 +71,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"promotions": ["Poison Arrow"],
-		"unique": ["Can move immediately once bought"],
+		"uniques": ["Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
