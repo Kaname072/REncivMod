@@ -1,7 +1,7 @@
 [
   {
     "name": "[Kongo Warrior] ability",
-    "uniques": ["[+1] Sight","[+33]% Strength <when defending>"]
+    "uniques": ["[+33]% Strength <when defending> <vs [Land] units>"]
   },
   {
     "name": "Poisoned",
