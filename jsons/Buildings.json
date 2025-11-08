@@ -8,7 +8,7 @@
 		"requiredBuilding": "Monument",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+75]% [Culture] [in this city] <during We Love The King Day>"],
+		"uniques": ["[+33]% [Culture] [in all cities] <during We Love The King Day>"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
