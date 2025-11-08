@@ -23,7 +23,8 @@
 		"outerColor": [0,112,36],
 		"innerColor": [246,198,0],
 		"uniqueName": "Amazon Forest",
-		"uniques": ["[{Military} {Melee} {Land}] units gain the [Woodsman] promotion",
+		"uniques": ["[+2 Culture] from every [Jungle]",
+			"[{Military} {Melee} {Land}] units gain the [Woodsman] promotion",
 			"[-25]% Culture cost of natural border growth [in all cities]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
@@ -81,7 +82,7 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[Faith] cost of purchasing items in cities [-40]%"],
+		"uniques": ["[Faith] cost of purchasing items in cities [-50]%"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
