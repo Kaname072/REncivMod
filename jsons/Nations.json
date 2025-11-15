@@ -20,8 +20,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [0,142,66],
-		"innerColor": [53,199,9],
+		"outerColor": [53,199,9],
+		"innerColor": [0,112,36],
 		"uniqueName": "Carnival",
 		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
