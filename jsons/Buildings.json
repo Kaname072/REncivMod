@@ -6,9 +6,8 @@
 		"culture": 3,
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["[+33]% [Culture] [in all cities] <during We Love The King Day>"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
