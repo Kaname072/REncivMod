@@ -21,8 +21,8 @@
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
 		"outerColor": [0,142,66],
-		"innerColor": [0,112,36],
-		"uniqueName": "Amazon Forest",
+		"innerColor": [53,199,9],
+		"uniqueName": "Carnival",
 		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
@@ -81,7 +81,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[Faith] cost of purchasing items in cities [-66]%"],
+		"uniques": ["[Faith] cost of purchasing items in cities [-33]%",
+		"[-15]% Strength <for [{Enemy} {Military}] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
