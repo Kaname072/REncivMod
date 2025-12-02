@@ -15,19 +15,16 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Kongo Warrior",
+		"name": "Kongo Shieldman",
 		"uniqueTo": "Kongo",
-		"replaces": "Swordsman",
+		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
-		"obsoleteTech": "Steel",
-		"uniques": ["[+25]% Strength <when defending> <vs [Land] units>"],
-		"promotions": ["Cover I"],
-		"hurryCostModifier": 20,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"promotions": ["Kilombo Warrior"],
 		"attackSound": "nonmetalhit"
 	},
 	{
