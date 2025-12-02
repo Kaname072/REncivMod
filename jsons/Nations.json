@@ -51,11 +51,11 @@
 
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
-		"uniqueName": "Slave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+		"uniqueName": "Kilombo Forces",
+		"uniques": ["[+10]% Production when constructing [Sword] units [in all cities]",
+		"Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
 		"[-100]% maintenance cost for [Harbor] buildings [in all cities] <hidden from users>",
-		"[+2 Gold] from every [Harbor]",
-		"[Sword] units gain the [Kilombo Warrior] promotion"],
+		"[+2 Gold] from every [Harbor]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
