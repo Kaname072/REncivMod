@@ -24,8 +24,8 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Can build [Kilombo] improvements on tiles"],
-		"promotions": ["Drill I","Kilombo Warrior"],
+		"uniques": ["Can build [Kilombo] improvements on tiles <[1] times>"],
+		"promotions": ["Kilombo Warrior"],
 		"attackSound": "nonmetalhit"
 	},
 	{
