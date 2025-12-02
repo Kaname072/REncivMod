@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Kilombo",
+    "terrainsCanBeBuiltOn": ["Plains","Desert"],
+    "uniqueTo": "Kongo",
+    "turnsToBuild": 7,
+    "production": 1,
+    "uniques": ["Can be built outside your borders","Cannot be built on [Bonus resource] tiles",
+      "Cost [2] [Gold] per turn","Does not need removal of [Forest]","Does not need removal of [Jungle]"]
+  }
+]
