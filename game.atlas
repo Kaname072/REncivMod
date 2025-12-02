@@ -144,6 +144,13 @@ BuildingIcons/Royal Library
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Kilombo
+  rotate: false
+  xy: 0, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Poisoned
   rotate: false
   xy: 200, 400
