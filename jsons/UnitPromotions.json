@@ -1,11 +1,11 @@
 [
   {
     "name": "Kilombo Warrior",
-    "uniques": ["[This Unit] gains [10] XP <upon ending a turn in a [Kilombo] tile> <with [33]% chance>"]
+    "uniques": ["[This Unit] gains [8] XP <upon ending a turn in a [Kilombo] tile> <every [2] turns>"]
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] takes [15] damage <upon turn start>","[-5]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [15] damage <when above [15] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
   },
   {
     "name": "Buffalo Chest",
@@ -13,7 +13,7 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[+25]% Strength <when attacking> <when fighting in [Friendly Land] tiles>"]
+    "uniques": ["[+15]% Strength <when attacking> <when fighting in [Friendly Land] tiles>"]
   },
   {
     "name": "Poison Arrow",
