@@ -5,7 +5,7 @@
     "uniqueTo": "Kongo",
     "turnsToBuild": 7,
     "production": 1,
-    "uniques": ["Can be built outside your borders","Cannot be built on [Bonus resource] tiles",
-      "Cost [2] [Gold] per turn","Does not need removal of [Forest]","Does not need removal of [Jungle]"]
+    "uniques": ["Can be built outside your borders","Cannot be built on [Bonus resource] tiles","[+2 Culture] <after discovering [Drama and Poetry]>",
+      "Costs [2] [Gold] per turn","Cannot be built on [Land] tiles <with [1] to [2] neighboring [Kilombo] tiles>","Does not need removal of [Forest]","Does not need removal of [Jungle]"]
   }
 ]
