@@ -1,7 +1,7 @@
 [
   {
     "name": "Kilombo Warrior",
-    "uniques": ["[This Unit] gains [8] XP <upon ending a turn in a [Kilombo] tile> <every [2] turns>"]
+    "uniques": ["[This Unit] gains [15] XP <upon ending a turn in a [Kilombo] tile> <every [3] turns>"]
   },
   {
     "name": "Poisoned",
