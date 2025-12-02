@@ -1,16 +1,5 @@
 [
 	{
-		"name": "Samba School",
-		"uniqueTo": "Brazil",
-		"replaces": "Amphitheater",
-		"culture": 3,
-		"specialistSlots": {"Artist": 1},
-		"requiredBuilding": "Monument",
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"requiredTech": "Drama and Poetry"
-	},
-	{
 		"name": "Ikanda",
 		"uniqueTo": "Zulu",
 		"replaces": "Barracks",
@@ -27,19 +16,6 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [10] XP [in this city]"],
 		"requiredTech": "Writing"
-	},
-	{
-		"name": "M'Banza",
-		"uniqueTo": "Kongo",
-		"replaces": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 5,
-		"cityStrength": 2.5,
-		"cost": 0,
-		"uniques": ["Indicates the capital city"]
 	},
 	{
 		"name": "Sankore University",
