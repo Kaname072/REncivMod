@@ -25,7 +25,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"uniques": ["[+33]% Strength <when defending> <vs [Land] units>","Ignores terrain cost"],
+		"uniques": ["[+25]% Strength <when defending> <vs [Land] units>"],
 		"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
