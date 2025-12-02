@@ -1,7 +1,7 @@
 [
   {
     "name": "Kilombo Warrior",
-    "uniques": ["[This Unit] gains [15] XP <upon ending a turn in a [Kilombo] tile> <every [3] turns>"]
+    "uniques": ["Free [Kongo Shieldman] appears <upon defeating a [Barbarian] unit> <before discovering [Iron Working]>","[This Unit] gains [5] XP <upon ending a turn in a [Kilombo] tile> <every [3] turns>","[+25]% Strength <when defending> <in [Kilombo] tiles>"]
   },
   {
     "name": "Poisoned",
