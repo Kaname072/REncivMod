@@ -1,7 +1,7 @@
 [
   {
-    "name": "[Kongo Warrior] ability",
-    "uniques": ["[+33]% Strength <when defending> <vs [Land] units>"]
+    "name": "Kilombo Warrior",
+    "uniques": ["[This Unit] gains [7] XP <upon ending a turn in a [Kilombo] tile>"]
   },
   {
     "name": "Poisoned",
