@@ -5,7 +5,7 @@
     "uniqueTo": "Kongo",
     "turnsToBuild": 5,
     "production": 1,
-    "uniques": ["Can be built outside your borders","Cannot be built on [resource] tiles <hidden from users>","[+2 Culture] <after discovering [Drama and Poetry]>","Unpillagable","Unbuildable <for [Civilian] units> <hidden from users>",
-      "Costs [1] [Gold] per turn","Cannot be built on [Land] tiles <with [1] to [2] neighboring [Kilombo] tiles>","Does not need removal of [Forest] <hidden from users>","Does not need removal of [Jungle] <hidden from users>"]
+    "uniques": ["Can be built just outside your borders","Cannot be built on [resource] tiles <hidden from users>","[+2 Culture] <after discovering [Drama and Poetry]>","Unpillagable","Unbuildable <for [Civilian] units> <hidden from users>",
+      "Cannot be built on [Land] tiles <with [1] to [2] neighboring [Kilombo] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Friendly Land] tiles>","Cannot be built on [Coastal] tiles","Does not need removal of [Forest] <hidden from users>","Does not need removal of [Jungle] <hidden from users>"]
   }
 ]
