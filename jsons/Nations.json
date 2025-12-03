@@ -24,7 +24,7 @@
 		"innerColor": [0,112,36],
 		"uniqueName": "Smoking Snakes",
 		"uniques": ["[Great Artist] is earned [50]% faster",
-			"[+20]% Production when constructing [{Military} {Land}] units <when at war>",
+			"[+20]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
 			"No damage penalty for wounded units <for [Air] units>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
@@ -54,8 +54,7 @@
 		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
 		"uniques": ["[+1 Faith] from each Trade Route",
-			"Earn [75]% of killed [Military] unit's [Strength] as [Gold]",
-		    "[+2 Gold] [in all coastal cities]"],
+			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
@@ -82,7 +81,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-20]% Strength <for [{Enemy} {Military}] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+25]% [Culture] from every [Temple]",
+			"[-15]% Strength <for [{Enemy} {Military}] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -202,7 +202,7 @@
 		"innerColor": [255,216,0],
 		"uniqueName": "Crusades",
 		"uniques": ["[Faith] cost of purchasing items in cities [-50]%",
-			"[+1 Faith] [in cities with a garrison]",
+			"[+1 Faith] [in all cities with a garrison]",
 			"Units in cities cost no Maintenance"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
