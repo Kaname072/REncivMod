@@ -22,9 +22,10 @@
 
 		"outerColor": [53,199,9],
 		"innerColor": [0,112,36],
-		"uniqueName": "Carnival",
-		"uniques": ["[+100]% [Culture] [in this city] <during We Love The King Day>",
-			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
+		"uniqueName": "Smoking Snakes",
+		"uniques": ["[Great Artist] is earned [50]% faster",
+			"[-50]% maintenance costs <for [Air] units>",
+			"No damage penalty for wounded units <for [Air] units>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
