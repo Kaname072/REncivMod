@@ -17,16 +17,17 @@
 	{
 		"name": "Kongo Shieldman",
 		"uniqueTo": "Kongo",
-		"replaces": "Warrior",
+		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques": ["Can instantly construct a [Kilombo] improvement <by consuming this unit>"],
-		"promotions": ["Kilombo Warrior"],
-		"attackSound": "nonmetalhit"
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"promotions": ["[Kongo Shieldman] ability","Cover I"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when defending>"],
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Rosiori",
@@ -86,6 +87,23 @@
 		"uniques": ["[+25]% Strength <vs [Gunpowder] units>","[+1] additional attacks per turn","[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Templar",
+		"uniqueTo": "Jerusalem",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"uniques": ["[+15]% Strength <when stacked with a [Missionary] unit>",
+			"[+25]% Strength <when stacked with a [Great Prophet] unit>"],
+		"promotions": ["Crusades"],
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
 	{
