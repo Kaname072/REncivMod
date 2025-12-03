@@ -175,5 +175,33 @@
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",
 			"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
+	},
+	{
+		"name": "Jerusalem",
+		"leaderName": "Baldwin IV",
+		"adjective": ["Jerusalemite"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Baldwin IV",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May god have mercy on your evil soul.",
+		"defeated": "I for one welcome our new conquer overlord!",
+		"introduction": "Greetings.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you?",
+
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+		"outerColor": [255,255,230],
+		"innerColor": [255,216,0],
+		"uniqueName": "Crusades",
+		"uniques": [""],
+		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
+		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
 ]
