@@ -179,6 +179,13 @@ UnitPromotionIcons/Poison Arrow
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Fatherland Volunteer
+  rotate: false
+  xy: 0, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Buffalo Chest
   rotate: false
   xy: 800, 200
