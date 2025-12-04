@@ -22,9 +22,5 @@
   {
     "name": "Crusader",
     "uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>","May enter foreign tiles without open borders <in cities following our religion>"]
-  },
-  {
-    "name": "Fatherland Volunteer",
-    "uniques": ["[-100]% maintenance costs <when not at war>"]
   }
 ]
