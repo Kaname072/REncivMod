@@ -1,7 +1,7 @@
 [
   {
     "name": "[Kongo Shieldman] ability",
-    "uniques": ["Ignores Zone of Control","[This Unit] gains [3] XP <upon ending a turn in a [Foreign Land] tile>"]
+    "uniques": ["[This Unit] gains [5] XP <upon ending a turn in a [Forest] tile> <every [3] turns>","[+1] Sight <in [Forest] tiles>"]
   },
   {
     "name": "Poisoned",
