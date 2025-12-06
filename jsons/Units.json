@@ -26,7 +26,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"promotions": ["[Kongo Shieldman] ability","Cover I"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+25]% Strength <when defending>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Ignores Zone of Control","[+20]% Strength <when defending>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -95,8 +95,8 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 21,
-		"uniques": ["[+15]% Strength <when stacked with a [Missionary] unit>",
-			"[+25]% Strength <when stacked with a [Great Prophet] unit>"],
+		"uniques": ["[+10]% Strength <when stacked with a [Missionary] unit>",
+			"[+20]% Strength <when stacked with a [Great Prophet] unit>"],
 		"promotions": ["Crusader"],
 		"cost": 120,
 		"requiredTech": "Steel",
@@ -111,14 +111,14 @@
 		"replaces": "Catapult",
 		"unitType": "Siege",
 		"movement": 2,
-		"strength": 9,
+		"strength": 10,
 		"cost": 75,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"promotions": ["Cover I"],
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "[+50]% Strength bonus for [Military] units within [1] tiles", "No defensive terrain bonus",
-			"Can only attack [City] units", "[-1] Sight"],
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength bonus for [Military] units within [1] tiles", "No defensive terrain bonus",
+			"Can only attack [City] units", "[+1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
 	}
