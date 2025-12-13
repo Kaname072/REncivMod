@@ -39,5 +39,14 @@
 		"happiness": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
+	},
+	{
+		"name": "Painted Monastery",
+		"uniqueTo": "Romania",
+		"replaces": "Garden",
+		"uniques": ["[+2 Culture, +1 Faith] from [Luxury resource] tiles [in this city]","[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
 	}
 ]
