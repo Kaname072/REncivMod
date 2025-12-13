@@ -53,8 +53,7 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
-		"uniques": ["[+1 Faith] from each Trade Route",
-			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
@@ -81,8 +80,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+25]% [Culture] from every [Temple]",
-			"[-15]% Strength <for [{Enemy} {Military}] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+15]% Strength <vs [Wounded] units> <when attacking>",
+			"[+15]% Strength <for [non-[Wounded]] units> <when attacking>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -110,8 +109,8 @@
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
 		"uniqueName": "Mansa Richness",
-		"uniques": ["[+1 Gold] from every [Strategic resource]",
-			"[+2 Gold] from every [Luxury resource]",
+		"uniques": ["[+2 Gold] from every [Strategic resource]",
+			"[+1 Gold] from every [Luxury resource]",
 			"[-50]% maintenance costs <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -201,10 +200,9 @@
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
-		"uniqueName": "Crusades",
+		"uniqueName": "Holy Land",
 		"uniques": ["[Faith] cost of purchasing items in cities [-50]%",
-			"[+1 Faith] [in all cities with a garrison]",
-			"Units in cities cost no Maintenance"],
+			"[+2 Faith] [in all cities with a garrison]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
