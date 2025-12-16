@@ -82,8 +82,9 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+2] Sight <for [City]>",
-			"[-33]% Enemy spy effectiveness"],
+		"uniques": ["[+25]% Strength <vs [Wounded] units>",
+			"[+33]% spy effectiveness",
+			"[-33]% enemy spy effectiveness"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
