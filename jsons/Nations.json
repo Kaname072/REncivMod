@@ -82,9 +82,9 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+25]% Strength <vs [Wounded] units>",
-			"[+33]% spy effectiveness",
-			"[-33]% enemy spy effectiveness"],
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
+			"[+33]% spy effectiveness [in all cities]",
+			"[-33]% enemy spy effectiveness [in all cities]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
