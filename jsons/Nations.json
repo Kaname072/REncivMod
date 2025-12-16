@@ -52,11 +52,11 @@
 
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
-		"uniqueName": "Slave Commerce",
+		"uniqueName": "Enslave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold] <before the [Industrial era]>",
-		"[+1 Production] per [5] population [in all cities] <before the [Industrial era]>",
-		"[+1 Happiness] [in all cities] <starting from the [Industrial era]>"],
-		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
+		"[+2 Happiness] [in all cities] <starting from the [Industrial era]>"],
+		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
+		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
 	{
 		"name": "Romania",
@@ -82,8 +82,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <vs [Wounded] units> <when attacking>",
-			"[+15]% Strength <for [non-[Wounded]] units> <when attacking>"],
+		"uniques": ["[+2] Sight <for [City]>",
+			"[-33]% Enemy spy effectiveness"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -111,8 +111,8 @@
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
 		"uniqueName": "Mansa Richness",
-		"uniques": ["[+2 Gold] from every [Strategic resource]",
-			"[+1 Gold] from every [Luxury resource]",
+		"uniques": ["[+2 Gold] [in all cities] <with [1] to [2] neighboring [Luxury resource] tiles>",
+			"[+4 Gold] [in all cities] <with [3] to [4] neighboring [Luxury resource] tiles>",
 			"[-50]% maintenance costs <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
