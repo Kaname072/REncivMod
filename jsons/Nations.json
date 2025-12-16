@@ -53,7 +53,7 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Gain [25]-[50] [Gold] <upon defeating a [Wounded] unit>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
