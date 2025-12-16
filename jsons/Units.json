@@ -25,8 +25,8 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions": ["[Kongo Shieldman] ability","Cover I"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Ignores Zone of Control","[+20]% Strength <when defending>"],
+		"promotions": ["[Kongo Shieldman] ability"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","Ignores Zone of Control","[+25]% Strength <when defending>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -95,8 +95,8 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 21,
-		"uniques": ["[+10]% Strength <when stacked with a [Missionary] unit>",
-			"[+20]% Strength <when stacked with a [Great Prophet] unit>"],
+		"uniques": ["[+15]% Strength <when stacked with a [Missionary] unit>",
+			"[+25]% Strength <when stacked with a [Great Prophet] unit>"],
 		"promotions": ["Crusader"],
 		"cost": 120,
 		"requiredTech": "Steel",
