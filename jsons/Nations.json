@@ -53,7 +53,9 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Slave Commerce",
-		"uniques": ["Gain [25]-[50] [Gold] <upon defeating a [Wounded] unit>"],
+		"uniques": ["[+1] population in a random city <upon defeating a [Wounded] unit> <before the [Industrial era]>",
+		"[+1 Production] per [5] population [in all cities] <before the [Industrial era]>",
+		"[+2 Happiness] [in all cities] <after the [Industrial era]>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo"]
 	},
 	{
