@@ -1,7 +1,7 @@
 [
   {
     "name": "[Kongo Shieldman] ability",
-    "uniques": ["[This Unit] gains [5] XP <upon ending a turn in a [Forest] tile> <every [3] turns>","[+1] Sight <in [Forest] tiles>"]
+    "uniques": ["[+1] Movement <in [Forest] tiles>","[+1] Movement <in [Jungle] tiles>"]
   },
   {
     "name": "Poisoned",
@@ -13,7 +13,7 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[+15]% Strength <when attacking> <when fighting in [Friendly Land] tiles>"]
+    "uniques": ["[This Unit] gains [2] XP <upon turn end> <when at war>"]
   },
   {
     "name": "Poison Arrow",
