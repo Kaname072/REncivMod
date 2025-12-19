@@ -5,7 +5,7 @@
   },
   {
     "name": "Poisoned",
-    "uniques": ["[This Unit] takes [15] damage <when above [10] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
+    "uniques": ["[This Unit] takes [10] damage <when above [10] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
   },
   {
     "name": "Buffalo Chest",
@@ -13,7 +13,7 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[This Unit] gains [2] XP <upon turn end> <when at war>"]
+    "uniques": ["[This Unit] gains [3] XP <upon turn end> <when at war>"]
   },
   {
     "name": "Poison Arrow",
