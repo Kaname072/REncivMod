@@ -53,8 +53,7 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Enslave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold] <before the [Industrial era]>",
-		"[+2 Happiness] [in all cities] <starting from the [Industrial era]>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -82,9 +81,10 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <while the empire is happy>",
-			"[+33]% spy effectiveness [in all cities]",
-			"[-33]% enemy spy effectiveness [in all cities]"],
+		"uniques": ["[+1 Culture] from every [Walls]",
+		"[+1 Culture] from every [Castle]",
+		"[+2 Culture] from every [Arsenal]",
+		"[+2 Culture] from every [Military Base]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
