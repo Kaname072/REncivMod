@@ -30,21 +30,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Volunteer",
-		"uniqueTo": "Brazil",
-		"replaces": "Musketman",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 24,
-		"cost": 150,
-		"uniques": ["Can move immediately once bought"],
-		"promotions": ["March"],
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"attackSound": "shot"
-	},
-	{
 		"name": "Dorobanti",
 		"uniqueTo": "Romania",
 		"replaces": "Musketman",
@@ -89,14 +74,13 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Templar",
+		"name": "Templar Knight",
 		"uniqueTo": "Jerusalem",
 		"replaces": "Longswordsman",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 21,
-		"uniques": ["[+15]% Strength <when stacked with a [Missionary] unit>",
-			"[+25]% Strength <when stacked with a [Great Prophet] unit>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Crusader"],
 		"cost": 120,
 		"requiredTech": "Steel",
@@ -104,22 +88,5 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
-	},
-	{
-		"name": "Siege Tower",
-		"uniqueTo": "Assyria",
-		"replaces": "Catapult",
-		"unitType": "Siege",
-		"movement": 2,
-		"strength": 10,
-		"cost": 75,
-		"requiredTech": "Mathematics",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
-		"promotions": ["Cover I"],
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength bonus for [Military] units within [1] tiles", "No defensive terrain bonus",
-			"Can only attack [City] units", "[+1] Sight"],
-		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit"
 	}
 ]
