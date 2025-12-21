@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Baldwin IV",
+    "production": 6,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 7,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 7,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 3,
+      "Commerce": 5,
+      "Patronage": 6,
+      "Piety": 8,
+      "Rationalism": 6,
+      "Freedom": 9,
+      "Autocracy": 4,
+      "Order": 5
+    }
+  },
+  {
+    "name": "Vlad III",
+    "production": 7,
+    "food": 4,
+    "gold": 6,
+    "science": 5,
+    "culture": 8,
+    "happiness": 5,
+    "faith": 7,
+    "military": 8,
+    "aggressive": 6,
+    "declareWar": 5,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 6,
+    "expansion": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 8,
+      "Commerce": 3,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 7,
+      "Autocracy": 6,
+      "Order": 5
+    }
+  }
+]
