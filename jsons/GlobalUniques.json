@@ -1,6 +1,6 @@
 [
   {
     "name": "Romanian Uniques",
-    "uniques": "[-15]% Strength <for [{Military} {non-[Romanian]}] units> <when fighting in [Romanian] tiles>"]
+    "uniques": ["[-15]% Strength <for [{Military} {non-[Romanian]}] units> <when fighting in [Romanian] tiles>"]
   }
 ]
