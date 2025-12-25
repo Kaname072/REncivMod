@@ -81,7 +81,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-100]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"uniques": ["[-100]% Unhappiness from [Population] [in all cities] <when at war>",
+		"[-50]% enemy spy effectiveness [in all cities]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -110,7 +111,7 @@
 		"innerColor": [255,204,0],
 		"uniqueName": "Mansa Richness",
 		"uniques": ["[+2 Gold] [in all cities] <with [1] to [2] neighboring [Luxury resource] tiles>",
-			"[+5 Gold] [in all cities] <with [3] to [4] neighboring [Luxury resource] tiles>",
+			"[+3 Gold] [in all cities] <with [3] to [4] neighboring [Luxury resource] tiles>",
 			"[-50]% maintenance costs <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
