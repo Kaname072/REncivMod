@@ -13,7 +13,7 @@
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
-		"introduction": "Greetings.",
+		"introduction": "Hello, I am Pedro II of Brazil. It seems that brilliant minds are destined to meet.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
@@ -43,7 +43,7 @@
 		"declaringWar": "My patience is over!",
 		"attacked": "You hurt me! we never forget this!",
 		"defeated": "My people never will accept you crown!",
-		"introduction": "Greetings.",
+		"introduction": "Kongo King! You seem kind, Faith brother.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
@@ -53,7 +53,9 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"uniqueName": "Enslave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+			"[-100]% Maintenance costs for [Harbor] buildings [in all cities]",
+			"Gain a free [Kulumbimbi] [in capital] <upon discovering [Construction] technology>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -71,7 +73,7 @@
 		"declaringWar": "Prepare your neck, this is war!",
 		"attacked": "You dont have sense of you're are doing!",
 		"defeated": "Please, dont touch in the monasteries...",
-		"introduction": "Greetings.",
+		"introduction": "Don't try to threaten Romania, I am the Dracula you've heard so much about!",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What?",
@@ -81,7 +83,7 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["Earn [+50]% of killed [Military] unit's [Strength] as [Golden Age points]"],
+		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -99,7 +101,7 @@
 		"declaringWar": "You dont have spiritual abundance! i will show how to make a true nation for you people!",
 		"attacked": "This have a price! and you will pay!",
 		"defeated": "Ok, you win. Stay with my richness, i dont care.",
-		"introduction": "Greetings.",
+		"introduction": "Hey! My eyes are right here! My gold is just a detail.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
@@ -111,7 +113,7 @@
 		"uniqueName": "Mansa Richness",
 		"uniques": ["[+2 Gold] [in all cities] <with [1] to [2] neighboring [Luxury resource] tiles>",
 			"[+3 Gold] [in all cities] <with [3] to [4] neighboring [Luxury resource] tiles>",
-			"[-50]% maintenance costs <for [Mounted] units>"],
+			"[-33]% maintenance costs <for [Mounted] units>"],
 		"cities": ["Nyeni","Timbuktu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -160,7 +162,7 @@
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
-		"introduction": "Greetings.",
+		"introduction": "Baldwin IV, King of the Holy Kingdom. You seem to have a lot of faith in your hands.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
