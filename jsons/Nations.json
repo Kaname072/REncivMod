@@ -81,8 +81,8 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-100]% Unhappiness from [Population] [in all cities] <when at war>",
-		"[-50]% enemy spy effectiveness [in all cities]"],
+		"uniques": ["[-50]% Unhappiness from [Population] [in all cities] <when at war>",
+		"Earn [+50]% of killed [Military] unit's [Cost] as [Happiness]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
