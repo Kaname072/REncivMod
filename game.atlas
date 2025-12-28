@@ -39,13 +39,6 @@ NationIcons/Zulu
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Assyria
-  rotate: false
-  xy: 1000, 0
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Jerusalem
   rotate: false
   xy: 1200, 0
@@ -53,7 +46,7 @@ NationIcons/Jerusalem
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Templar
+UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
   size: 200, 200
@@ -102,13 +95,6 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Siege Tower
-  rotate: false
-  xy: 1000, 200
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Samba School
   rotate: false
   xy: 200, 200
@@ -137,21 +123,14 @@ BuildingIcons/Ikanda
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/M'Banza
+BuildingIcons/Kulumbimbi
   rotate: false
   xy: 0, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Royal Library
-  rotate: false
-  xy: 1000, 400
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Kilombo
+ImprovementIcons/a
   rotate: false
   xy: 0, 200
   size: 200, 200
