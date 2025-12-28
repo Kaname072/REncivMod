@@ -33,7 +33,7 @@
 		"name": "Kongo",
 		"leaderName": "Mvemba a Nzinga",
 		"adjective": ["Kongolese"],
-		"startBias": ["Forest","Coast"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Diplomatic",
 		"personality": "Mvemba a Nzinga",
 
@@ -81,8 +81,7 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-50]% Unhappiness from [Population] [in all cities] <when at war>",
-		"Earn [+100]% of killed [Military] unit's [Cost] as [Golden Age points]"],
+		"uniques": ["Earn [+50]% of killed [Military] unit's [Strength] as [Golden Age points]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
