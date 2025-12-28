@@ -56,5 +56,63 @@
       "Autocracy": 6,
       "Order": 5
     }
+  },
+  {
+    "name": "Mvemba a Nzinga",
+    "production": 8,
+    "food": 6,
+    "gold": 9,
+    "science": 6,
+    "culture": 7,
+    "happiness": 4,
+    "faith": 7,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 7,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 5,
+      "Honor": 9,
+      "Commerce": 7,
+      "Patronage": 3,
+      "Piety": 6,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 7,
+      "Order": 4
+    }
+  },
+  {
+    "name": "Mansa Musa",
+    "production": 6,
+    "food": 5,
+    "gold": 10,
+    "science": 7,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 6,
+    "military": 7,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 7,
+      "Honor": 6,
+      "Commerce": 7,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 9,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 7
+    }
   }
 ]
