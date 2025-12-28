@@ -22,12 +22,13 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "M'Banza",
+		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Colosseum",
 		"maintenance": 0,
-		"culture": 3,
+		"faith": 2,
 		"happiness": 2,
+		"uniques": ["All newly-trained [Missionary] units [in this city] receive the [Ancestry] promotion"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
