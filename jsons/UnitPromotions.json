@@ -13,7 +13,7 @@
   },
   {
     "name": "[Dorobanti] ability",
-    "uniques": ["[This Unit] gains [3] XP <upon turn end> <when at war>"]
+    "uniques": ["[This Unit] gains [10] XP <upon turn end> <during a Golden Age>"]
   },
   {
     "name": "Poison Arrow",
