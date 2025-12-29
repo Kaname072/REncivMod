@@ -22,10 +22,10 @@
 
 		"outerColor": [53,199,9],
 		"innerColor": [0,112,36],
-		"uniqueName": "Fatherland Volunteers",
-		"uniques": ["[Great Artist] is earned [50]% faster",
-			"[+50]% [Culture] [in all cities] <during a Golden Age>",
-			"No damage penalty for wounded units <for [Air] units>"],
+		"uniqueName": "Carnival",
+		"uniques": ["[Great Artist] is earned [50]% faster <while the empire is happy>",
+			"Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
+			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
 			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
 	},
@@ -54,7 +54,7 @@
 		"innerColor": [234,0,0],
 		"uniqueName": "Enslave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[-100]% Maintenance cost for [Harbor] buildings [in all cities]",
+			"[-100]% Maintenance cost for [Harbor] buildings [in all coastal cities]",
 			"Gain a free [Kulumbimbi] [in capital] <upon discovering [Construction] technology>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
@@ -83,7 +83,7 @@
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points]"],
+		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
