@@ -95,9 +95,9 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Samba School
+BuildingIcons/Crusades Hospital
   rotate: false
-  xy: 200, 200
+  xy: 1200, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -130,7 +130,7 @@ BuildingIcons/Kulumbimbi
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/a
+ImprovementIcons/Brazilwood Camp
   rotate: false
   xy: 0, 200
   size: 200, 200
