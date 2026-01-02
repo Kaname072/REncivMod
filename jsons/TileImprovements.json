@@ -6,7 +6,7 @@
 	  "production": 2,
 	  "turnsToBuild": 7,
 	  "techRequired": "Machinery",
-	  "uniques": ["[+2 Culture] <after discovering [Currency]>",
+	  "uniques": ["[+2 Culture] <after discovering [Acoustics]>",
 		  "[+2 Gold] <after adopting [Commerce]>",
 		  "Cannot be built on [Bonus resource] tiles",
 		  "Cannot be built on [Luxury resource] tiles",
