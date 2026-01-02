@@ -9,7 +9,7 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"promotions": ["Great Generals II"],
-		"uniques": ["[+15]% Strength <when fighting in [Foreign Land] tiles>"],
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
@@ -32,15 +32,16 @@
 	{
 		"name": "Dorobanti",
 		"uniqueTo": "Romania",
-		"replaces": "Musketman",
+		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 24,
-		"cost": 150,
+		"strength": 34,
+		"cost": 225,
 		"promotions": ["[Dorobanti] ability"],
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"uniques": ["[+20]% Strength <when fighting in [Friendly Land]>"],
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{
@@ -54,7 +55,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"promotions": ["Poison Arrow"],
-		"uniques": ["Can move immediately once bought"],
+		"uniques": ["Can transform to [Scout]","Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
