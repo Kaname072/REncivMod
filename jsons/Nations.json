@@ -172,7 +172,7 @@
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
 		"uniqueName": "Holy Land",
-		"uniques": ["[Faith] cost of purchasing items in cities [-50]%"],
+		"uniques": ["[+25]% Production when constructing [Faith] buildings [in all cities]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
