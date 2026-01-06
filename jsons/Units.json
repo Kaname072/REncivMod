@@ -45,7 +45,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Sofa Archer",
+		"name": "Sofa Skirmisher",
 		"uniqueTo": "Mali",
 		"replaces": "Archer",
 		"unitType": "Archery",
@@ -54,7 +54,7 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"promotions": ["Ignore terrain cost"],
+		"promotions": ["Versatility"],
 		"uniques": ["[-100]% maintenance costs","Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
