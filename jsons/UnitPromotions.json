@@ -21,6 +21,6 @@
   },
   {
     "name": "Versatility",
-    "uniques": ["[+33]% Strength <when adjacent to a [Enemy] unit>"],
+    "uniques": ["[+33]% Strength <when adjacent to a [Enemy] unit>","[+33]% Strength <when adjacent to a [Barbarian] unit>"],
   }
 ]
