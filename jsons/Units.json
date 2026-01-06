@@ -54,8 +54,8 @@
 		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"promotions": ["Poison Arrow"],
-		"uniques": ["Can transform to [Scout]","Can move immediately once bought"],
+		"promotions": ["Ignore terrain cost"],
+		"uniques": ["[-100]% maintenance costs","Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
