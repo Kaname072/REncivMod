@@ -67,7 +67,7 @@ UnitIcons/Kongo Shieldman
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sofa Archer
+UnitIcons/Sofa Skirmisher
   rotate: false
   xy: 600, 200
   size: 200, 200
