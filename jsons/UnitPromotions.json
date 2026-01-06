@@ -3,10 +3,8 @@
     "name": "[Kongo Shieldman] ability",
     "uniques": ["[+1] Movement <in [Forest] tiles>","[+1] Movement <in [Jungle] tiles>"]
   },
-  {
-    "name": "Poisoned",
-    "uniques": ["[This Unit] takes [10] damage <when above [10] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
-  },
+    ////"name": "Poisoned",////unused
+    ////"uniques": ["[This Unit] takes [10] damage <when above [10] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
   {
     "name": "Buffalo Chest",
     "uniques": ["[+15]% Strength <when defending>"]
@@ -15,10 +13,8 @@
     "name": "[Dorobanti] ability",
     "uniques": ["[This Unit] gains [10] XP <upon turn end> <during a Golden Age>"]
   },
-  {
-    "name": "Poison Arrow",
-    "uniques": ["[Target Unit] gains the [Poisoned] status for [4] turn(s) <when attacking> <upon damaging a [{non-[Poisoned]} {Land}] unit>"]
-  },
+    ////"name": "Poison Arrow",////unused
+    ////"uniques": ["[Target Unit] gains the [Poisoned] status for [4] turn(s) <when attacking> <upon damaging a [{non-[Poisoned]} {Land}] unit>"]
   {
     "name": "Crusader",
     "uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles> <in cities with a [foreign] religion>","May enter foreign tiles without open borders <in cities following our religion>"]
