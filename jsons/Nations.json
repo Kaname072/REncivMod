@@ -86,7 +86,8 @@
 		"innerColor": [51,139,95],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>"],
+		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>",
+		"Gain [50] [Golden Age points] <upon founding a city>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -176,9 +177,8 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+50]% Production when constructing [Temple] buildings [in all cities]",
-			"[+100]% Yield from every [Holy site"],
+		"uniques": ["[+2 Faith] from each Trade Route",
+			"[+100]% Yield from every [Holy site]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
