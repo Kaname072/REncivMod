@@ -110,9 +110,8 @@
 
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
-		"uniqueName": "The Great Pilgrimage",
-		"uniques": ["No movement cost to pillage <for [Mounted] units>",
-			"Double movement in [City-State] <for [Civilian] units>",
+		"uniqueName": "Mansa's Richness",
+		"uniques": ["[+2 Gold] from every [{Luxury resource} {Improvement}]",
 			"[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
