@@ -22,6 +22,7 @@
 
 		"outerColor": [53,199,9],
 		"innerColor": [0,112,36],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Carnival",
 		"uniques": ["[Great Artist] is earned [50]% faster <while the empire is happy>",
 			"Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
@@ -52,6 +53,7 @@
 
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Enslave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
 			"[-100]% maintenance cost for [Harbor] buildings [in all coastal cities]",
@@ -82,6 +84,7 @@
 
 		"outerColor": [104,3,13],
 		"innerColor": [51,139,95],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
@@ -110,8 +113,9 @@
 
 		"outerColor": [216,1,65],
 		"innerColor": [255,204,0],
-		"uniqueName": "Mansa's Richness",
-		"uniques": ["[+2 Gold] from every [{Luxury resource} {Improvement}]",
+		"favoredReligion": "Islam",
+		"uniqueName": "Mansas Richness",
+		"uniques": ["[+2 Gold] from every [{Improvement} {Luxury resource}]",
 			"[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -170,8 +174,11 @@
 
 		"outerColor": [255,255,230],
 		"innerColor": [255,216,0],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+25]% Production when constructing [Faith] buildings [in all cities]"],
+		"uniques": ["[+50]% Production when constructing [Shrine] buildings [in all cities]",
+            "[+50]% Production when constructing [Temple] buildings [in all cities]",
+			"[+100]% Yield from every [Holy site"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
