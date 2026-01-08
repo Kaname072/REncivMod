@@ -165,3 +165,10 @@ TileSets/FantasyHex/Units/Templar Knight
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Dorobanti
+  rotate: false
+  xy: 47, 837
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
