@@ -36,8 +36,9 @@
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
 		"replaces": "Garden",
-		"culture": 2,
-		"uniques": ["[+3 Culture] from [Luxury resource] tiles [in this city]","Must be next to [Mountain]","[+25]% Great Person generation [in this city]"],
+		"happiness": 2,
+		"percentStatBonus": {"culture": 10},
+		"uniques": ["Must be next to [Mountain]","[+25]% Great Person generation [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
