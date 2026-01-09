@@ -6,8 +6,8 @@
     "uniques": ["[+15]% Strength <when defending>"]
   },
   {
-    "name": "[Dorobanti] ability",
-    "uniques": ["[This Unit] gains [12] XP <upon turn end> <during a Golden Age>"]
+    "name": "[Dorobanți] ability",
+    "uniques": ["Can move after attacking"]
   },
     ////"name": "Poison Arrow",////unused
     ////"uniques": ["[Target Unit] gains the [Poisoned] status for [4] turn(s) <when attacking> <upon damaging a [{non-[Poisoned]} {Land}] unit>"]
