@@ -74,7 +74,7 @@ UnitIcons/Sofa Skirmisher
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Dorobanti
+UnitIcons/Dorobanți
   rotate: false
   xy: 200, 600
   size: 200, 200
@@ -165,7 +165,7 @@ TileSets/FantasyHex/Units/Templar Knight
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Dorobanti
+TileSets/FantasyHex/Units/Dorobanți
   rotate: false
   xy: 47, 837
   size: 32, 28
