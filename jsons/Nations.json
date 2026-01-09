@@ -86,7 +86,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>",
-			"Empire enters a [4]-turn golden age <upon gaining a [Great General] unit>",
+			"[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
 			"Comment [Enemy Land Units loses -10% Strength when fighting in your territory (if they is before Industrial era)]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -117,8 +117,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
 		"uniques": ["[+2 Gold] from every [{Improvement} {Luxury resource}]",
-			"[Great Merchant] is earned [+50]% faster",
-			"[-100]% maintenance costs <for [Sofa Skirmisher] units>"],
+			"[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -179,7 +178,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
 		"uniques": ["[Faith] cost of purchasing items in cities [-33]%",
-			"[+100]% Yield from every [Holy site]"],
+			"[+50]% Yield from every [Holy site]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	}
