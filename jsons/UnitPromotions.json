@@ -17,6 +17,8 @@
   },
   {
     "name": "No Fear",
-    "uniques": ["Ignores Zone of Control"]
+    "uniques": ["Ignores Zone of Control"],
+    "outerColor": [225,0,0],
+    ///"innerColor": [0,0,0]
   }
 ]
