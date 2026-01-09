@@ -146,28 +146,28 @@ UnitPromotionIcons/Buffalo Chest
   index: -1
 TileSets/FantasyHex/Units/Sofa Skirmisher
   rotate: false
-  xy: 5, 836
+  xy: 5, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Kongo Shieldman
   rotate: false
-  xy: 5, 798
+  xy: 5, 799
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Templar Knight
   rotate: false
-  xy: 47, 798
+  xy: 47, 799
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dorobanti
   rotate: false
-  xy: 47, 836
+  xy: 47, 837
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
