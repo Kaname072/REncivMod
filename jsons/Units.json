@@ -22,7 +22,7 @@
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
-		"requiredTech": "Iron Working",
+		"requiredTech": "Bronze Working",
 		"upgradesTo": "Longswordsman",
 		"uniques": ["Ignores Zone of Control","[+100]% Strength <vs [Archery] units> <when defending>"],
 		"obsoleteTech": "Steel",
