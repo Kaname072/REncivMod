@@ -55,9 +55,8 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Enslave Commerce",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-			"[-100]% maintenance cost for [Harbor] buildings [in all coastal cities]",
-			"Gain a free [Kulumbimbi] [in capital] <upon discovering [Construction] technology>"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Gold] <before the [Industrial era]>",
+			"Earn [50]% of killed [Military] unit's [Strength] as [Gold] <starting from the [Industrial era]>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -87,7 +86,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>",
-		"Comment [Enemy Land Units loses -10% Strength when fighting in your territory (if they is before Industrial era)]"],
+			"Empire enters a [4]-turn golden age <upon gaining a [Great General] unit>",
+			"Comment [Enemy Land Units loses -10% Strength when fighting in your territory (if they is before Industrial era)]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -117,7 +117,8 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
 		"uniques": ["[+2 Gold] from every [{Improvement} {Luxury resource}]",
-			"[Great Merchant] is earned [+50]% faster"],
+			"[Great Merchant] is earned [+50]% faster",
+			"[-100]% maintenance costs <for [Sofa Skirmisher] units>"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
