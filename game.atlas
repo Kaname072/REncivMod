@@ -144,6 +144,13 @@ UnitPromotionIcons/Buffalo Chest
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/No Fear
+  rotate: false
+  xy: 200, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Sofa Skirmisher
   rotate: false
   xy: 5, 837
