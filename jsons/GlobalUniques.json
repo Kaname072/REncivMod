@@ -1,5 +1,5 @@
 {
   "name": "Wallachia Dragon",
-  "uniques": ["[-10]% Strength <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles> <before the [Industrial era]>",
+  "uniques": ["[-20]% Strength <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles> <before the [Industrial era]>",
   "[-33]% XP gained from combat <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>"]
 }
