@@ -86,7 +86,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>",
-			"[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
+			"Comment [Enemy Land Units in your territory earn -33% XP from combat]",
 			"Comment [Enemy Land Units loses -10% Strength when fighting in your territory (if they is before Industrial era)]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
