@@ -25,10 +25,10 @@
 		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Colosseum",
-		"maintenance": 0,
-		"faith": 2,
+		"maintenance": 1,
+		"faith": 1,
 		"happiness": 2,
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-25]% <in this city>"],
+		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
 	},
