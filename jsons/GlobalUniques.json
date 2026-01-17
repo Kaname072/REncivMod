@@ -1,5 +1,5 @@
 {
   "name": "Wallachia Dragon",
-  "uniques": ["[-20]% Strength <for [{Military} {Land} {Hostile} {non-[Romania]}] units> <in [Romania] tiles> <before the [Industrial era]>",
-  "No defensive terrain bonus <for [{Military} {Land} {Hostile} {non-[Romania]}] units> <in [Romania] tiles>"]
+  "uniques": ["[-20]% Strength <for [{Military} {Land} {non-[Romania] [Hostile]}] units> <in [Romania] tiles> <before the [Industrial era]>",
+  "No defensive terrain bonus <for [{Military} {Land} {non-[Romania] [Hostile]}] units> <in [Romania] tiles>"]
 }
