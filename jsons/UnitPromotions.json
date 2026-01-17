@@ -20,11 +20,5 @@
     "uniques": ["Ignores Zone of Control"],
     ///"outerColor": [225,0,0],
     "innerColor": [255,0,0]
-  },
-  {
-      "name": "Fear",
-      "uniques": ["No defensive terrain bonus"],
-      ///"outerColor": [225,0,0],
-      "innerColor": [255,0,0]
   }
 ]
