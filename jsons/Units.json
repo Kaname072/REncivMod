@@ -25,7 +25,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"promotions": ["No Fear"],
-		"uniques": ["[+100]% Strength <vs [Archery] units> <when defending>"],
+		"uniques": ["[+50]% Strength <vs [Archery] units>"],
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -33,15 +33,16 @@
 	{
 		"name": "Dorobanți",
 		"uniqueTo": "Romania",
-		"replaces": "Rifleman",
+		"replaces": "Great War Infantry",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 34,
-		"cost": 225,
+		"strength": 50,
+		"cost": 300,
+		"uniques": ["Earn [+200]% of killed [Military] unit's [Strength] as [Golden Age points]"],
 		"promotions": ["[Dorobanți] ability"],
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
 	{
