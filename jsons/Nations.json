@@ -85,8 +85,7 @@
 		"innerColor": [51,139,95],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["Earn [+100]% of killed [Military] unit's [Strength] as [Golden Age points] <when not in a Golden Age>",
-			"When defeating a [Siege] unit, earn [50] Gold and recruit it <with [34]% chance>",
+		"uniques": ["When defeating a [Siege] unit, earn [25] Gold and recruit it <with [66]% chance> <in [Friendly Land] tiles>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus and loses -10% Strength when fighting in your territory (the -10% Strength if they is before Industrial era)]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
