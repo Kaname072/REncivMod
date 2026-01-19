@@ -101,7 +101,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["[+1] population in a random city <upon entering a [Ancient ruins] tile>","May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["[1] population in a random city <upon entering a [Ancient ruins] tile>","May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
 	}
 ]
