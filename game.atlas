@@ -39,6 +39,13 @@ NationIcons/Zulu
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Lusitanian
+  rotate: false
+  xy: 1000, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Jerusalem
   rotate: false
   xy: 1200, 0
@@ -88,6 +95,13 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Iberian Warrior
+  rotate: false
+  xy: 1000, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Crusades Hospital
   rotate: false
   xy: 1200, 600
@@ -119,6 +133,13 @@ BuildingIcons/Ikanda
 BuildingIcons/Kulumbimbi
   rotate: false
   xy: 0, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hillfort
+  rotate: false
+  xy: 1000, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -177,5 +198,47 @@ TileSets/FantasyHex/Units/Dorobanți
   xy: 47, 837
   size: 32, 28
   orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Iberian Warrior
+  rotate: false
+  xy: 5, 875
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Sofa Skirmisher
+  rotate: false
+  xy: 194, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Kongo Shieldman
+  rotate: false
+  xy: 194, 873
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Templar Knight
+  rotate: false
+  xy: 120, 873
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Dorobanți
+  rotate: false
+  xy: 267, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Iberian Warrior
+  rotate: false
+  xy: 120, 808
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
