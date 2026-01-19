@@ -199,11 +199,11 @@
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
-
+		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,255,232],
-		"innerColor": [225,225,194],
+		"outerColor": [129,255,240],
+		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
 		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"],
