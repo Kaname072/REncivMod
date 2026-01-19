@@ -180,5 +180,34 @@
 			"[+50]% Yield from every [Holy site]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
+	},
+	{
+		"name": "Lusitanian",
+		"leaderName": "Viriato",
+		"adjective": ["Lusitanian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Viriato",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your presence bothers us! Prepare for war!!",
+		"attacked": "This is a genuine mistake! you will pay terrible for this!",
+		"defeated": "I was wrong, you are stronger than I thought you were.",
+		"introduction": "Hello, I am Viriato! The general leader of the Lusitanians. You seem to have a warrior spirit.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you?",
+
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+		"outerColor": [255,255,232],
+		"innerColor": [225,225,194],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Lusitanian Heroism",
+		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
+			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
 ]
