@@ -56,11 +56,12 @@
 		"name": "Hillfort",
 		"uniqueTo": "Lusitanian",
 		"replaces": "Castle",
+		"culture": 1,
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Metal Casting",
-		"uniques": ["New [Military] units start with [15] XP [in this city] <before the [Industrial era]>","[+2 Culture] <after discovering [Archaeology]>"]
+		"uniques": ["[+2 Culture] <after discovering [Archaeology]>"]
 	}
 ]
