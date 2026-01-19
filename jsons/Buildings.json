@@ -56,7 +56,6 @@
 		"name": "Hillfort",
 		"uniqueTo": "Lusitanian",
 		"replaces": "Castle",
-		"culture": 1,
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
