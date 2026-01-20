@@ -23,6 +23,6 @@
   },
   {
     "name": "Lusitanian Bravery",
-    "uniques": ["[+10]% Strength <when defending>","No defensive terrain penalty"]
+    "uniques": ["[+25]% Strength <vs [Melee] units> <when defending>","No defensive terrain penalty"]
   }
 ]
