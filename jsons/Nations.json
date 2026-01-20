@@ -202,11 +202,11 @@
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [129,255,240],
+		"outerColor": [255,251,144],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+1 Production] from every [Quarry]","[+15]% Strength <when fighting in [Friendly Land] tiles>","[+25]% Strength for cities <in [Hill] tiles>"],
+		"uniques": ["[+1 Production] from every [Quarry]","[+15]% Strength <when fighting in [Friendly Land] tiles>","Can build [Fort] improvements at a [+25]% rate"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
