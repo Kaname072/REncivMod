@@ -206,7 +206,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>" ,"[+15]% Strength <for [10] turns> <upon losing a city>","Can build [Fort] improvements at a [+25]% rate"],
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>" ,"[+15]% Strength <for [Military] units> <for [10] turns> <upon losing a city>","Can build [Fort] improvements at a [+25]% rate"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
