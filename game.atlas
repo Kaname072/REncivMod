@@ -172,6 +172,13 @@ UnitPromotionIcons/No Fear
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Lusitanian Bravery
+  rotate: false
+  xy: 1000, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Sofa Skirmisher
   rotate: false
   xy: 5, 837
