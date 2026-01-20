@@ -20,5 +20,9 @@
     "uniques": ["Ignores Zone of Control"],
     ///"outerColor": [225,0,0],
     "innerColor": [255,0,0]
+  },
+  {
+    "name": "Lusitanian Bravery",
+    "uniques": ["[+10]% Strength <when defending>","No defensive terrain penalty"]
   }
 ]
