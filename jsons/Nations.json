@@ -185,7 +185,7 @@
 		"name": "Lusitanian",
 		"leaderName": "Viriato",
 		"adjective": ["Lusitanian"],
-		"startBias": ["Hill"],
+		"startBias": ["Forest","Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Viriato",
 
@@ -202,11 +202,11 @@
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,251,144],
+		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+1 Production] from every [Quarry]","[+15]% Strength <when fighting in [Friendly Land] tiles>","Can build [Fort] improvements at a [+25]% rate"],
+		"uniques": ["[+1 Culture] from every [Lumber mill]","[+15]% Strength <when fighting in [Friendly Land] tiles>","Can build [Fort] improvements at a [+25]% rate"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
