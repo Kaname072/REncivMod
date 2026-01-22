@@ -104,7 +104,7 @@ UnitIcons/Iberian Warrior
   index: -1
 BuildingIcons/Crusades Hospital
   rotate: false
-  xy: 1200, 600
+  xy: 1200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
