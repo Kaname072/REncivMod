@@ -54,7 +54,7 @@
 		"outerColor": [255,212,12],
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "The Apostle",
+		"uniqueName": "The Grace Apostle",
 		"uniques": ["[Faith] cost of purchasing [Missionary] units [-50]% <for [10] turn> <upon declaring friendship>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]","[-50]% maintenance costs <for [Ranged] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
@@ -206,7 +206,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>" ,"[+15]% Strength <for [Military] units> <for [10] turns> <upon losing a city>","Can build [Fort] improvements at a [+25]% rate"],
+		"uniques": ["[+30]% Strength <for [Military] units> <for [7] turns> <upon losing a city>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
