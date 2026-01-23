@@ -67,7 +67,7 @@ UnitIcons/Pracinha
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Kongo Shieldman
+UnitIcons/Shield Bearer
   rotate: false
   xy: 400, 200
   size: 200, 200
@@ -186,7 +186,7 @@ TileSets/FantasyHex/Units/Sofa Skirmisher
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Kongo Shieldman
+TileSets/FantasyHex/Units/Shield Bearer
   rotate: false
   xy: 5, 799
   size: 32, 28
@@ -221,7 +221,7 @@ TileSets/HexaRealm/Units/Sofa Skirmisher
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Kongo Shieldman
+TileSets/HexaRealm/Units/Shield Bearer
   rotate: false
   xy: 194, 873
   size: 64, 56
