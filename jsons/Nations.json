@@ -35,7 +35,7 @@
 		"leaderName": "Mvemba a Nzinga",
 		"adjective": ["Kongolese"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 		"personality": "Mvemba a Nzinga",
 
 		"startIntroPart1": "Glory to the Kongo King! Lord Mvemba a Nzinga, or as he became known, Alfonso I. His reign over the Kongo was majestic and sacred. After the war against his brother, the Kongo was converted to Catholicism and expanded its kingdom more than ever before, taking over a large part of West Africa and spreading its immense culture and religion. After his death, the Kongo faced unimaginable challenges to survive and was dismantled and annexed by those who claimed to be our allies.",
@@ -55,7 +55,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-50]% <for [10] turn> <upon declaring friendship>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]","[-50]% maintenance costs <for [Ranged] units>"],
+		"uniques": ["[Faith] cost of purchasing [Missionary] units [-50]% <for [10] turns> <upon declaring friendship>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]","[-50]% maintenance costs <for [Ranged] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -114,8 +114,8 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
-		"uniques": ["[+3 Gold] from every [{Improvement} {Hill} {Luxury resource}]",
-			"[+1 Gold] from every [{Improvement} {non-[Hill]} {Luxury resource}]",
+		"uniques": ["[+2 Gold] from every [{Mine} {Luxury resource}]",
+			"[+1 Gold] from every [{non-[Mine]} {Luxury resource}]",
 			"[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -156,7 +156,7 @@
 		"leaderName": "Baldwin IV",
 		"adjective": ["Jerusalemite"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Scientific",
 		"personality": "Baldwin IV",
 
 		"startIntroPart1": "Great Baldwin IV! Even with his leprosy, you managed to show the world that tolerant coexistence is possible in Jerusalem. After victories and resistance against the Caliphate's troops, your reign over Jerusalem was marked by years of relative peace and tolerance. After our fall by the Great Saladin, years passed and wars upon wars ravaged the sacred soil of the Holy Land.",
