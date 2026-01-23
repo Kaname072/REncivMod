@@ -22,21 +22,10 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Kulumbimbi",
-		"uniqueTo": "Kongo",
-		"replaces": "Colosseum",
-		"maintenance": 1,
-		"faith": 1,
-		"happiness": 2,
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>"],
-		"hurryCostModifier": 25,
-		"requiredTech": "Construction"
-	},
-	{
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
 		"replaces": "Garden",
-		"percentStatBonus": {"culture": 15},
+		"percentStatBonus": {"culture": 20},
 		"uniques": ["Must have an owned [{non-[Natural Wonder]} {Mountain}] within [2] tiles","[+25]% Great Person generation [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
