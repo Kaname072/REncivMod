@@ -50,6 +50,6 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+2 Culture] <after discovering [Archaeology]>"]
+		"uniques": ["[-50]% Gold given to enemy if city is captured <in this city>"]
 	}
 ]
