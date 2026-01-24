@@ -42,12 +42,12 @@
     "declareWar": 6,
     "commerce": 4,
     "diplomacy": 5,
-    "loyal": 6,
+    "loyal": 3,
     "expansion": 4,
     "priorities": {
       "Tradition": 5,
       "Liberty": 5,
-      "Honor": 8,
+      "Honor": 9,
       "Commerce": 3,
       "Patronage": 6,
       "Piety": 5,
@@ -76,7 +76,7 @@
     "priorities": {
       "Tradition": 4,
       "Liberty": 5,
-      "Honor": 9,
+      "Honor": 7,
       "Commerce": 7,
       "Patronage": 3,
       "Piety": 6,
