@@ -72,7 +72,7 @@
 
 		"declaringWar": "Prepare your neck, this is war!",
 		"attacked": "You dont have sense of you're are doing!",
-		"defeated": "Please, dont touch in the monasteries...",
+		"defeated": "Kill me now, I will not kneel before you...",
 		"introduction": "Don't try to threaten Romania, I am the Dracula you've heard so much about!",
 
 		"neutralHello": "Greetings.",
@@ -176,8 +176,7 @@
 		"innerColor": [255,216,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[Faith] cost of purchasing items in cities [-33]%",
-			"[+50]% Yield from every [Holy site]"],
+		"uniques": ["[+100]% Yield from every [Holy site]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -206,7 +205,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+30]% Strength <for [Military] units> <for [7] turns> <upon losing a city>"],
+		"uniques": ["[+33]% Strength <for [Military] units> <for [7] turns> <upon losing a city>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	}
