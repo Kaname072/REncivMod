@@ -208,5 +208,35 @@
 		"uniques": ["[+33]% Strength <for [Military] units> <for [7] turns> <upon losing a city>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
+	},
+	{
+		"name": "Sumerian",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumerian"],
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Gilgamesh",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I need another throne! Grant me yours immediately!",
+		"attacked": "Ha ha! what a joke!",
+		"defeated": "I am impressed. I, the Great Gilgamesh, he who defeated gods, have been defeated by another superior being. I grant you my kingdom.",
+		"introduction": "The great king of Uruk is flattered to meet you! I hope we can be friends.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you?",
+		
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+		"outerColor": [14,69,179],
+		"innerColor": [226,191,87],
+		"favoredReligion": "Islam",
+		"uniqueName": "Epic of Gilgamesh",
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>","[1] Movement point cost to embark <for [All] units>","Start with [Pottery]"],
+		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
+			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
+			"Eshnunna"]
 	}
 ]
