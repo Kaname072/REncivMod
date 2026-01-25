@@ -113,13 +113,13 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 15,
-		"cost": 74,
+		"cost": 75,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",	
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Spearman]> <when defending>","Ignores Zone of Control"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Spearman]> <when defending>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
 		"promotions": ["Blitz"],
-		"attackSound": "metalhit"
+		"attackSound": "horse"
 	}
 ]
