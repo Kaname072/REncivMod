@@ -118,7 +118,7 @@
 		"requiredResource": "Horses",	
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>","Comment [+[50]% vs anti-[Mounted] units when defending]","[+50]% Strength <vs [Spearman]> <when defending> <hidden from users>","[+50]% Strength <vs [Pikeman]> <when defending> <hidden from users>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>","Comment [+[50]% Strength <vs [anti-[Mounted]] units > <when defending>]","[+50]% Strength <vs [Spearman]> <when defending> <hidden from users>","[+50]% Strength <vs [Pikeman]> <when defending> <hidden from users>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
 		"promotions": ["Blitz"],
 		"attackSound": "horse"
 	}
