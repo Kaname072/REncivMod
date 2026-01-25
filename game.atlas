@@ -90,7 +90,7 @@ UnitIcons/Sofa Skirmisher
   index: -1
 UnitIcons/Dorobanți
   rotate: false
-  xy: 600, 600
+  xy: 600, 200
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
