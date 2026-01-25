@@ -1,7 +1,15 @@
 [
   {
     "name": "Buffalo Chest",
-    "uniques": ["[+15]% Strength <when defending>"]
+    "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>"]
+  },
+  {
+    "name": "Buffalo Horns",
+    "uniques": ["[+25]% to Flank Attack bonuses"]
+  },
+  {
+    "name": "Buffalo Loins",
+    "uniques": ["[+1] Sight","[+30]% Strength <vs [Ranged] units> <when defending>"]
   },
   {
     "name": "[Dorobanți] ability",
