@@ -111,13 +111,14 @@
 		"uniqueTo": "Sumerian",
 		"replaces": "Chariot Archer",
 		"unitType": "Mounted",
-		"movement": 3,
-		"strength": 12,
+		"movement": 4,
+		"strength": 15,
 		"cost": 74,
 		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",	
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Spearman]> <when defending>","Consumes [2] [Horses]","Ignores Zone of Control"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <vs [Spearman]> <when defending>","Ignores Zone of Control"],
 		"promotions": ["Blitz"],
 		"attackSound": "metalhit"
 	}
