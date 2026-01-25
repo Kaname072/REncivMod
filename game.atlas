@@ -53,6 +53,13 @@ NationIcons/Jerusalem
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Sumerian
+  rotate: false
+  xy: 1400, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -102,6 +109,13 @@ UnitIcons/Iberian Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/War Cart
+  rotate: false
+  xy: 1400, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Crusades Hospital
   rotate: false
   xy: 1200, 400
@@ -130,9 +144,9 @@ BuildingIcons/Ikanda
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Kulumbimbi
+BuildingIcons/Ziggurat Temple
   rotate: false
-  xy: 0, 600
+  xy: 1400, 200
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -160,7 +174,21 @@ UnitPromotionIcons/Crusader
   index: -1
 UnitPromotionIcons/Buffalo Chest
   rotate: false
-  xy: 800, 200
+  xy: 800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Buffalo Horn
+  rotate: false
+  xy: 800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Buffalo Loins
+  rotate: false
+  xy: 800, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
