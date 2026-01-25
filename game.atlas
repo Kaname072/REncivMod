@@ -179,7 +179,7 @@ UnitPromotionIcons/Buffalo Chest
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Buffalo Horn
+UnitPromotionIcons/Buffalo Horns
   rotate: false
   xy: 800, 600
   size: 200, 200
