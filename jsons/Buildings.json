@@ -61,16 +61,10 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": [
-			"[+1 Culture] <after adopting [Tradition]>",
-			"[+1 Culture] <after adopting [Liberty]>",
-			"[+1 Culture]  <after adopting [Honor]>",
-			"[+1 Faith] <after adopting [Piety]>",
-			"[+1 Gold] <after adopting [Patronage]>",
-			"[+2 Gold] <after adopting [Commerce]>",
+		"uniques": ["[+2 Gold] <after adopting [Commerce]>",
 			"[+2 Science] <after adopting [Rationalism]>",
 			"[+2 Culture] <after adopting [Freedom]>",
-			"[+1 Happiness] <after adopting [Autocracy]>",
+			"[+2 Happiness] <after adopting [Autocracy]>",
 			"[+2 Production] <after adopting [Order]>"]
 	}
 ]
