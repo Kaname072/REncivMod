@@ -286,7 +286,7 @@ TileSets/HexaRealm/Units/Iberian Warrior
   index: -1
 TileSets/HexaRealm/Units/War Cart
   rotate: false
-  xy: 266, 875
+  xy: 266, 873
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
