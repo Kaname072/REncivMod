@@ -1,6 +1,4 @@
 [
-    ////"name": "Poisoned",////unused
-    ////"uniques": ["[This Unit] takes [10] damage <when above [10] HP> <upon turn start>","[-10]% Strength <when defending>","Can only heal by pillaging","Unable to pillage tiles"]
   {
     "name": "Buffalo Chest",
     "uniques": ["[+15]% Strength <when defending>"]
@@ -9,8 +7,6 @@
     "name": "[Dorobanți] ability",
     "uniques": ["Can move after attacking"]
   },
-    ////"name": "Poison Arrow",////unused
-    ////"uniques": ["[Target Unit] gains the [Poisoned] status for [4] turn(s) <when attacking> <upon damaging a [{non-[Poisoned]} {Land}] unit>"]
   {
     "name": "Crusader",
     "uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles>","May enter foreign tiles without open borders"]
