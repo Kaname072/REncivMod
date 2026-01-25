@@ -105,5 +105,19 @@
 		"uniques": ["[+25]% Strength <vs [Barbarian]> <when attacking>","May upgrade to [Spearman] through ruins-like effects"],
 		"promotions": ["Lusitanian Bravery"],
 		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "War Cart",
+		"uniqueTo": "Sumerian",
+		"replaces": "Chariot Archer",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 12,
+		"cost": 90,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["[+33]% Strength <vs [non-[City]> <when attacking>","Ignores Zone of Control"],
+		"attackSound": "metalhit"
 	}
 ]
