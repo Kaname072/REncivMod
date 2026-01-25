@@ -234,7 +234,7 @@
 		"innerColor": [226,191,87],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
-		"uniques": ["Free Great Person <upon discovering [Writing] technology>","[1] Movement point cost to embark <for [All] units>","Start with [Pottery]"],
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>","[1] Movement point cost to embark <for [All] units>","Starts with [Pottery]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
