@@ -146,7 +146,7 @@ BuildingIcons/Ikanda
   index: -1
 BuildingIcons/Ziggurat Temple
   rotate: false
-  xy: 1400, 200
+  xy: 1400, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
