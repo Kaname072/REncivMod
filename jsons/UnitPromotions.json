@@ -1,15 +1,23 @@
 [
   {
     "name": "Buffalo Chest",
-    "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>"]
+    "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>"],
+    "prerequisites": ["Buffalo Horns"],
+    "unitTypes": ["Sword"],
+    "uniqueTo": "Zulu"
   },
   {
     "name": "Buffalo Horns",
-    "uniques": ["[+25]% to Flank Attack bonuses"]
+    "uniques": ["[+25]% to Flank Attack bonuses"],
+    "unitTypes": ["Sword"],
+    "uniqueTo": "Zulu"
   },
   {
     "name": "Buffalo Loins",
     "uniques": ["[+1] Sight","[+30]% Strength <vs [Ranged] units> <when defending>"]
+    "prerequisites": ["Buffalo Chest"],
+    "unitTypes": ["Sword"],
+    "uniqueTo": "Zulu"
   },
   {
     "name": "[Dorobanți] ability",
