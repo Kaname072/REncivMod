@@ -118,7 +118,7 @@
 		"requiredResource": "Horses",	
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+50]% Strength <vs [[+50]% Strength <vs [Mounted] units>] units> <when defending>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
+		"uniques": ["[+50]% Strength <vs [Spearman] units> <when defending>","[+50]% Strength <vs [Pikeman] units> <when defending>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
 		"promotions": ["Blitz"],
 		"attackSound": "horse"
 	}
