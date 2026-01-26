@@ -112,13 +112,13 @@
 		"replaces": "Chariot Archer",
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 6,
+		"strength": 12,
 		"cost": 75,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",	
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+10] Strength <vs [Land] units> <when attacking>","[+50]% Strength <vs [[+50]% Strength <vs [Mounted]] units> <when defending>","[-33]% Strength <vs cities> <when attacking>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
+		"uniques": ["[+50]% Strength <vs [[+50]% Strength <vs [Mounted] units>] units> <when defending>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
 		"promotions": ["Blitz"],
 		"attackSound": "horse"
 	}
