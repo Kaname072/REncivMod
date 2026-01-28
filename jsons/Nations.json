@@ -205,7 +205,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[+33]% Strength <for [Military] units> <for [7] turns> <upon losing a city>"],
+		"uniques": ["[+1] Movement <for [Military] units> <for [5] turns> <upon founding a city>","[+1] Movement <for [Military] units> <for [5] turns> <upon losing a city>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
