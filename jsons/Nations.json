@@ -85,7 +85,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["When defeating a [Siege] unit, earn [25] Gold and recruit it <with [75]% chance> <in [Friendly Land] tiles>",
-			"[-10]% Strength <for [{Military} {Land} {Hostile} units> <in [Friendly Land] tiles>",
+			"[-10]% Strength <for [{Military} {Land} {Hostile}] units> <in [Friendly Land] tiles>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -174,7 +174,7 @@
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
 		"outerColor": [255,255,201],
-		"innerColor": [255,249,99],
+		"innerColor": [255,224,72],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
 		"uniques": ["[+100]% Yield from every [Holy site]"],
