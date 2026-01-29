@@ -81,7 +81,7 @@
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
 		"outerColor": [104,3,13],
-		"innerColor": [51,139,95],
+		"innerColor": [0,0,79],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["When defeating a [Siege] unit, earn [25] Gold and recruit it <with [75]% chance> <in [Friendly Land] tiles>",
@@ -231,7 +231,7 @@
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
 		"outerColor": [14,69,179],
-		"innerColor": [226,191,87],
+		"innerColor": [227,125,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
 		"uniques": ["Free Great Person <upon discovering [Writing] technology>","[1] Movement point cost to embark <for [All] units>","Starts with [Pottery]"],
