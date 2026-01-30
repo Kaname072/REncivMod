@@ -55,7 +55,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-50]% <for [10] turns> <upon declaring friendship>","Earn [100]% of killed [Military] unit's [Strength] as [Gold]","[-50]% maintenance costs <for [Ranged] units>"],
+		"uniques": ["[+2] Movement <for [Religious Unit] units>","Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[-66]% maintenance costs <for [Ranged] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -84,8 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["When defeating a [Siege] unit, earn [25] Gold and recruit it <with [75]% chance> <in [Friendly Land] tiles>",
-			"[-10]% Strength <for [{Military} {Land} {Hostile}] units> <in [Friendly Land] tiles>",
+		"uniques": ["[100]% Health from pillaging tiles","When defeating a [Siege] unit, earn [25] Gold and recruit it <with [50]% chance>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
