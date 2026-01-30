@@ -66,10 +66,9 @@
 		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
-		"faith": 1,
-		"cost": 30,
+		"faith": 2,
+		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
+		"requiredTech": "Pottery"
 	}
 ]
