@@ -23,7 +23,7 @@
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"uniques": ["[+100]% Strength <vs [Archery] units> <when defending>","[+20]% Strength bonus for [Archery] units within [1] tiles"],
+		"uniques": ["[+100]% Strength <vs [Archery] units> <when defending>","[+10]% Strength bonus for [Archery] units within [1] tiles"],
 		"promotions": ["No Fear"],
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
