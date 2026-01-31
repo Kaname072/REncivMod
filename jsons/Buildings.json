@@ -25,6 +25,7 @@
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
 		"replaces": "Garden",
+		"faith": 2,
 		"percentStatBonus": {"culture": 25},
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]"],
 		"hurryCostModifier": 25,
@@ -60,15 +61,16 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Science] per [2] social policies adopted"]
+		"uniques": ["[+2 Science] per [2] social policies adopted"]
 	},
 	{
 		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
-		"faith": 2,
-		"cost": 40,
+		"faith": 3,
+		"cost": 60,
 		"maintenance": 1,
-		"requiredTech": "Pottery"
+		"requiredTech": "Pottery",
+		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>","Only available <when religion is enabled>"]
 	}
 ]
