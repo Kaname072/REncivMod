@@ -68,10 +68,9 @@
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
 		"faith": 1,
-		"culture": 1,
-		"cost": 40,
+		"cost": 20,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>"]
+		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>","Only available <when religion is enabled>"]
 	}
 ]
