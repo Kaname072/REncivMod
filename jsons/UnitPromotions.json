@@ -17,7 +17,7 @@
   },
   {
     "name": "[Dorobanți] ability",
-    "uniques": ["Can move after attacking"]
+    "uniques": ["Withdraws before melee combat <with [34]% chance>","Can move after attacking"]
   },
   {
     "name": "Crusader",
@@ -31,6 +31,6 @@
   },
   {
     "name": "Lusitanian Bravery",
-    "uniques": ["[+25]% Strength <vs [Melee] units> <when defending>","No defensive terrain penalty"]
+    "uniques": ["Can see over obstacles","No defensive terrain penalty"]
   }
 ]
