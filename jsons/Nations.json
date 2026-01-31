@@ -55,7 +55,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[+2] Movement <for [Religious Unit] units>","[+25]% Spread Religion Strength <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold],[Science] & [Culture]]", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science] <hidden from users>"],
+		"uniques": ["[+2] Movement <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [7] times the amount of followers of other religions as [Gold], [Science] & [Culture]]", "When spreading religion to a city, gain [7] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [7] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [7] times the amount of followers of other religions as [Science] <hidden from users>"],
 		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
