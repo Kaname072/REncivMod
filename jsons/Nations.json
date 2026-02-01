@@ -172,11 +172,11 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,255,201],
-		"innerColor": [255,224,72],
+		"outerColor": [50,50,50],
+		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+100]% Yield from every [Holy site]"],
+		"uniques": ["[+33]% [Faith] [in holy cities]","[+66]% Yield from every [Holy site]"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -204,8 +204,8 @@
 		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Lusitanian Bravery",
-		"uniques": [""],
+		"uniqueName": "Lusitanian Heroism",
+		"uniques": ["[-50]% Food consumption by specialists [in all cities]"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
