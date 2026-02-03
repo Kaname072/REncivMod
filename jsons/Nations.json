@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[100]% Health from pillaging tiles","When defeating a [Siege] unit, earn [25] Gold and recruit it <with [50]% chance>",
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [pillaged] tiles>","[100]% Health from pillaging tiles",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
