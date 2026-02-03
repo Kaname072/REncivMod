@@ -24,12 +24,13 @@
 	{
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
-		"replaces": "Garden",
-		"faith": 2,
-		"percentStatBonus": {"culture": 25},
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Mountain]"],
+		"replaces": "Monastery",
 		"hurryCostModifier": 25,
-		"maintenance": 1,
+		"culture": 2,
+		"faith": 2,
+		"uniques": ["Must be next to [Mountain]","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Destroyed when the city is captured"]
 		"requiredTech": "Theology"
 	},
 	{
@@ -56,12 +57,12 @@
 		"name": "Ziggurat Temple",
 		"uniqueTo": "Sumerian",
 		"replaces": "Temple",
-		"faith": 2,
+		"faith": 3,
+		"science": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+2 Science] per [2] social policies adopted"]
 	},
 	{
 		"name": "Kulumbimbi",
