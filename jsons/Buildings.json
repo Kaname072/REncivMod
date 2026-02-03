@@ -12,7 +12,8 @@
 		"name": "Sankore University",
 		"uniqueTo": "Mali",
 		"replaces": "University",
-		"culture": 2,
+		"gold": 2,
+		"faith": 1,
 		"maintenance": 0,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -28,7 +29,7 @@
 		"culture": 2,
 		"faith": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Comment [[Culture] 2 vs 0]","Comment [[Faith] 2 vs 0]", /////for some reason, the stats aren't show in game//// "Must be next to [Mountain]","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+		"uniques": ["Comment [[Culture] 2 vs 0]","Comment [[Faith] 2 vs 0]","Must be next to [Mountain]","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Destroyed when the city is captured"]
 		"requiredTech": "Theology"
