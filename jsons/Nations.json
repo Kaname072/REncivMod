@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [pillaged] tiles>","[100]% Health from pillaging tiles",
+		"uniques": ["[-10]% Unhappiness from [Specialists] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
