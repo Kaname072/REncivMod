@@ -25,9 +25,9 @@
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
 		"replaces": "Monastery",
-		"hurryCostModifier": 25,
 		"culture": 2,
 		"faith": 2,
+		"hurryCostModifier": 25,
 		"uniques": ["Must be next to [Mountain]","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Destroyed when the city is captured"]
