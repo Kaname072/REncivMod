@@ -32,5 +32,9 @@
   {
     "name": "Lusitanian Bravery",
     "uniques": ["Can see over obstacles","No defensive terrain penalty"]
+  },
+  {
+    "name": "[Minon] ability",
+    "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"]
   }
 ]
