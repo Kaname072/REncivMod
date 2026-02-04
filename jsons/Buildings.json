@@ -74,5 +74,15 @@
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>","Only available <when religion is enabled>"]
+	},
+	{
+		"name": "Tata Somba",
+		"replaces": "Walls",
+		"uniqueTo": "Dahomey",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"]
 	}
 ]
