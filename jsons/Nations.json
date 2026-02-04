@@ -260,8 +260,8 @@
 		
 		"tradeRequest": "Business is business, can you give it for me?",
 
-		"outerColor": [81,48,33],
-		"innerColor": [216,216,216],
+		"outerColor": [53,53,53],
+		"innerColor": [255,255,255],
 		"uniqueName": "Enslave Commerce",
 		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
