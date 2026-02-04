@@ -238,5 +238,32 @@
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
+	},
+	{	
+		"name": "Dahomey",
+		"leaderName": "Ghezo",
+		"adjective": ["Dahomean"],
+		"startBias": ["Forest","Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"personality": "Ghezo",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your presence bothers us! Prepare for war!!",
+		"attacked": "That's funny, the last ones who took the same actions didn't end up well.",
+		"defeated": "We were destroyed, my army was unable to stop him. I am disappointed.",
+		"introduction": "Hi, you seem good at business, I hope you don't get in our way.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Disgusting.",
+		
+		"tradeRequest": "Business is business, can you give it for me?",
+
+		"outerColor": [81,48,33],
+		"innerColor": [216,216,216],
+		"uniqueName": "Enslave Commerce",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"],
+		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
 	}
 ]
