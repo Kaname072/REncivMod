@@ -172,5 +172,34 @@
       "Autocracy": 4,
       "Order": 5
     }
+  },
+  {
+    "name": "Ghezo",
+    "production": 5,
+    "food": 4,
+    "gold": 8,
+    "science": 6,
+    "culture": 6,
+    "happiness": 6,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 7,
+    "declareWar": 8,
+    "commerce": 7,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 5,
+      "Honor": 7,
+      "Commerce": 4,
+      "Patronage": 2,
+      "Piety": 4,
+      "Rationalism": 6,
+      "Freedom": 3,
+      "Autocracy": 7,
+      "Order": 4
+    }
   }
 ]
