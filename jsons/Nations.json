@@ -114,9 +114,8 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
-		"uniques": ["[+2 Gold] from every [{Mine} {Luxury resource}]",
-			"[+1 Gold] from every [{non-[Mine]} {Luxury resource}]",
-			"[Great Merchant] is earned [+50]% faster"],
+		"uniques": ["[+3 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
+			"[+2 Gold] from every [{Improved} {non-[Mine]} {Luxury resource}]",
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -176,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+33]% [Faith] [in holy cities]","[+66]% Yield from every [Holy site]"],
+		"uniques": ["[+4 Faith] [in holy cities]","[+2 Culture] [in all cities] <in cities following a [foreign] religion>","[+50]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -265,5 +264,33 @@
 		"uniqueName": "Transatlantic Trade",
 		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
+	},
+	{		
+		"name": "Portugal",
+		"leaderName": "João III",
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"personality": "João III",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "I didn't want to have to take such drastic measures, well, you'll be stopped.",
+		"attacked": "Things are getting increasingly turbulent between us.",
+		"defeated": "This was not part of my plan. The Portuguese crown will not accept this humiliation; you will pay!",
+		"introduction": "Good morning, I am João III of Portugal. I believe our interests may be of interest to your Empire.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "Oh, it's you?",
+		
+		"tradeRequest": "My friend, do you think you can accept this request?",
+
+		"outerColor": [0,51,153],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Age of Discovery",
+		"uniques": ["[+2 Production, +1 Gold] [in all cities] <in foreign continents>","[Great Merchant] is earned [+50]% faster","[{Water} {Melee}] units gain the [Landing Party]"],
+		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	}
 ]
