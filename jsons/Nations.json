@@ -233,7 +233,7 @@
 		"innerColor": [228,131,12],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
-		"uniques": ["Free Great Person <upon discovering [Writing] technology>","[1] Movement point cost to embark <for [All] units>","Starts with [Pottery]"],
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>","Starts with [Pottery]"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -292,5 +292,32 @@
 		"uniqueName": "Age of Discovery",
 		"uniques": ["[+2 Production, +1 Gold] [in all cities] <on foreign continents>","[Great Merchant] is earned [+50]% faster","[{Water} {Melee}] units gain the [Landing Party] promotion"],
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
+	},
+	{
+		"name": "Pirates",
+		"leaderName": "Edward Teach",
+		"adjective": ["Pirate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Edward Teach",
+
+		"startIntroPart1": "Great Blackbeard, the king of pirates, your grandeur in your raids and massacres is incompatible with any empire ever built, the King of the Seven Seas, the pirate leader. Even with the resignation of the British, you remained strong and fought to the death against the navy.",
+		"startIntroPart2": "Will the captain be able to rebuild the grand pirate empire? Will he be able to overcome the nations that pirates fear?",
+
+		"declaringWar": "Well, we were already at war before, but now it's official!",
+		"attacked": "You're challenging me?.",
+		"defeated": "I have nothing to declare, just kill me now!",
+		"introduction": "Wow! You found us? Well, I'm Blackbeard! Former privateer, the king of pirates!",
+
+		"neutralHello": "You need something?",
+		"hateHello": "I dont waste my patience on you!",
+		
+		"tradeRequest": "Well, I don't usually do this, so if you're kind...",
+
+		"outerColor": [32,32,32],
+		"innerColor": [255,255,255],
+		"uniqueName": "King of Pirates",
+		"uniques": ["[1] Movement point cost to embark <for [All] units>","\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Queen Anne's Revenge"]
 	}
 ]
