@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+4 Faith] [in holy cities]","[+2 Culture] [in all cities] <in cities following a [foreign] religion>","[+50]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+4 Faith] [in holy cities]","[+2 Culture] [in all cities] <in cities with a [foreign] religion>","[+50]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -286,11 +286,11 @@
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [0,51,153],
-		"innerColor": [255,255,255],
+		"outerColor": [255,255,255],
+		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Age of Discovery",
-		"uniques": ["[+2 Production, +1 Gold] [in all cities] <in foreign continents>","[Great Merchant] is earned [+50]% faster","[{Water} {Melee}] units gain the [Landing Party]"],
+		"uniques": ["[+2 Production, +1 Gold] [in all cities] <on foreign continents>","[Great Merchant] is earned [+50]% faster","[{Water} {Melee}] units gain the [Landing Party] promotion"],
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	}
 ]
