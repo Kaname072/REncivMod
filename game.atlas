@@ -74,6 +74,13 @@ NationIcons/Dahomey
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Pirates
+  rotate: false
+  xy: 2000, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -144,6 +151,27 @@ UnitIcons/Minon
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Nau
+  rotate: false
+  xy: 1600, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pirate
+  rotate: false
+  xy: 2000, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Captain
+  rotate: false
+  xy: 2000, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Crusades Hospital
   rotate: false
   xy: 1200, 400
@@ -203,6 +231,13 @@ BuildingIcons/Tata Somba
 ImprovementIcons/Brazilwood Camp
   rotate: false
   xy: 0, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Feitoria
+  rotate: false
+  xy: 1600, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -291,6 +326,20 @@ TileSets/FantasyHex/Units/War Cart
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Minon
+  rotate: false
+  xy: 5, 913
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pirate
+  rotate: false
+  xy: 47, 913
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Sofa Skirmisher
   rotate: false
   xy: 194, 808
@@ -329,6 +378,20 @@ TileSets/HexaRealm/Units/Iberian Warrior
 TileSets/HexaRealm/Units/War Cart
   rotate: false
   xy: 266, 873
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Minon
+  rotate: false
+  xy: 340, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Pirate
+  rotate: false
+  xy: 340, 873
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
