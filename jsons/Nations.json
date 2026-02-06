@@ -115,7 +115,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
 		"uniques": ["[+3 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
-			"[+2 Gold] from every [{Improved} {non-[Mine]} {Luxury resource}]",
+			"[+2 Gold] from every [{Improvement} {non-[Mine]} {Luxury resource}]"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
