@@ -135,5 +135,33 @@
 		"obsoleteTech": "Rifling",
 		"promotions": ["[Minon] ability"],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Nau"
+		"replaces": "Caravel",
+		"uniqueTo": "Portugal",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Can move after attacking", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Pirate",
+		"replaces": "Musketman",
+		"uniqueTo": 
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
