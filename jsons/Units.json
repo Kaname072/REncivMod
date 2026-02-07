@@ -163,17 +163,18 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniques": ["[+50]% Strength <vs [Water] units> <when [Embarked]>","[+1] Sight <when [Embarked]>","Double movement in [Water]"],
+		"promotions": ["[Pirate] ability"],
 		"attackSound": "shot"
 	},
 	{
-		"name": "Captain",
+		"name": "Great Captain",
 		"replaces": "Great Admiral",
 		"uniqueTo": "Pirates",
 		"unitType": "Civilian Water",
 		"uniques": [
             "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"Can be earned through combat <for [Water] units>",
+			"Can be earned through combat <for [Military] units>",
             "Is part of Great Person group [Admiral]",
             "[This Unit] gets a name from the [Admiral] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
