@@ -36,5 +36,13 @@
   {
     "name": "[Minon] ability",
     "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"]
+  },
+  {
+    "name": "[Pirate] ability",
+    "uniques": ["May attack when embarked"]
+  },
+  {
+    "name": "Pirate Flag",
+    "uniques": ["[+400]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
   }
 ]
