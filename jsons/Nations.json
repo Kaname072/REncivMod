@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[1] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [Military] units> <in [Coastal] tiles>","[{Water} {Melee}] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[1] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [Military] units> <in [Coastal] tiles>","[Water] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
