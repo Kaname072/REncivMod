@@ -114,7 +114,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
-		"uniques": ["[+2 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
+		"uniques": ["[+3 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
 			"[+1 Gold] from every [{Improvement} {non-[Mine]} {Luxury resource}]"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] units appears <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] unit appears <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
