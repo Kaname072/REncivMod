@@ -67,13 +67,13 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Vlad Tepes! His strength and cruelty against invaders and infiltrators proved our resistance against the Ottoman invasions. During his reign, Wallachia consolidated its sovereignty and spiritual honor. Years after the wars, the Romanian nation was founded by the legendary King Carol I. Even in exile, you ignored the unjust demands of those infiltrators and put Wallachia first! Romanians have never stopped dreaming of a leader as sovereign as His Highness.",
+		"startIntroPart2": "Your Highness! Is your relentless strength capable of bringing glorious days to Romania? Will you be able to make our kingdom as sovereign as it once was?",
 
-		"declaringWar": "Prepare your neck, this is war!",
+		"declaringWar": "I will not obey your idiotic demands! Let's see who has the power here, this is war!",
 		"attacked": "You dont have sense of you're are doing!",
 		"defeated": "Kill me now, I will not kneel before you...",
-		"introduction": "Don't try to threaten Romania, I am the Dracula you've heard so much about!",
+		"introduction": "Hello neighbor! Vlad III or Vlad Tepes, well, don't try to threaten Romania, I am the Dracula you've heard so much about!",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What?",
@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-10]% Unhappiness from [Specialists] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles <for [Military] units>",
+		"uniques": ["[-10]% Unhappiness from [Population] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles <for [Military] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -97,8 +97,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Mansa Musa",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Great Musa! After triumphs in wars of expansion, the Mali Empire rose in West Africa, expanding Mandinka culture and consolidating the Islamic faith. You were also recognized for your wealth, strength, wisdom, and mercy. You made a great pilgrimage to the holy city, bringing with you high culture and wealth, as well as skilled engineers and mathematicians. The Empire declined after rival empires arose and internal conflicts intensified.",
+		"startIntroPart2": "Oh Great Mansa! May our golden age never end! May our Empire shine through time and history.",
 
 		"declaringWar": "You dont have spiritual abundance! i will show how to make a true nation for you people!",
 		"attacked": "This have a price! and you will pay!",
@@ -187,8 +187,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Viriato",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "May the gods grant you strength, great Viriato! The Lusitanians were a tribe that lived on the Iberian Peninsula alongside some Celtic tribes. Our spirituality and resistance were strong even against the Romans, but the cowardice of those Romans brought about your downfall, great Viriato. But even so, you are still remembered for your bravery and resistance.",
+		"startIntroPart2": "Great Viriato! Do we finally have the chance to bring our ancient civilization to triumph? Will you be able to build a civilization that withstands the test of time?",
 
 		"declaringWar": "Your presence bothers us! Prepare for war!!",
 		"attacked": "This is a genuine mistake! you will pay terrible for this!",
@@ -216,8 +216,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Gilgamesh",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Sumer, cradle of civilizations, of agriculture, mother of writing and literature. Even after the conquest by the Akkadians, we Sumerians still influenced the Akkadians, Babylonians, and Assyrians. Sumerian architecture and society continue to amaze the world that arose around our strength.",
+		"startIntroPart2": "Legendary King Gilgamesh, whose absolute power affects even the gods, will his majesty triumph through time and history? Will he influence everything and everyone?",
 
 		"declaringWar": "I need another throne! Grant me yours immediately!",
 		"attacked": "Ha ha! what a joke!",
@@ -246,8 +246,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Ghezo",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Long live King Ghezo! The great kingdom of Dahomey, once a state paying tribute to the Oyo Empire, was a strong and rich kingdom with its powerful female warriors and Fon culture, demonstrating to several neighboring kingdoms that our power goes beyond the spiritual. But after those French invaders, our kingdom succumbed to terrible colonialism.",
+		"startIntroPart2": "King Ghezo! Could you take the reins again for our glory? Could you bring us back to the old days?",
 
 		"declaringWar": "Your presence bothers us! Prepare for war!!",
 		"attacked": "That's funny, the last ones who took the same actions didn't end up well.",
@@ -290,7 +290,7 @@
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Age of Discovery",
-		"uniques": ["[+2 Production, +1 Gold] [in all cities] <on foreign continents>","[Great Merchant] is earned [+50]% faster","[{Water} {Melee}] units gain the [Landing Party] promotion"],
+		"uniques": ["[+2 Production, +1 Gold] [in all cities] <on foreign continents>","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	},
 	{
@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[1] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [Military] units> <in [Coastal] tiles>","[{Military} {Water}] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] units appear <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
