@@ -16,9 +16,9 @@
 	  "name": "Feitoria",
 	  "uniqueTo": "Portugal",
 	  "terrainsCanBeBuiltOn": ["Land"],
-	  "gold": 1,
+	  "gold": 2,
 	  "turnsToBuild": 10,
 	  "techRequired": "Navigation",
-	  "uniques": ["Can be built outside your borders","Can only be built on [Coastal] tiles <with [1] to [2] neighboring [non-[Feitoria]] tiles>","Removes removable features when built","Destroyed when pillaged","Unpillagable <for [City-State] Civilizations>","Unpillagable <in [City-State] tiles> <for [Major] Civilizations>","Pillaging this improvement yields approximately [30]"]
+	  "uniques": ["Gives a defensive bonus of [33]%","Can be built outside your borders","Can only be built on [Coastal] tiles <with [1] to [2] neighboring [non-[Feitoria]] tiles>","Removes removable features when built","Destroyed when pillaged","Unpillagable <in [City-State] tiles>","Pillaging this improvement yields approximately [+33 Gold]"]
   }
 ]
