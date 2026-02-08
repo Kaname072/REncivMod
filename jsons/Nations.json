@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-10]% Unhappiness from [Specialists] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles",
+		"uniques": ["[-10]% Unhappiness from [Specialists] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles <for [Military] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -114,8 +114,8 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Mansas Richness",
-		"uniques": ["[+3 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
-			"[+2 Gold] from every [{Improvement} {non-[Mine]} {Luxury resource}]"],
+		"uniques": ["[+2 Gold] from every [{Improvement} {Mine} {Luxury resource}]",
+			"[+1 Gold] from every [{Improvement} {non-[Mine]} {Luxury resource}]"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Yield from every [Holy site]","[+100]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+50]% Yield from every [Holy site]","[+100]% Yield from every [Land] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -203,8 +203,8 @@
 		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Tribes Coalization",
-		"uniques": ["[-25]% Food consumption by [Population] [in all cities]"],
+		"uniqueName": "Lusitanian Heroism",
+		"uniques": ["Starts with [Honor] adopted"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[1] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [Military] units> <in [Coastal] tiles>","[Water] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[1] Movement point cost to embark <for [All] units>","No movement cost to pillage <for [Military] units> <in [Coastal] tiles>","[{Military} {Water}] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
