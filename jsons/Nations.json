@@ -273,8 +273,8 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "João III",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "King Dom João! His wisdom and piety brought us to the zenith of the great Portuguese Empire, created after the great discoveries. The Portuguese were pioneers in the discovery of the Americas along with Spain. King Dom João III's reign was marked by great diplomacy and economic success. However, European rivalries and revolts in our colonies caused the great Portuguese Empire to succumb.",
+		"startIntroPart2": "Great and wise king! Shall we use our astronomical knowledge for a new territorial ascension? Will we shine in history and through the ages?",
 
 		"declaringWar": "I didn't want to have to take such drastic measures, well, you'll be stopped.",
 		"attacked": "Things are getting increasingly turbulent between us.",
@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] units appear <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] units appears <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
