@@ -203,8 +203,8 @@
 		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[-25]% [Food] consumption by [Population] [in all cities]"],
+		"uniqueName": "Tribes Coalization",
+		"uniques": ["[-25]% Food consumption by [Population] [in all cities]","[-25]% Gold cost of upgrading"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
