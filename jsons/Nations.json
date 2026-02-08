@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+2 Happiness] [in holy cities]","[+2 Faith] [in all cities] <in cities with a [foreign] religion>","[+100]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+50]% Yield from every [Holy site]","[+100]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -204,7 +204,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["[-25]% Food consumption by [Population] [in all cities]"],
+		"uniques": ["[-25]% [Food] consumption by [Population] [in all cities]"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
