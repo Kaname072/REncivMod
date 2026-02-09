@@ -67,7 +67,7 @@
 		"preferredVictoryType": "Cultural",
 		"personality": "Vlad III",
 
-		"startIntroPart1": "Vlad Tepes! His strength and cruelty against invaders and infiltrators proved our resistance against the Ottoman invasions. During his reign, Wallachia consolidated its sovereignty and spiritual honor. Years after the wars, the Romanian nation was founded by the legendary King Carol I. Even in exile, you ignored the unjust demands of those infiltrators and put Wallachia first! Romanians have never stopped dreaming of a leader as sovereign as His Highness.",
+		"startIntroPart1": "Vlad Tepes! His strength and cruelty against invaders and infiltrators proved our resistance against the Ottoman invasions. During his reign, Wallachia consolidated its sovereignty and spiritual honor. Years after the wars, the Romanian nation was founded by the legendary King Carol I. Even in exile, you ignored the unjust demands of those infiltrators and put Wallachia first! Romanians have never stopped dreaming of a leader as sovereign as his highness.",
 		"startIntroPart2": "Your Highness! Is your relentless strength capable of bringing glorious days to Romania? Will you be able to make our kingdom as sovereign as it once was?",
 
 		"declaringWar": "I will not obey your idiotic demands! Let's see who has the power here, this is war!",
@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [Cannot can build [Settler] units, can only receive a [Settler] when capture a Barbarian encampment with 50% chance]","Cannot build [Settler] units <hidden from users>","Free [Settler] appears <upon entering a [Barbarian encampment] tile> <with [50]% chance> <hidden from users>","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Free [Great Captain] appears <upon defeating a [{Barbarian} {Water}] unit> <with [25]% chance>","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
