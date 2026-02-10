@@ -19,6 +19,15 @@
 	  "gold": 2,
 	  "turnsToBuild": 10,
 	  "techRequired": "Navigation",
-	  "uniques": ["Gives a defensive bonus of [33]%","Can be built outside your borders","Can only be built on [Coastal] tiles <with [1] to [2] neighboring [non-[Feitoria]] tiles>","Removes removable features when built","Destroyed when pillaged","Unpillagable <in [City-State] tiles> <hidden from users>","Pillaging this improvement yields approximately [+33 Gold]"]
+	  "uniques": ["[+2 Happiness] <in tiles adjacent to [Luxury resource] tiles>",
+		  "Gives a defensive bonus of [50]%",
+		  "Can be built outside your borders",
+		  "Can only be built on [Coastal] tiles <in tiles not adjacent to  [Feitoria] tiles>",
+		  "Removes removable features when built",
+		  "Destroyed when pillaged",
+		  "Cannot be built on [Bonus resource] tiles",
+		  "Cannot be built on [Luxury resource] tiles",
+		  "Tile provides yield without assigned population",
+		  "Pillaging this improvement yields approximately [+33 Gold]"]
   }
 ]
