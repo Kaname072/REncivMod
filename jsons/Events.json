@@ -7,15 +7,14 @@
       {
         "text": "Pirate Plunder",
         "uniques": [
-          "[This Unit] takes [33] damage",
-          "Remove [Fishing Boats] improvements from this tile",  
+          "[This Unit] takes [25] damage",
+          "Remove [Fishing Boats] improvements from this tile",
+          "Gain control over [all] tiles in a [0]-tile radius",
+          "Turn this tile into a [Unowned] tile",
           "Gain [25]-[100] [Gold] <(modified by game speed)>",
           "Gain [25]-[75] [Culture] <(modified by game speed)>",
           "Free Great Person <with [2]% chance>",
-          "[-25]% Great Person generation [in all cities] <for [5] turns> <in [Friendly] tiles>",
-          "[+25]% City-State Influence degradation <for [7] turns> <in [Friendly] tiles>",
-          "Gifts of Gold to City-States generate [-25]% more Influence <for [10] turns> <in [Friendly] tiles>",
-          "Science gained from research agreements [-33]% <for [15] turns> <in [Friendly] tiles>",
+          "[+25]% City-State Influence degradation <for [7] turns> <in [City-State] tiles>",
           "Play [cannon] sound"
         ]
       }
