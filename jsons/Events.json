@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Pirate Plunder",
+    "text": "You wanna our Pirate Captain loot the adjacent ships?",
+    "presentation": "None",
+    "choices": [
+      {
+        "text": "Yes",
+        "uniques": [
+          "[This Unit] takes [50] damage",
+          "[{Adjacent} {non-[Pirate]} takes [50] damage",  
+          "Gain [100]-[250] [Gold] <(modified by game speed)>"
+        ]
+      }
+    ]
+  }
+]
+          
