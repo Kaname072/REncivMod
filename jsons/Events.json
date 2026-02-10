@@ -1,15 +1,18 @@
 [
   {
     "name": "Pirate Plunder",
-    "text": "You wanna our Pirate Captain loot the adjacent ships?",
+    "text": "You wanna our Pirate loot the adjacent ships?",
     "presentation": "None",
     "choices": [
       {
-        "text": "Yes",
+        "text": "Pirate Plunder",
         "uniques": [
-          "[This Unit] takes [50] damage",
-          "[{Adjacent} {non-[Pirate]} takes [50] damage",  
-          "Gain [100]-[250] [Gold] <(modified by game speed)>"
+          "[This Unit] takes [25] damage",
+          "Turn this tile into a [pillaged] tile",  
+          "Gain [25]-[75] [Gold] <(modified by game speed)>",
+          "Gain [10]-[50] [Culture] <(modified by game speed)>",
+          "Gain [50]-[100] [Golden Age points] <(modified by game speed)>",
+          "Free Great Person <with [10]% chance>"
         ]
       }
     ]
