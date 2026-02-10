@@ -172,7 +172,6 @@
 		"uniqueTo": "Pirates",
 		"unitType": "Civilian Water",
 		"uniques": [
-			"Triggers a [Pirate Plunder] event <by consuming this unit> <in [Foreign Land] tiles> <(modified by game speed)>",
             "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
 			"Can be earned through combat <for [Water] units>",
