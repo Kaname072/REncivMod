@@ -317,7 +317,7 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Free [Great Captain] appears <upon defeating a [{Barbarian} {Water}] unit> <with [25]% chance>","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","Comment [With the [Pirate Flag] promotion, your Water Units can enter in Foreign Land without open borders and gain [Gold], [Culture] and a minimal chance to Great Person \"pillaging\" [Fishing Boats] tiles, but you receive a penalty for make this in not at war!]","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
