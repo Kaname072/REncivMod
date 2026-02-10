@@ -31,7 +31,7 @@
   },
   {
     "name": "Lusitanian Bravery",
-    "uniques": ["Can see over obstacles","No defensive terrain penalty"]
+    "uniques": ["[+10]% Strength <when attacking> <for [5] turns> <upon defeating a [Military] unit>","Can see over obstacles","No defensive terrain penalty"]
   },
   {
     "name": "[Minon] ability",
@@ -43,6 +43,6 @@
   },
   {
     "name": "Pirate Flag",
-    "uniques": ["Triggers a [Pirate Plunder] event <in [{Fishing Boats} {non-[Pirates]}] tiles> <for [1] movement>","[+300]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
+    "uniques": ["Triggers a [Pirate Plunder] event <in [{Fishing Boats} {non-[Friendly]}] tiles> <for [1] movement>","[+300]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
   }
 ]
