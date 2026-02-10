@@ -43,6 +43,6 @@
   },
   {
     "name": "Pirate Flag",
-    "uniques": ["[+400]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
+    "uniques": ["Triggers a [Pirate Plunder] event <in [{Fishing Boats} {Foreign Land}] tiles> <when not at war>","[+300]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
   }
 ]
