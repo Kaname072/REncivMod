@@ -22,7 +22,7 @@
 	  "uniques": ["[+2 Happiness] <in tiles adjacent to [Luxury resource] tiles>",
 		  "Gives a defensive bonus of [50]%",
 		  "Can be built outside your borders",
-		  "Can only be built on [Coastal] tiles <in tiles not adjacent to  [Feitoria] tiles>",
+		  "Can only be built on [Coastal] tiles <in tiles not adjacent to [Feitoria] tiles>",
 		  "Removes removable features when built",
 		  "Destroyed when pillaged",
 		  "Cannot be built on [Bonus resource] tiles",
