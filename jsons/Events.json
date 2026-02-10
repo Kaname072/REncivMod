@@ -8,11 +8,11 @@
         "text": "Pirate Plunder",
         "uniques": [
           "[This Unit] takes [25] damage",
-          "Turn this tile into a [pillaged] tile",  
+          "Removes [Fishing Boats] improvements from this tile",  
           "Gain [25]-[75] [Gold] <(modified by game speed)>",
           "Gain [10]-[50] [Culture] <(modified by game speed)>",
-          "Gain [50]-[100] [Golden Age points] <(modified by game speed)>",
-          "Free Great Person <with [10]% chance>"
+          "Free Great Person <with [10]% chance>",
+          "Play [cannon] sound"
         ]
       }
     ]
