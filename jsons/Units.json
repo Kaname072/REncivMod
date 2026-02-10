@@ -147,7 +147,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence", "Withdraws before melee combat <with [80]% chance>"],
+		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -162,7 +162,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["[+50]% Strength <vs [Water] units> <when [Embarked]>","[+1] Sight <when [Embarked]>","Double movement in [Water]"],
+		"uniques": ["[+25]% Strength <vs [Water] units> <when [Embarked]>","[+1] Sight <when [Embarked]>","Double movement in [Coast]"],
 		"promotions": ["[Pirate] ability"],
 		"attackSound": "shot"
 	},
@@ -172,9 +172,10 @@
 		"uniqueTo": "Pirates",
 		"unitType": "Civilian Water",
 		"uniques": [
+			"Gain [100]-[200] [Gold] <by consuming this unit> <in [Foreign Land] tiles> <(modified by game speed)>",
             "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"Can be earned through combat <for [Military] units>",
+			"Can be earned through combat <for [Water] units>",
             "Is part of Great Person group [Admiral]",
             "[This Unit] gets a name from the [Captain] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
