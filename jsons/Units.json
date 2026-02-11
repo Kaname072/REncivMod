@@ -152,19 +152,17 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Pirate",
-		"replaces": "Musketman",
+		"name": "Sloop",
+		"replaces": "Privateer",
 		"uniqueTo": "Pirates",
-		"unitType": "Gunpowder",
-		"movement": 2,
-		"strength": 24,
-		"cost": 150,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
-		"uniques": ["[+25]% Strength <vs [Water] units> <when [Embarked]>","[+1] Sight <when [Embarked]>","Double movement in [Coast]"],
-		"promotions": ["[Pirate] ability"],
-		"attackSound": "shot"
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 25,
+		"cost": 125,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I", "[Sloop] ability"],
+		"attackSound": "cannon"
 	},
 	{
 		"name": "Great Captain",
