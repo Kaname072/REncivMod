@@ -5,15 +5,14 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion <before the [Renaissance era]>", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [Melee] units [in this city] receive the [Buffalo Horns] promotion <before the [Renaissance era]>", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
 		"name": "Sankore University",
 		"uniqueTo": "Mali",
 		"replaces": "University",
-		"gold": 2,
-		"faith": 1,
+		"faith": 2,
 		"maintenance": 0,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -23,16 +22,16 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Painted Monastery",
+		"name": "Wooden Church",
 		"uniqueTo": "Romania",
-		"replaces": "Monastery",
-		"culture": 2,
+		"replaces": "Temple",
 		"faith": 2,
+		"food": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["Comment [[Culture] 2 vs 0]","Comment [[Faith] 2 vs 0]","Must be next to [Mountain]","[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
-			"Destroyed when the city is captured"]
-		"requiredTech": "Theology"
+		"requiredTech": "Philosophy",
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Crusades Hospital",
@@ -51,6 +50,7 @@
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
+		"uniques": ["[+10]% growth [in this city]"],
 		"requiredBuilding": "Walls",
 		"requiredTech": "Metal Casting",
 	},
@@ -58,8 +58,8 @@
 		"name": "Ziggurat Temple",
 		"uniqueTo": "Sumerian",
 		"replaces": "Temple",
-		"faith": 3,
-		"science": 2,
+		"faith": 2,
+		"percentStatBonus": {"science": 10},
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
