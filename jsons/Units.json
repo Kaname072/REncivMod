@@ -158,10 +158,11 @@
 		"unitType": "Melee Water",
 		"movement": 5,
 		"strength": 25,
-		"cost": 125,
+		"cost": 150,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
-		"promotions": ["Coastal Raider I", "[Sloop] ability"],
+		"uniques": ["[+100]% Strength <vs [Land] units> <when defending>"],
+		"promotions": ["Coastal Raider I", "[Privateer] ability", "Landing Party"],
 		"attackSound": "cannon"
 	},
 	{
