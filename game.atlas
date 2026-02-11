@@ -158,7 +158,7 @@ UnitIcons/Nau
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pirate
+UnitIcons/Sloop
   rotate: false
   xy: 2000, 200
   size: 200, 200
@@ -347,7 +347,7 @@ TileSets/FantasyHex/Units/Minon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pirate
+TileSets/FantasyHex/Units/Warrior-Pirates
   rotate: false
   xy: 47, 913
   size: 32, 28
@@ -403,7 +403,7 @@ TileSets/HexaRealm/Units/Minon
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Pirate
+TileSets/HexaRealm/Units/Warrior-Pirates
   rotate: false
   xy: 340, 873
   size: 64, 56
