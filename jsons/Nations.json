@@ -324,7 +324,7 @@
 		"name": "Philistia",
 		"leaderName": "Achish",
 		"adjective": "Philistines"
-		"startBias": "Coast",
+		"startBias": ["Coast","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Achish",
 
