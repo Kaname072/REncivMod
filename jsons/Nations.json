@@ -344,7 +344,8 @@
 		"outerColor": [140,71,23],
 		"innerColor": [249,231,206],
 		"uniqueName": "Bronze Colapse",
-		"uniques": "Provides [1] [Iron] <in [in all cities] cities>"],
-		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen","Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
+		"uniques": ["Provides [1] [Iron] <in [in all cities] cities>"],
+		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
+			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
 ]
