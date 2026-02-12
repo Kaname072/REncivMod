@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Yield from every [Holy site]","[50]% Yield from every [{all} {Improvement} {Land}] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+50]% Yield from every [Holy site]","[+50]% Yield from every [{all} {Improvement} {Land}] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -317,7 +317,34 @@
 		"outerColor": [32,32,32],
 		"innerColor": [255,255,255],
 		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","[+25]% City-State Influence degradation","\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Queen Anne's Revenge"]
+	},
+	{
+		"name": "Philistia",
+		"leaderName": "Achish",
+		"adjective": "Philistines"
+		"startBias": "Coast",
+		"preferredVictoryType": "Domination",
+		"personality": "Achish",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "The raid's are coming! you will save yourself or you people?",
+		"attacked": "This is nothing!",
+		"defeated": "My sword down, my crown fall, my people succumbed.",
+		"introduction": "From the sea, we are philistines and me the honorable king! Your empire is just it?",
+
+		"neutralHello": "You need something?",
+		"hateHello": "...",
+
+		"tradeRequest": "The sea people need your suplies.",
+
+		"outerColor": [140,71,23],
+		"innerColor": [249,231,206],
+		"uniqueName": "Bronze Colapse",
+		"uniques": "Provides [1] [Iron] <in [in all cities] cities>"],
+		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen","Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
 ]
