@@ -328,8 +328,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Achish",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Great King Achish! The Philistines were a people who inhabited southern Palestine, known for terrorizing the Egyptians and creating rivalry with the Israelites. Despite all our attacks against our rivals, you proved to be a merciful and wise leader, guiding our strength and technology that made us victorious in many wars, but our civilization was lost in the sands of time.",
+		"startIntroPart2": "King of the Philistines! Your glory and skill brought your city of Gath to its zenith! Can you replicate such a feat throughout the entire Philistine kingdom? Will you be able to create a civilization that withstands the test of time?",
 
 		"declaringWar": "The raid's are coming! you will save yourself or you people?",
 		"attacked": "This is nothing!",
@@ -337,14 +337,14 @@
 		"introduction": "From the sea, we are philistines and me the honorable king! Your empire is just it?",
 
 		"neutralHello": "You need something?",
-		"hateHello": "...",
+		"hateHello": "Uh...",
 
 		"tradeRequest": "The sea people need your suplies.",
 
-		"outerColor": [140,71,23],
-		"innerColor": [249,231,206],
-		"uniqueName": "Bronze Colapse",
-		"uniques": ["Discover [Iron Working] <upon discovering [Bronze Working] technology>"],
+		"outerColor": [146,124,121],
+		"innerColor": [100,74,20],
+		"uniqueName": "Sea People",
+		"uniques": ["[+1 Movement] <for [Land] units> <in [Coastal] tiles>","[-50]% Gold cost of upgrading <for [non-[Air]] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
