@@ -26,7 +26,7 @@
 		"uniqueTo": "Romania",
 		"replaces": "Temple",
 		"faith": 2,
-		"food": 2,
+		"production": 1,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -70,7 +70,7 @@
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
 		"faith": 1,
-		"cost": 20,
+		"cost": 30,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": ["[Faith] cost of purchasing [Missionary] units [-33]% <in this city>","Only available <when religion is enabled>"]
@@ -84,5 +84,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Dagom Temple",
+		"uniqueTo": "Philistines",
+		"replaces": "Temple",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith] from every [Wheat]","[+1 Faith] from every [Fishes]"],
+		"requiredTech": "Philosophy",
 	}
 ]
