@@ -344,7 +344,7 @@
 		"outerColor": [140,71,23],
 		"innerColor": [249,231,206],
 		"uniqueName": "Bronze Colapse",
-		"uniques": ["Instantly provides [2] [Iron] <upon founding a city>"],
+		"uniques": ["Instantly gain [2] [Iron] <upon founding a city>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
