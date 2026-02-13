@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Yield from every [Holy site]","[+50]% Yield from every [{all} {Improvement} {Land}] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+50]% Yield from every [Holy site]","[+50]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
