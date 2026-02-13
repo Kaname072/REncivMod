@@ -178,5 +178,20 @@
             "[This Unit] gets a name from the [Captain] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 4
+	},
+	{
+		"name": "Heavy Swordsman",
+		"replaces": "Swordsman",
+		"uniqueTo": "Philistines",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
