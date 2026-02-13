@@ -341,10 +341,10 @@
 
 		"tradeRequest": "The sea people need your suplies.",
 
-		"outerColor": [146,124,121],
-		"innerColor": [100,74,20],
+		"outerColor": [162,142,141],
+		"innerColor": [87,65,19],
 		"uniqueName": "Sea People",
-		"uniques": ["[+1 Movement] <for [Land] units> <in [Coastal] tiles>","[-50]% Gold cost of upgrading <for [non-[Air]] units>"],
+		"uniques": ["[+1] Movement <for [Land] units> <in [Coastal] tiles>","[-50]% Gold cost of upgrading <for [non-[Air]] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
