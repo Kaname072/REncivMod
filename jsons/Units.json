@@ -182,7 +182,7 @@
 	{
 		"name": "Heavy Swordsman",
 		"replaces": "Swordsman",
-		"uniqueTo": "Philistines",
+		"uniqueTo": "Philistia",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 14,
@@ -190,6 +190,8 @@
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
+		"uniques": ["Ignore terrain cost","Ignores Zone of Control","No defensive terrain bonus"],
+		"promotions": ["[Heavy Swordsman] ability"],
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
