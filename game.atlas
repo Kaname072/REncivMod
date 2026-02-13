@@ -81,6 +81,13 @@ NationIcons/Pirates
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Philistia
+  rotate: false
+  xy: 2200, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -172,6 +179,13 @@ UnitIcons/Great Captain
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Heavy Swordsman
+  rotate: false
+  xy: 2200, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Crusades Hospital
   rotate: false
   xy: 1200, 400
@@ -224,6 +238,13 @@ BuildingIcons/Kulumbimbi
 BuildingIcons/Tata Somba
   rotate: false
   xy: 1800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dagom Temple
+  rotate: false
+  xy: 2200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
