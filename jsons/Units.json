@@ -190,7 +190,7 @@
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
-		"uniques": ["Ignore terrain cost","Ignores Zone of Control","No defensive terrain bonus"],
+		"uniques": ["Ignores terrain cost","Ignores Zone of Control","No defensive terrain bonus"],
 		"promotions": ["[Heavy Swordsman] ability"],
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
