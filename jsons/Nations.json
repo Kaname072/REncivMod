@@ -321,7 +321,7 @@
 		"cities": ["Queen Anne's Revenge"]
 	},
 	{
-		"name": "Philistines",
+		"name": "Philistia",
 		"leaderName": "Achish",
 		"adjective": "Philistines"
 		"startBias": ["Coast","Avoid [Tundra]"],
@@ -344,7 +344,7 @@
 		"outerColor": [140,71,23],
 		"innerColor": [249,231,206],
 		"uniqueName": "Bronze Colapse",
-		"uniques": ["Instantly gain [2] [Iron] <upon founding a city>"],
+		"uniques": ["Provides [2] [Iron] <upon founding a city>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
