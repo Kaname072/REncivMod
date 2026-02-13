@@ -87,13 +87,13 @@
 	},
 	{
 		"name": "Dagom Temple",
-		"uniqueTo": "Philistines",
+		"uniqueTo": "Philistia",
 		"replaces": "Temple",
 		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Faith] from every [Wheat]","[+1 Faith] from every [Fishes]"],
+		"uniques": ["[+1 Faith] from every [Wheat]","[+1 Faith] from every [Fish]","Only available <when religion is enabled>","Destroyed when the city is captured"],
 		"requiredTech": "Philosophy",
 	}
 ]
