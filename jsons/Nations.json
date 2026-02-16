@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Yield from every [Holy site]","[+50]% Yield from every [worked] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+50]% Yield from every [Holy site]","[+100]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -262,7 +262,7 @@
 		"outerColor": [53,53,53],
 		"innerColor": [255,255,255],
 		"uniqueName": "Transatlantic Trade",
-		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
 	},
 	{		
@@ -290,7 +290,7 @@
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Age of Discovery",
-		"uniques": ["[+2 Production, +1 Gold] [in all cities] <on foreign continents>","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster"],
+		"uniques": ["[+2 Production, +1 Gold] [in all coastal cities]","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster"],
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	},
 	{
@@ -344,7 +344,7 @@
 		"outerColor": [162,142,141],
 		"innerColor": [87,65,19],
 		"uniqueName": "Sea People",
-		"uniques": ["[+1] Movement <for [Land] units> <in [Coastal] tiles>","[-50]% Gold cost of upgrading <for [non-[Air]] units>"],
+		"uniques": ["[+100]% Yield from every [Fishing Boats]","[-50]% Gold cost of upgrading <for [non-[Air]] units>"],
 		"cities": ["Gath","Ashkalon","Ashdod","Gaza","Ekron","Libnah","Azekah","Sharuhen",
 			"Gerar","Azor","Tel Qasila","Aphek","Gibbethon","Yurza"]
 	}
