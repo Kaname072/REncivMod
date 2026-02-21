@@ -38,8 +38,8 @@
     "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"]
   },
   {
-    "name": "[Heavy Swordsman] ability",
-    "uniques": ["No movement cost to pillage"]
+    "name": "[Imbangala Marauder] ability",
+    "uniques": ["[+15]% Strength <in [pillaged] tiles>","No movement cost to pillage"]
   },
   {
     "name": "Pirate Flag",
