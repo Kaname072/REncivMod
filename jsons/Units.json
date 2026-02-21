@@ -190,8 +190,8 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions": ["Amphibious","Woodsman"],
-		"uniques": ["No movement cost to pillage"],
+		"promotions": ["[Imbangala Marauder] ability"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
