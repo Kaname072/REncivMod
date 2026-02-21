@@ -341,10 +341,10 @@
 
 		"tradeRequest": "How about we reach this agreement?",
 
-		"outerColor": [0,0,0],
-		"innerColor": [218,41,28],
+		"outerColor": [218,41,28],
+		"innerColor": [0,0,0],
 		"uniqueName": "Mwene Ngola",
-		"uniques": [""],
+		"uniques": ["[+2] Happiness from each type of luxury resource","Can build [all] improvements at a [+25]% rate","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
