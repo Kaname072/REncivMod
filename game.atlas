@@ -81,8 +81,8 @@ NationIcons/Pirates
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Philistia
-  rotate: false
+NationIcons/Angola
+rotate: false
   xy: 2200, 0
   size: 200, 200
   orig: 100, 100
@@ -179,9 +179,16 @@ UnitIcons/Great Captain
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Heavy Swordsman
+UnitIcons/Imbangala Marauder
   rotate: false
   xy: 2200, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/T-55
+  rotate: false
+  xy: 2200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -238,13 +245,6 @@ BuildingIcons/Kulumbimbi
 BuildingIcons/Tata Somba
   rotate: false
   xy: 1800, 400
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Dagom Temple
-  rotate: false
-  xy: 2200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -368,6 +368,13 @@ TileSets/FantasyHex/Units/Minon
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Imbangala Marauder
+  rotate: false
+  xy: 5, 951
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Warrior-Pirates
   rotate: false
   xy: 47, 913
@@ -420,6 +427,13 @@ TileSets/HexaRealm/Units/War Cart
 TileSets/HexaRealm/Units/Minon
   rotate: false
   xy: 340, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Imbangala Marauder
+  rotate: false
+  xy: 413, 808
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
