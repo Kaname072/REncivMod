@@ -44,5 +44,9 @@
   {
     "name": "Pirate Flag",
     "uniques": ["[+400]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
+  },
+  {
+    "name": "Captured Tank",
+    "uniques": ["Comment [This is a captured tank from [Angola]]"]
   }
 ]
