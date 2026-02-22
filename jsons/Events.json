@@ -39,7 +39,7 @@
     "choices": [
       {
         "text": "[Enemy Camouflage]",
-        "triggeredUniques": [
+        "uniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Camouflage] promotion",
           "Play [WLTK] sound"
@@ -47,7 +47,7 @@
       },
       {
         "text": "[Enemy Land Knowledge]",
-        "triggeredUniques": [
+        "uniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Land Knowledge] promotion",
           "Play [WLTK] sound"
@@ -55,7 +55,7 @@
       },
       {
         "text": "[Enemy Tactics Knowledge]",
-        "triggeredUniques": [
+        "uniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Tactics Knowledge] promotion",
           "Play [WLTK] sound"
