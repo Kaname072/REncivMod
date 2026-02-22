@@ -51,8 +51,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,255,156],
-		"innerColor": [255,96,38],
+		"outerColor": [255,232,215],
+		"innerColor": [165,0,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
 		"uniques": ["[-33]% Natural religion spread [in all cities]","[+2] Movement <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold], [Science] & [Culture]]", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science] <hidden from users>"],
@@ -204,7 +204,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Routes",
-		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Hill] tiles> <when defending> <hidden from users>","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Forest] tiles> <when defending> <hidden from users>","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Jungle] tiles> <when defending> <hidden from users>"],
+		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles","[+25]% Strength <for [{Land} {Military}] units> <in [Open terrain] tiles> <in tiles adjacent to [{Rough terrain} {non-[Mountain]}] tiles> <when defending> <hidden from users>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -290,7 +290,7 @@
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Age of Discovery",
-		"uniques": ["[+2 Production, +1 Gold] [in all coastal cities]","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster"],
+		"uniques": ["Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster","[+2] Movement <for [Great Person] units> <when [Embarked]>"],
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	},
 	{
@@ -341,10 +341,10 @@
 
 		"tradeRequest": "How about we reach this agreement?",
 
-		"outerColor": [218,41,28],
-		"innerColor": [255,203,0],
+		"outerColor": [255,203,0],
+		"innerColor": [218,41,28],
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["Each city founded increases culture cost of policies [25]% less than normal","[+2 Culture] from every [Rare feature]"],
+		"uniques": ["[+10]% Strength <when fighting in [Luxury resource] tiles>","[+1 Production] from every [{Improvement} {Luxury resource}]","[+2 Culture] from every [Rare feature]"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
