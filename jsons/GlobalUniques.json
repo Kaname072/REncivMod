@@ -3,7 +3,6 @@
   "uniques": ["No defensive terrain bonus <for [{Military} {Land}] units> <in [Romania] tiles> <for [non-[Romania]] Civilizations>",
     "When defeating a [{T-55} {non-[Captured Tank]}] unit, earn [50] Gold and recruit it <for [non-[Angola]] Civilizations>",
     "When defeating a [{T-55} {Captured Tank}] unit, earn [100] Gold and recruit it <for [Angola] Civilizations>",
-    "[T-55] units gain the [Captured Tank] promotion <for [non-[Angola]] Civilizations>",
-    "[-25]% Strength <for [T-55] units> <for [non-[Angola]] Civilizations>","[-1] Movement <for [T-55] units> <for [non-[Angola]] Civilizations>",
+    "[-25]% Strength <for [T-55] units> <vs [Angola] Civilizations> <for [non-[Angola]] Civilizations>","[-1] Movement <for [T-55] units> <for [non-[Angola]] Civilizations>",
     "[-100]% maintenance costs <for [T-55] units> <for [non-[Angola]] Civilizations>"]
 }
