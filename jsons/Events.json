@@ -36,11 +36,10 @@
   {
     "name": "T-55 Rescue",
     "text": "We rescued our tank! select a promotion to it!",
-    "presentation": "Floating",
     "choices": [
       {
         "text": "[Enemy Camouflage]",
-        "uniques": [
+        "triggeredUniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Camouflage] promotion",
           "Play [WLTK] sound"
@@ -48,7 +47,7 @@
       },
       {
         "text": "[Enemy Land Knowledge]",
-        "uniques": [
+        "triggeredUniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Land Knowledge] promotion",
           "Play [WLTK] sound"
@@ -56,7 +55,7 @@
       },
       {
         "text": "[Enemy Tactics Knowledge]",
-        "uniques": [
+        "triggeredUniques": [
           "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Tactics Knowledge] promotion",
           "Play [WLTK] sound"
