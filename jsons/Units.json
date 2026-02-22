@@ -56,7 +56,7 @@
 		"rangedStrength": 6,
 		"cost": 40,
 		"requiredTech": "Archery",
-		"uniques": ["[-100]% maintenance costs","Can move immediately once bought"],
+		"uniques": ["[-50]% maintenance costs","Can move immediately once bought"],
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
@@ -83,7 +83,7 @@
 		"movement": 2,
 		"strength": 21,
 		"uniques": ["Can be purchased for [100] [Faith] [in holy cities]","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
-		"promotions": ["Crusader"],
+		"promotions": ["Deus Vult"],
 		"cost": 120,
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
@@ -102,7 +102,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["[+33]% Strength <vs [Swordsman] units>","May upgrade to [Spearman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"promotions": ["Lusitanian Bravery"],
 		"attackSound": "nonmetalhit",
 	},
@@ -190,8 +190,8 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions": ["[Imbangala Marauder] ability"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Besiege","[Imbangala Marauder] ability"],
+		"uniques": ["Earn [33]% of the damage done to [City] units as [Gold]","[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -206,7 +206,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"promotions": ["Drill I"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	}
 ]
