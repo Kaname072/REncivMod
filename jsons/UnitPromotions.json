@@ -47,10 +47,22 @@
   },
   {
     "name": "Captured Tank",
-    "uniques": ["Comment [This is a captured tank from [Angola]]"]
+    "uniques": ["Comment [This is a captured tank from [Angola]]","[This Unit] takes [10] damage <upon turn end> <in [non-[Angola]] tiles> <when number of [Remaining [Angola] Civilizations] is more than [0]>","Unable to pillage tiles <when number of [Remaining [Angola] Civilizations] is more than [0]>","Can only heal by pillaging <when number of [Remaining [Angola] Civilizations] is more than [0]>"]
   },
   {
-    "name": "Rescued A Tank",
-    "uniques": ["[+20] HP when healing"]
+    "name": "Rescued Tank",
+    "uniques": ["Comment [This is our rescued tank from our enemies]"]
+  },
+  {   //// Rescued Tanks Promotions ////
+    "name": "Enemy Camouflage",
+    "uniques": ["[+50]% Strength <vs [Air] units>","Invisible to non-adjacent units <in [Vegetation] tiles>"]
+  },
+  {
+    "name": "Enemy Land Knowledge",
+    "uniques": ["[+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>","Ignores Zone of Control <in [Enemy Land] tiles>"]
+  },
+  {
+    "name": "Enemy Tactics Knowledge",
+    "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>","Ignores Zone of Control <in [Friendly Land] tiles>"]
   }
 ]
