@@ -206,7 +206,7 @@
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
 		"promotions": ["Drill I"],
-		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Triggers a [T-55 Capture] event <upon being defeated> <for units without [Captured Tank] promotion> <hidden from users>","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	}
 ]
