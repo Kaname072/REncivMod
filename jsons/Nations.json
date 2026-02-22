@@ -204,7 +204,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Routes",
-		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles","[+25]% Strength <for [{Land} {Military}] units> <in [Open terrain] tiles> <in tiles adjacent to [{Rough terrain} {non-[Mountain]}] tiles> <when defending> <hidden from users>"],
+		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
