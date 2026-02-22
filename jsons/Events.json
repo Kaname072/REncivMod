@@ -28,7 +28,24 @@
         "text": "T-55 Capture",
         "uniques": [
           "[Target Unit] gains the [Captured Tank] promotion",
-          "[Target Unit] heals [100] HP",
+          "[Target Unit] heals [100] HP <upon turn start>",
+          "[Target Unit] gains [4] movement",
+          "Play [WLTK] sound"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "T-55 Rescue",
+    "text": "T-55 Rescue",
+    "presentation": "None",
+    "choices": [
+      {
+        "text": "T-55 Rescue",
+        "uniques": [
+          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] heals [100] HP <upon turn end>",
+          "[Target Unit] gains [5] movement",
           "Play [WLTK] sound"
         ]
       }
