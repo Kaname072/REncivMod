@@ -20,7 +20,7 @@
     "uniques": ["May capture killed [Siege] units","Can move after attacking"]
   },
   {
-    "name": "Crusader",
+    "name": "Deus Vult",
     "uniques": ["[+20]% Strength <when fighting in [Enemy Land] tiles>"]
   },
   {
@@ -39,7 +39,7 @@
   },
   {
     "name": "[Imbangala Marauder] ability",
-    "uniques": ["[+15]% Strength <in [pillaged] tiles>","No movement cost to pillage"]
+    "uniques": ["[+20]% Strength <when fighting in [pillaged] tiles>","No movement cost to pillage"]
   },
   {
     "name": "Pirate Flag",
