@@ -50,7 +50,7 @@
     "uniques": ["Comment [This is a captured tank from [Angola]]"]
   },
   {
-    "name": "Rescued Tank",
-    "uniques": ["[+20] HP when healing","[+10]% Strength bonus for [{Military} {Land}] units within [2] tiles"]
+    "name": "Rescued A Tank",
+    "uniques": ["[+20] HP when healing"]
   }
 ]
