@@ -18,6 +18,21 @@
         ]
       }
     ]
+  },
+  {
+    "name": "T-55 Capture",
+    "text": "T-55 Capture",
+    "presentation": "None",
+    "choices": [
+      {
+        "text": "T-55 Capture",
+        "uniques": [
+          "[This Unit] gains the [Captured Tank] promotion",
+          "[This Unit] heals [100] HP",
+          "Play [WLTK] sound"
+        ]
+      }
+    ]
   }
 ]
           
