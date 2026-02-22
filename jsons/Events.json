@@ -41,7 +41,7 @@
       {
         "text": "[Enemy Camouflage]",
         "uniques": [
-          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Camouflage] promotion",
           "Play [WLTK] sound"
         ]
@@ -49,7 +49,7 @@
       {
         "text": "[Enemy Land Knowledge]",
         "uniques": [
-          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Land Knowledge] promotion",
           "Play [WLTK] sound"
         ]
@@ -57,7 +57,7 @@
       {
         "text": "[Enemy Tactics Knowledge]",
         "uniques": [
-          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] gains the [Rescued Tank] promotion",
           "[Target Unit] gains the [Enemy Tactics Knowledge] promotion",
           "Play [WLTK] sound"
         ]
