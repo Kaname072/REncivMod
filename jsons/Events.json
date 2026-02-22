@@ -28,8 +28,6 @@
         "text": "T-55 Capture",
         "uniques": [
           "[Target Unit] gains the [Captured Tank] promotion",
-          "[Target Unit] heals [100] HP <upon turn start>",
-          "[Target Unit] gains [4] movement",
           "Play [WLTK] sound"
         ]
       }
@@ -37,15 +35,30 @@
   },
   {
     "name": "T-55 Rescue",
-    "text": "T-55 Rescue",
-    "presentation": "None",
+    "text": "We rescued our tank! select a promotion to it!",
+    "presentation": "Floating",
     "choices": [
       {
-        "text": "T-55 Rescue",
+        "text": "[Enemy Camouflage]",
         "uniques": [
           "[Target Unit] gains the [Rescued A Tank] promotion",
-          "[Target Unit] heals [100] HP <upon turn end>",
-          "[Target Unit] gains [5] movement",
+          "[Target Unit] gains the [Enemy Camouflage] promotion",
+          "Play [WLTK] sound"
+        ]
+      },
+      {
+        "text": "[Enemy Land Knowledge]",
+        "uniques": [
+          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] gains the [Enemy Land Knowledge] promotion",
+          "Play [WLTK] sound"
+        ]
+      },
+      {
+        "text": "[Enemy Tactics Knowledge]",
+        "uniques": [
+          "[Target Unit] gains the [Rescued A Tank] promotion",
+          "[Target Unit] gains the [Enemy Tactics Knowledge] promotion",
           "Play [WLTK] sound"
         ]
       }
