@@ -51,12 +51,12 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,212,12],
-		"innerColor": [234,0,0],
+		"outerColor": [255,255,156],
+		"innerColor": [255,96,38],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[+1 Faith] from every [Library]","[+2] Movement <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold], [Science] & [Culture]]", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science] <hidden from users>"],
-		"cities": ["M'Banza Kongo","Soyo","Luanda","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
+		"uniques": ["[-33]% Natural religion spread [in all cities]","[+2] Movement <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold], [Science] & [Culture]]", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science] <hidden from users>"],
+		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
 	{
@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-10]% Unhappiness from [Population] [in all cities] <in cities following our religion>","[100]% Health from pillaging tiles <for [Military] units>",
+		"uniques": ["[+2 Happiness] [in all cities] <in cities following our religion>","[+15]% Strength <vs [{Wounded} {Land}] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -203,8 +203,8 @@
 		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Lusitanian Heroism",
-		"uniques": ["Starts with [Honor] adopted"],
+		"uniqueName": "Lusitanian Routes",
+		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Hill] tiles> <when defending> <hidden from users>","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Forest] tiles> <when defending> <hidden from users>","[+25]% Strength <for [{Land} {Military}] units> <in tiles adjacent to [Jungle] tiles> <when defending> <hidden from users>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -233,7 +233,7 @@
 		"innerColor": [228,131,12],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
-		"uniques": ["Free Great Person <upon discovering [Writing] technology>","Starts with [Pottery]"],
+		"uniques": ["Free Great Person <upon discovering [Writing] technology>","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -262,7 +262,7 @@
 		"outerColor": [53,53,53],
 		"innerColor": [255,255,255],
 		"uniqueName": "Transatlantic Trade",
-		"uniques": ["Earn [75]% of killed [Military] unit's [Strength] as [Gold]"],
+		"uniques": ["Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
 	},
 	{		
@@ -342,9 +342,9 @@
 		"tradeRequest": "How about we reach this agreement?",
 
 		"outerColor": [218,41,28],
-		"innerColor": [0,0,0],
+		"innerColor": [255,203,0],
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+2] Happiness from each type of luxury resource","Can build [all] improvements at a [+25]% rate","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
+		"uniques": ["Each city founded increases culture cost of policies [25]% less than normal","[+2 Culture] from every [Rare feature]"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
