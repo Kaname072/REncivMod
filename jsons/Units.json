@@ -180,7 +180,7 @@
 		"movement": 4
 	},
 	{
-		"name": "Imbangala Marauder",
+		"name": "Jagas Marauder",
 		"uniqueTo": "Angola",
 		"replaces": "Spearman",
 		"unitType": "Sword",
@@ -190,8 +190,8 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions": ["Besiege","[Imbangala Marauder] ability"],
-		"uniques": ["Earn [33]% of the damage done to [City] units as [Gold]","[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["[Jagas Marauder] ability","Besiege"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
