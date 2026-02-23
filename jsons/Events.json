@@ -50,7 +50,7 @@
       {
         "text": "[Enemy Land Knowledge]",
         "uniques": [
-          "Comment [+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>]",
+          "Comment [[+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>]",
           "Comment [Ignores Zone of Control <in [Enemy Land] tiles>]",
           "[Target Unit] gains the [Rescued Tank] promotion <hidden from users>",
           "[Target Unit] gains the [Enemy Land Knowledge] promotion <hidden from users>",
