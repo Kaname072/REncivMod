@@ -84,7 +84,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+2 Happiness] [in all cities] <in cities following our religion>","[+15]% Strength <vs [{Wounded} {Land}] units>",
+		"uniques": ["[+2 Happiness] [in all cities] <in cities following our religion>","[+10]% Strength <vs [{Wounded} {Land}] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -204,7 +204,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Routes",
-		"uniques": ["Comment [Gain a terrain's defense bonus by also being adjacent to it.]","No Maintenance costs for improvements in [Fresh Water] tiles"],
+		"uniques": ["Comment [Gain a [50]% from terrain's defense bonus by also being adjacent to it]","No Maintenance costs for improvements in [Fresh Water] tiles"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -294,33 +294,6 @@
 		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
 	},
 	{
-		"name": "Pirates",
-		"leaderName": "Edward Teach",
-		"adjective": ["Pirate"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
-		"personality": "Edward Teach",
-
-		"startIntroPart1": "Great Blackbeard, the king of pirates, your grandeur in your raids and massacres is incompatible with any empire ever built, the King of the Seven Seas, the pirate leader. Even with the resignation of the British, you remained strong and fought to the death against the navy.",
-		"startIntroPart2": "Will the captain be able to rebuild the grand pirate empire? Will he be able to overcome the nations that pirates fear?",
-
-		"declaringWar": "Well, we were already at war before, but now it's official!",
-		"attacked": "You're challenging me?.",
-		"defeated": "I have nothing to declare, just kill me now!",
-		"introduction": "Wow! You found us? Well, I'm Blackbeard! Former privateer, the king of pirates!",
-
-		"neutralHello": "You need something?",
-		"hateHello": "I dont waste my patience on you!",
-		
-		"tradeRequest": "Well, I don't usually do this, so if you're kind...",
-
-		"outerColor": [32,32,32],
-		"innerColor": [255,255,255],
-		"uniqueName": "King of Pirates",
-		"uniques": ["[{Military} {Water}] units gain the [Pirate Flag] promotion","[+25]% City-State Influence degradation","\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Queen Anne's Revenge"]
-	},
-	{
 		"name": "Angola",
 		"leaderName": "Nzinga Mbandi",
 		"adjective": "Angolan"
@@ -328,8 +301,8 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Nzinga Mbandi",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Great and Powerful Nzinga Mbandi! Your Highness is magnificent, Great Queen of the ancient kingdoms of Ndongo and Matamba. Your Highness strategically conquered our riches, spirituality, and soldiers, and demanded our honor and recognition against the Portuguese colonists! Your struggle will never be forgotten! After years of countless confrontations, both diplomatic and violent, the great Angolan nation emerged through many struggles! But even after years of anguish, Angola still awaits its apogee.",
+		"startIntroPart2": "Great Queen Nzinga! You demonstrated courage and power against our colonizers! Show that power to our hearts! Angola awaits your great apogee!",
 
 		"declaringWar": "Our ideals are far apart, the raid's are coming!",
 		"attacked": "Your audacity impresses me, but not in a good way!",
@@ -344,7 +317,7 @@
 		"outerColor": [255,203,0],
 		"innerColor": [218,41,28],
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+10]% Strength <when fighting in [Luxury resource] tiles>","[+1 Production] from every [{Improvement} {Luxury resource}]","[+2 Culture] from every [Rare feature]"],
+		"uniques": ["[+10]% Strength <within [2] tiles of a [{Friendly Land}{Luxury resource}]>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
