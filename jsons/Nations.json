@@ -175,7 +175,7 @@
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Holy Land",
-		"uniques": ["[+50]% Yield from every [Holy site]","[+100]% Yield from every [Improvement] <in tiles adjacent to [Holy site] tiles>"],
+		"uniques": ["[+25]% Strength <when defending> <within [1] tiles of a [Holy site]>","[+50]% Yield from every [Holy site]","[+75]% Yield from every [{all} {Land}] <in tiles adjacent to [Holy site] tiles>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -204,7 +204,7 @@
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Lusitanian Routes",
-		"uniques": ["Comment [Gain a [50]% from terrain's defense bonus by also being adjacent to it]","No Maintenance costs for improvements in [Fresh Water] tiles"],
+		"uniques": ["Comment [Gain [12]% defense for units when is adjacent to rough terrain]","No Maintenance costs for improvements in [Fresh Water] tiles"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -317,7 +317,7 @@
 		"outerColor": [255,203,0],
 		"innerColor": [218,41,28],
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+10]% Strength <within [2] tiles of a [{Friendly Land}{Luxury resource}]>"],
+		"uniques": ["[+10]% [Production] [in this city] <during We Love The King Day>","[+10]% Strength <within [2] tiles of a [{Friendly Land} {Luxury resource}]>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
