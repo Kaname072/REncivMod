@@ -3,7 +3,7 @@
   "uniques": [//// Romania Unique
     "No defensive terrain bonus <for [{Military} {Land}] units> <in [Romania] tiles> <for [non-[Romania]] Civilizations>"
     ////T-55 stuff
-    ,"When defeating a [{T-55} {non-[Captured Tank]} {non-[Rescued Tank]}] unit, earn [50] Gold and recruit it <for [{Major} {non-[Angola]}] Civilizations>",
+    ,"When defeating a [{T-55} {non-[Captured Tank]} {non-[Rescued Tank]}] unit, earn [50] Gold and recruit it <with [75]% chance> <for [{Major} {non-[Angola]}] Civilizations>",
     "When defeating a [{T-55} {Captured Tank}] unit, earn [100] Gold and recruit it <for [Angola] Civilizations>",
     "Triggers a [T-55 Capture] event <upon gaining a [T-55] unit> <for [non-[Angola]] Civilizations> <when number of [Remaining [Angola] Civilizations] is more than [0]>",
     "Triggers a [T-55 Rescue] event <upon gaining a [T-55] unit> <for [Angola] Civilizations>"
@@ -11,5 +11,5 @@
     ,"[-10]% Strength <for [T-55] units> <vs [Angola] units> <for [non-[Angola]] Civilizations>","[-1] Sight <for [T-55] units> <for [non-[Angola]] Civilizations>",
     "[-100]% maintenance costs <for [T-55] units> <for [non-[Angola]] Civilizations>"
     //// Lusitanian Unique
-    ,"[+25]% Strength <for [{Land} {Military}] units> <in [Open terrain] tiles> <in tiles adjacent to [{Rough terrain} {non-[Mountain]}] tiles> <when defending> <for [Lusitanian] Civilizations>"]
+    ,"[+12]% Strength <for [{Land} {Military}] units> <in [Open terrain] tiles> <in tiles adjacent to [{Rough terrain} {non-[Mountain]}] tiles> <when defending> <for [Lusitanian] Civilizations>"]
 }
