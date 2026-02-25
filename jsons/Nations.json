@@ -114,7 +114,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trans-Saharan routes",
-		"uniques": ["[+2 Science, +2 Gold] from each Trade Route"],
+		"uniques": ["[+2 Science, +2 Gold] from each Trade Route","[+1 Gold] from every [Trading post]"],
 		"cities": ["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -173,8 +173,8 @@
 		"outerColor": [50,50,50],
 		"innerColor": [255,255,44],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Holy Land",
-		"uniques": ["[+25]% Strength <when defending> <within [1] tiles of a [{your} {Holy site}]>","[+50]% Yield from every [Holy site]","[+75]% Yield from every [{Improvement} {Land}] <in tiles adjacent to [Holy site] tiles>"],
+		"uniqueName": "The Pilgrimages",
+		"uniques": ["[+10]% Strength <for [Military] units> <within [1] tiles of a [{Friendly} {Religious Unit}]","[+1 Faith, +1 Happiness] [in cities following our religion]","[+1 Gold, +1 Culture] [in all cities] <in cities following a [foreign] religion>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -202,8 +202,8 @@
 		"outerColor": [255,224,72],
 		"innerColor": [0,20,154],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Lusitanian Routes",
-		"uniques": ["Comment [Gain [12]% defense for units when is adjacent to rough terrain]","No Maintenance costs for improvements in [Fresh Water] tiles"],
+		"uniqueName": "Tribes Coalization",
+		"uniques": ["Comment [Rebel units will spawn in enemy cities when at war]"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -315,8 +315,9 @@
 
 		"outerColor": [255,203,0],
 		"innerColor": [218,41,28],
+		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [2] neighboring [Strategic resource] tiles>","[+2 Happiness] [in all cities] <with [3] to [4] neighboring [Strategic resource] tiles>","[+10]% Strength <within [1] tiles of a [{Friendly Land} {Resource} {non-[Bonus resource]}]>"],
+		"uniques": ["Can build [Mine] improvements at a [+25]% rate","[10]% Production when constructing [{Military} {Land}] units <when at war>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	}
 ]
