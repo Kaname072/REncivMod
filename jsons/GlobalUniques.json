@@ -11,5 +11,5 @@
     ,"[-10]% Strength <for [T-55] units> <vs [Angola] units> <for [non-[Angola]] Civilizations>","[-1] Sight <for [T-55] units> <for [non-[Angola]] Civilizations>",
     "[-100]% maintenance costs <for [T-55] units> <for [non-[Angola]] Civilizations>"
     //// Lusitanian Unique
-    ,"[+12]% Strength <for [{Land} {Military}] units> <in [Open terrain] tiles> <in tiles adjacent to [{Rough terrain} {non-[Mountain]}] tiles> <when defending> <for [Lusitanian] Civilizations>"]
+    ,"Rebel units may spawn <when at war> <vs [Lusitanian]>"]
 }
