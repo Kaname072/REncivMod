@@ -17,7 +17,7 @@
 	  "uniqueTo": "Portugal",
 	  "terrainsCanBeBuiltOn": ["Land"],
 	  "gold": 2,
-	  "turnsToBuild": 10,
+	  "turnsToBuild": 8,
 	  "techRequired": "Navigation",
 	  "uniques": ["[+2 Happiness] <in tiles adjacent to [Luxury resource] tiles>",
 		  "Gives a defensive bonus of [50]%",
@@ -25,8 +25,7 @@
 		  "Can only be built on [Coastal] tiles <in tiles not adjacent to [Feitoria] tiles>",
 		  "Removes removable features when built",
 		  "Destroyed when pillaged",
-		  "Cannot be built on [Bonus resource] tiles",
-		  "Cannot be built on [Luxury resource] tiles",
+		  "Cannot be built on [Resource] tiles",
 		  "Tile provides yield without assigned population",
 		  "Pillaging this improvement yields approximately [+33 Gold]"]
   }
