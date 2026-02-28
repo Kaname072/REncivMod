@@ -95,6 +95,13 @@ UnitIcons/Templar Knight
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Turcopole Cavalry
+  rotate: false
+  xy: 1200, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Pracinha
   rotate: false
   xy: 0, 200
@@ -410,6 +417,13 @@ TileSets/FantasyHex/Units/T-55
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Turcopole Cavalry
+  rotate: false
+  xy: 89, 951
+  size: 47, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Warrior-Pirates
   rotate: false
   xy: 47, 913
@@ -478,6 +492,13 @@ TileSets/HexaRealm/Units/T-55
   xy: 413, 873
   size: 64, 56
   orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Turcopole Cavalry
+  rotate: false
+  xy: 486, 873
+  size: 64, 65
+  orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-Pirates
