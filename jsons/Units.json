@@ -53,7 +53,7 @@
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 6,
+		"rangedStrength": 7,
 		"cost": 40,
 		"requiredTech": "Archery",
 		"uniques": ["[-50]% maintenance costs","Can move immediately once bought"],
@@ -82,7 +82,7 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 21,
-		"uniques": ["Can be purchased for [100] [Faith] [in holy cities]","Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
 		"promotions": ["Deus Vult"],
 		"cost": 120,
 		"requiredTech": "Steel",
@@ -208,5 +208,21 @@
 		"promotions": ["Drill I"],
 		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
+	},
+	{
+		"name": "Turcopole Cavalry",
+		"replaces": "Knight",
+		"uniqueTo": "Jerusalem",
+		"unitType": "Archery",
+		"movement": 5,
+		"strength": 21,
+		"rangedStrength": 18,
+		"cost": 110,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
+		"attackSound": "horse"
 	}
 ]
