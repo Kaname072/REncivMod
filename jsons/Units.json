@@ -205,7 +205,6 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"promotions": ["Drill I"],
 		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
@@ -215,14 +214,14 @@
 		"uniqueTo": "Jerusalem",
 		"unitType": "Archery",
 		"movement": 5,
-		"strength": 21,
-		"rangedStrength": 18,
-		"cost": 110,
+		"strength": 20,
+		"rangedStrength": 15,
+		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Can move immediately once bought"],
 		"attackSound": "horse"
 	}
 ]
