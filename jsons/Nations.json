@@ -170,11 +170,11 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [50,50,50],
-		"innerColor": [255,255,44],
+		"outerColor": [255,233,39],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Pilgrimages",
-		"uniques": ["[+10]% Strength <for [Military] units> <within [1] tiles of a [{Friendly} {Religious Unit}]","[+1 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+1 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
+		"uniques": ["[+10]% Strength <for [Military] units> <within [1] tiles of a [{Friendly} {Religious Unit}]>","[+1 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+1 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
