@@ -40,8 +40,8 @@
       {
         "text": "[Enemy Camouflage]",
         "uniques": [
-          "Comment [[+50]% Strength <vs [Air] units>]",
-          "Comment [Invisible to non-adjacent units <in [Vegetation] tiles>]",
+          "Comment [[+50]% [Strength] [vs [Air] units]]",
+          "Comment []Invisible to non-adjacent units] [in [Vegetation] tiles]]",
           "[Target Unit] gains the [Rescued Tank] promotion <hidden from users>",
           "[Target Unit] gains the [Enemy Camouflage] promotion <hidden from users>",
           "Play [WLTK] sound"
@@ -50,8 +50,8 @@
       {
         "text": "[Enemy Land Knowledge]",
         "uniques": [
-          "Comment [[+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>]",
-          "Comment [Ignores Zone of Control <in [Enemy Land] tiles>]",
+          "Comment [[+25]% [Strength] [when defending> <vs [non-[Melee]] units] [when fighting in [Enemy Land] tiles]]",
+          "Comment [[Ignores Zone of Control] [in [Enemy Land] tiles]]",
           "[Target Unit] gains the [Rescued Tank] promotion <hidden from users>",
           "[Target Unit] gains the [Enemy Land Knowledge] promotion <hidden from users>",
           "Play [WLTK] sound"
@@ -60,8 +60,8 @@
       {
         "text": "[Enemy Tactics Knowledge]",
         "uniques": [
-          "Comment [[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>]",
-          "Comment [Ignores Zone of Control <in [Friendly Land] tiles>]",
+          "Comment [[+10]% [Strength bonus for [{Military} {Land}] units within [1] tiles] [in [Friendly Land] tiles]]",
+          "Comment [[Ignores Zone of Control] [in [Friendly Land] tiles]]",
           "[Target Unit] gains the [Rescued Tank] promotion <hidden from users>",
           "[Target Unit] gains the [Enemy Tactics Knowledge] promotion <hidden from users>",
           "Play [WLTK] sound"
