@@ -41,7 +41,7 @@
         "text": "[Enemy Camouflage]",
         "uniques": [
           "Comment [[+50]% [Strength] [vs [Air] units]]",
-          "Comment []Invisible to non-adjacent units] [in [Vegetation] tiles]]",
+          "Comment [[Invisible to non-adjacent units] [in [Vegetation] tiles]]",
           "[Target Unit] gains the [Rescued Tank] promotion <hidden from users>",
           "[Target Unit] gains the [Enemy Camouflage] promotion <hidden from users>",
           "Play [WLTK] sound"
