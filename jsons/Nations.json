@@ -181,7 +181,7 @@
 		"name": "Lusitanian",
 		"leaderName": "Viriato",
 		"adjective": ["Lusitanian"],
-		"startBias": ["Forest","Avoid [Tundra]"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Viriato",
 
@@ -198,8 +198,8 @@
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [34,209,249],
-		"innerColor": [37,124,255],
+		"outerColor": [65,215,150],
+		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
 		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]"],
