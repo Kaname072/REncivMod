@@ -228,13 +228,6 @@ BuildingIcons/Ziggurat Temple
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hillfort
-  rotate: false
-  xy: 1000, 400
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Kulumbimbi
   rotate: false
   xy: 200, 600
@@ -263,9 +256,9 @@ ImprovementIcons/Feitoria
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Hospitaller Fort
+ImprovementIcons/Hillfort
   rotate: false
-  xy: 1200, 400
+  xy: 1000, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -305,7 +298,7 @@ UnitPromotionIcons/No Fear
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Lusitanian Bravery
+UnitPromotionIcons/Iuventus Lusitana
   rotate: false
   xy: 1000, 0
   size: 200, 200
