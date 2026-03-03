@@ -30,8 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Lusitanian Bravery",
-    "uniques": ["Can see over obstacles","No defensive terrain penalty"]
+    "name": "Iuventus Lusitana",
+    "uniques": ["Can see over obstacles <in [Vegetation] tiles>"]
   },
   {
     "name": "[Minon] ability",
