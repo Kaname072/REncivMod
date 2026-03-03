@@ -41,7 +41,7 @@
 		  "[+1 Faith] <after discovering [Theology]>",
 		  "Costs [1] [Gold] per turn",
 		  "Removes removable features when built",
-		  "Unbuildable <in tiles not adjacent to [Pedra Formosa] tiles>",
+		  "Unbuildable <in tiles adjacent to [Pedra Formosa] tiles>",
 		  "Pillaging this improvement yields approximately [+8 Gold]"]
   }
 ]
