@@ -103,7 +103,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Iuventus Lusitana"],
+		"promotions": ["Lusitanian Bravery"],
 		"attackSound": "nonmetalhit",
 	},
 	{
@@ -191,7 +191,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"promotions": ["[Jagas Marauder] ability","Besiege"],
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["No movement cost to pillage"],
 		"attackSound": "metalhit"
 	},
 	{
