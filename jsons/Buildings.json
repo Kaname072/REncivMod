@@ -64,5 +64,14 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["New [Military] units start with [15] XP [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Royal Library",
+		"uniqueTo": "Assyria",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+20]% [Science] [in this city] <for [10] turns> <upon conquering a city>"],
+		"requiredTech": "Writing"
 	}
 ]
