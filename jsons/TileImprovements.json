@@ -28,20 +28,5 @@
 		  "Cannot be built on [Resource] tiles",
 		  "Tile provides yield without assigned population",
 		  "Pillaging this improvement yields approximately [+33 Gold]"]
-  },
-  {
-	  "name": "Pedra Formosa",
-	  "uniqueTo": "Lusitanian",
-	  "terrainsCanBeBuiltOn": ["Land"],
-	  "production": 1,
-	  "turnsToBuild": 7,
-	  "techRequired": "Engineering",
-	  "uniques": ["[+1 Production] for each adjacent [Fresh Water]",
-		  "[+1 Faith] <after discovering [Philosophy]>",
-		  "[+1 Faith] <after discovering [Theology]>",
-		  "Costs [1] [Gold] per turn",
-		  "Removes removable features when built",
-		  "Can only be built on [Fresh Water] tiles <in tiles not adjacent to [Pedra Formosa] tiles>",
-		  "Pillaging this improvement yields approximately [+8 Gold]"]
   }
 ]
