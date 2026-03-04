@@ -25,13 +25,21 @@
   },
   {
     "name": "No Fear",
-    "uniques": ["Ignores Zone of Control"],
+    "uniques": ["Ignores Zone of Control","No defensive terrain penalty"],
     ///"outerColor": [225,0,0],
     "innerColor": [255,0,0]
   },
   {
-    "name": "Iuventus Lusitana",
-    "uniques": ["[+20]% Strength <when the number of [[Strength] [This Unit] Units] is less than [[Strength] [Target Unit] Units]>"]
+    "name": "Lusitanian Bravery",
+    "uniqueText": "[+20]% [Strength] vs [Advanced Tech Melee Unit]",
+    "uniques": ["Comment [[+20]% [Strength] vs [Advanced Tech Melee Unit]",
+      "[+20]% Strength <vs [Swordsman] units> <when [Warrior]> <hidden from users>",
+      "[+20]% Strength <vs [Longswordsman] units> <when [Swordsman]> <hidden from users>",
+      "[+20]% Strength <vs [Musketman] units> <when [Longswordsman]> <hidden from users>",
+      "[+20]% Strength <vs [Rifleman] units> <when [Musketman]> <hidden from users>",
+      "[+20]% Strength <vs [Great War Infantry] units> <when [Rifleman]> <hidden from users>",
+      "[+20]% Strength <vs [Infantry] units> <when [Great War Infantry]> <hidden from users>",
+      "[+20]% Strength <vs [Mechanized Infantry] units> <when [Infantry]> <hidden from users>"]
   },
   {
     "name": "[Minon] ability",
