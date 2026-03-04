@@ -31,7 +31,7 @@
   },
   {
     "name": "Iuventus Lusitana",
-    "uniques": ["Can see over obstacles <in [Vegetation] tiles>"]
+    "uniques": ["[+20]% Strength <when the number of [[Strength] [This Unit] Units] is less than [[Strength] [Target Unit] Units]>"]
   },
   {
     "name": "[Minon] ability",
