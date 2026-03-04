@@ -73,5 +73,18 @@
 		"maintenance": 1,
 		"uniques": ["[+1 Science] per [2] population [in this city]","[+20]% [Science] [in this city] <for [10] turns> <upon conquering a city>"],
 		"requiredTech": "Writing"
+	},
+	{
+		"name": "Pedra Formosa",
+		"uniqueTo": "Lusitanian",
+		"replaces": "Stone Works",
+		"happiness": 1,
+		"production": 1,		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["Must be next to [[Fresh Water]",
+			"[+1 Production, +1 Faith] from [Stone] tiles [in this city]",
+			"[+1 Production, +1 Faith] from [Marble] tiles [in this city]"],
+		"requiredTech": "Calendar"
 	}
 ]
