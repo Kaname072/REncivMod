@@ -343,7 +343,7 @@
 		"outerColor": [251,255,206],
 		"innerColor": [255,177,9],
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["Free Technology <upon conquering a city>"],
+		"uniques": ["[+25]% [Culture] <in [Razing] cities> <when at war>","[+25]% [Science] <in [Razing] cities> <when at war>"],
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",	"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
 	}
