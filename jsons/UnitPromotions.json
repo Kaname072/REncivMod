@@ -32,8 +32,7 @@
   {
     "name": "Lusitanian Bravery",
     "uniqueText": "[+20]% [Strength] vs [Advanced Tech Melee Unit]",
-    "uniques": ["Comment [[+20]% [Strength] vs [Advanced Tech Melee Unit]",
-      "[+20]% Strength <vs [Swordsman] units> <when [Warrior]> <hidden from users>",
+    "uniques": ["[+20]% Strength <vs [Swordsman] units> <when [Warrior]> <hidden from users>",
       "[+20]% Strength <vs [Longswordsman] units> <when [Swordsman]> <hidden from users>",
       "[+20]% Strength <vs [Musketman] units> <when [Longswordsman]> <hidden from users>",
       "[+20]% Strength <vs [Rifleman] units> <when [Musketman]> <hidden from users>",
