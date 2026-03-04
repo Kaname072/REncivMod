@@ -210,8 +210,8 @@
 	},
 	{
 		"name": "Turcopole Cavalry",
-		"replaces": "Knight",
 		"uniqueTo": "Jerusalem",
+		"replaces": "Knight",
 		"unitType": "Archery",
 		"movement": 5,
 		"strength": 20,
@@ -223,5 +223,21 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Can move immediately once bought"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Siege Tower",
+		"uniqueTo": "Assyria",
+		"replaces": "Catapult",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 11,
+		"cost": 100,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus","[+30]% Strength bonus for [Sword] units within [1] tiles <in tiles adjacent to [{Enemy} {City center}] tiles>","Can only attack [City] units"],
+		"promotions": ["Cover I"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
 	}
 ]
