@@ -202,7 +202,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]"],
+		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]","[+1 Production] from every [Quarry] <in cities without a [Pedra Formosa]>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -316,7 +316,7 @@
 		"innerColor": [218,41,28],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["Can build [all] improvements at a [+25]% rate","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
+		"uniques": ["Can build [all] improvements at a [+25]% rate <when not at war>","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
@@ -342,8 +342,12 @@
 
 		"outerColor": [251,255,206],
 		"innerColor": [255,177,9],
+		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["[+25]% [Culture] <in [Razing] cities> <when at war>","[+25]% [Science] <in [Razing] cities> <when at war>"],
+		"uniques": ["Comment [Upon capturing a city, receive [10] times its [Culture], [Science] & [Food] production as [Science] immediately]",
+			"Upon capturing a city, receive [10] times its [Culture] production as [Science] immediately <hidden from users>",
+			"Upon capturing a city, receive [10] times its [Science] production as [Science] immediately <hidden from users>",
+			"Upon capturing a city, receive [10] times its [Food] production as [Science] immediately <hidden from users>"],
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",	"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
 	}
