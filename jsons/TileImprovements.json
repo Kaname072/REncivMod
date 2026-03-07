@@ -3,7 +3,7 @@
 	  "name": "Brazilwood Camp",
 	  "uniqueTo": "Brazil",
 	  "terrainsCanBeBuiltOn": ["Jungle"],
-	  "production": 2,
+	  "production": 1,
 	  "turnsToBuild": 7,
 	  "techRequired": "Machinery",
 	  "uniques": ["[+2 Culture] <after discovering [Acoustics]>",
@@ -13,12 +13,28 @@
 		  "Pillaging this improvement yields approximately [+18 Gold]"]
   },
   {
+	  "name": "Tata Somba",
+	  "uniqueTo": "Dahomey",
+	  "terrainsCanBeBuiltOn": ["Desert","Plains"],
+	  "gold": 1,
+	  "turnsToBuild": 7,
+	  "techRequired": "Engineering",
+	  "uniques"[
+		  "[+1 Gold] for each adjacent [Trading post]",
+		  "[+1 Food] for each adjacent [Farm]",
+		  "Tile provides yield without assigned population",
+		  "Must be next to [City center]",
+		  "Unavailable <within [2] tiles of a [Tata Somba]> <hidden from users>",
+		  "Pillaging this improvement yields approximately [+22 Gold, +18 Culture]"
+	  ]
+  },
+  {
 	  "name": "Feitoria",
 	  "uniqueTo": "Portugal",
 	  "terrainsCanBeBuiltOn": ["Land"],
 	  "gold": 1,
 	  "turnsToBuild": 8,
-	  "techRequired": "Agriculture",
+	  "techRequired": "Navigation",
 	  "uniques": [
 		  "Comment [Provides a [1] copy of a adjacent Land Luxury resource]",
 		  "Must be next to [{City-State} {Luxury resource}]",
@@ -47,8 +63,7 @@
 		  "Removes removable features when built <hidden from users>",
 		  "Destroyed when pillaged <hidden from users>",
 		  "Cannot be built on [Resource] tiles",
-		  "Tile provides yield without assigned population <hidden from users>",
-		  "[-2 Gold] <hidden from users>",
+		  "[-1 Gold] <hidden from users>",
 		  "Pillaging this improvement yields approximately [+33 Gold]"]
   }
 ]
