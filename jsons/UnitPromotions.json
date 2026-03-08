@@ -30,15 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Lusitanian Bravery",
-    "uniqueText": "[+20]% [Strength] vs [Advanced Tech Melee Unit]",
-    "uniques": ["[+20]% Strength <vs [Swordsman] units> <when [Warrior]> <hidden from users>",
-      "[+20]% Strength <vs [Longswordsman] units> <when [Swordsman]> <hidden from users>",
-      "[+20]% Strength <vs [Musketman] units> <when [Longswordsman]> <hidden from users>",
-      "[+20]% Strength <vs [Rifleman] units> <when [Musketman]> <hidden from users>",
-      "[+20]% Strength <vs [Great War Infantry] units> <when [Rifleman]> <hidden from users>",
-      "[+20]% Strength <vs [Infantry] units> <when [Great War Infantry]> <hidden from users>",
-      "[+20]% Strength <vs [Mechanized Infantry] units> <when [Infantry]> <hidden from users>"]
+    "name": "Mysticism Warrior",
+    "uniques": ["Triggers a [Lusitanian Heroism] event <for [1] movement>","Double movement in [River]"]
   },
   {
     "name": "[Minon] ability",
@@ -46,11 +39,11 @@
   },
   {
     "name": "[Jagas Marauder] ability",
-    "uniques": ["Earn [50]% of the damage done to [City] units as [Gold]"]
+    "uniques": ["Earn [75]% of the damage done to [City] units as [Gold]"]
   },
   {
-    "name": "Pirate Flag",
-    "uniques": ["[+400]% Yield from pillaging tiles","May enter foreign tiles without open borders"]
+    "name": "[Cetbang Cannon] ability",
+    "uniques": ["[+100]% Strength <vs [Water] units> <when attacking>"]
   },
   {
     "name": "Captured Tank",
@@ -59,6 +52,14 @@
   {
     "name": "Rescued Tank",
     "uniques": ["Comment [This is our rescued tank from our enemies]"]
+  },
+  {
+    "name": "Heavy Charge",
+    "uniques": ["Ignores Zone of Control", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+  },
+  {
+    "name": "Desert Warrior",
+    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
