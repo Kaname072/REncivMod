@@ -74,7 +74,7 @@ NationIcons/Dahomey
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Pirates
+NationIcons/Poland
   rotate: false
   xy: 2000, 0
   size: 200, 200
@@ -91,6 +91,20 @@ rotate: false
 NationIcons/Assyria
 rotate: false
   xy: 2400, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Morocco
+rotate: false
+  xy: 2600, 0
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Indonesia
+rotate: false
+  xy: 2800, 0
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -179,16 +193,9 @@ UnitIcons/Nau
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sloop
+UnitIcons/Winged Hussar
   rotate: false
   xy: 2000, 200
-  size: 200, 200
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Great Captain
-  rotate: false
-  xy: 2000, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -210,6 +217,20 @@ UnitIcons/T-55
 UnitIcons/Siege Tower
   rotate: false
   xy: 2400, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Berber Cavalry
+  rotate: false
+  xy: 2600, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cetbang Cannon
+  rotate: false
+  xy: 2800, 200
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -270,6 +291,20 @@ BuildingIcons/Pedra Formosa
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Ducal Stable
+  rotate: false
+  xy: 2000, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Candi
+  rotate: false
+  xy: 2800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Brazilwood Camp
   rotate: false
   xy: 0, 400
@@ -284,9 +319,9 @@ ImprovementIcons/Feitoria
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Pedra Formosa
+ImprovementIcons/Kasbah
   rotate: false
-  xy: 1000, 400
+  xy: 2600, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
