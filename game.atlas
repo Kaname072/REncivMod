@@ -305,6 +305,27 @@ BuildingIcons/Candi
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Nutmeg Plantation
+  rotate: false
+  xy: 2400, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cloves Plantation
+  rotate: false
+  xy: 2200, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pepper Plantation
+  rotate: false
+  xy: 2000, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ResourceIcons/Pepper
   rotate: false
   xy: 2000, 1000
