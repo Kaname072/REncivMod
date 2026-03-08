@@ -99,5 +99,17 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
+	}, ///Extra luxury for Indonesia
+	{
+		"name": "Nutmeg Plantation",
+		"uniques": ["Provides [2] [Nutmeg]","Unbuildable","Unsellable"]
+	},
+	{
+		"name": "Cloves Plantation",
+		"uniques": ["Provides [2] [Cloves]","Unbuildable","Unsellable"]
+	},
+	{
+		"name": "Pepper Plantation",
+		"uniques": ["Provides [2] [Pepper]","Unbuildable","Unsellable"]
 	}
 ]
