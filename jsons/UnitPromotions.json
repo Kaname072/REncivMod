@@ -30,8 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Mysticism Warrior",
-    "uniques": ["Triggers a [Lusitanian Heroism] event <for [1] movement>","Double movement in [River]"]
+    "name": "[Iberian Warrior] ability",
+    "uniques": ["Double movement in [River]"]
   },
   {
     "name": "[Minon] ability",
