@@ -1,20 +1,24 @@
 [
   {
-    "name": "Pirate Plunder",
-    "text": "You wanna our Pirate loot the adjacent ships?",
-    "presentation": "None",
+    "name": "Spice Islanders",
+    "text": "We research exotic spices! select one to gain [2]",
     "choices": [
       {
-        "text": "Pirate Plunder",
+        "text": "[]",
         "uniques": [
-          "[This Unit] takes [35] damage",
-          "Remove [Fishing Boats] improvements from this tile",
-          "Gain [25]-[100] [Gold] <(modified by game speed)>",
-          "Gain [25]-[75] [Culture] <(modified by game speed)>",
-          "Free Great Person <with [1]% chance>",
-          "[+25]% City-State Influence degradation <for [7] turns> <in [City-State] tiles>",
-          "Triggers the following global alert: [Pirates attacked fishing boats!]",
-          "Play [cannon] sound"
+          "Play [WLTK] sound"
+        ]
+      },
+      {
+        "text": "[]",
+        "uniques": [
+          "Play [WLTK] sound"
+        ]
+      },
+      {
+        "text": "[]",
+        "uniques": [
+          "Play [WLTK] sound"
         ]
       }
     ]
