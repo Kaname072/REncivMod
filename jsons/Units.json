@@ -47,7 +47,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Sofa Skirmisher",
+		"name": "Sofa",
 		"uniqueTo": "Mali",
 		"replaces": "Archer",
 		"unitType": "Archery",
@@ -147,6 +147,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
+		"promotions": ["Landing Party"],
 		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
@@ -187,7 +188,7 @@
 		"unitType": "Archery",
 		"movement": 5,
 		"strength": 20,
-		"rangedStrength": 15,
+		"rangedStrength": 16,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
@@ -241,7 +242,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"promotions": ["Desert Warrior"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in [your] territory>","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in [your] tiles>","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "cavalry"
 	},
 	{
