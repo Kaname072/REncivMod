@@ -6,21 +6,21 @@
       {
         "text": "[Nutmeg]",
         "uniques": [
-          "Provides [2] [Nutmeg] <in this city> <hidden from users>",
+          "Gain a free [Nutmeg Plantation] [in this city] <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Cloves]",
         "uniques": [
-          "Provides [2] [Cloves] <in this city> <hidden from users>",
+          "Gain a free [Cloves Plantation] [in this city] <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Pepper]",
         "uniques": [
-          "Provides [2] [Pepper] <in this city> <hidden from users>",
+          "Gain a free [Pepper Plantation] [in this city] <hidden from users>",
           "Play [WLTK] sound"
         ]
       }
