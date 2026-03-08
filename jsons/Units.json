@@ -241,7 +241,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"promotions": ["Desert Warrior"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in your territory>","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in [your] territory>","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "cavalry"
 	},
 	{
@@ -251,8 +251,8 @@
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 14,
-		"rangedStrength": 17,
-		"cost": 155,
+		"rangedStrength": 18,
+		"cost": 165,
 		"requiredTech": "Chemistry",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
