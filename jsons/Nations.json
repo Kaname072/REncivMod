@@ -27,8 +27,10 @@
 		"uniques": ["[Great Artist] is earned [50]% faster <while the empire is happy>",
 			"Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
-		"cities": ["Rio de Janeiro","São Paulo","Salvador","Fortaleza","Florianópolis","Paraíba","Belém",
-			"Teresina","São Vincente","Maceió","Natal","Rio Branco","Macapá","Porto Alegre","João Pessoa","Curitiba"]
+		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
+			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
+			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá",
+			"Feira de Santana","Juiz de Fora","Joinville","Macapá","Jundiaí"]
 	},
 	{
 		"name": "Kongo",
@@ -289,7 +291,9 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Age of Discovery",
 		"uniques": ["Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster","[+2] Movement <for [Great Person] units> <when [Embarked]>"],
-		"cities": ["Lisbon","Amadora","Setubal","Coimbra","Porto","Braga","Nazare","Monsanto","Portalegre","Evora","Sines","Beja","Sagres","Lagos","Faro","Bragança"]
+		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
+			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
+			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego"]
 	},
 	{
 		"name": "Angola",
@@ -382,5 +386,69 @@
 			"Katowice","Bialystok","Gdynia","Swidnica","Czestochowa","Radom","Torun„","Kielce","Gliwice","Lowicz",
 			"Bytom","Olsztyn","Rzeszow","Ruda Slaska","Bielsko-Biala","Rybnik","Plock","Elblag","Gorzow Wielkopolski","Opole",
 			"Leczyca","Walbrzych","Zielona Gora","Wloclawek"]
+	},
+	{
+		"name": "Indonesia",
+		"leaderName": "Gajah Mada",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Gajah Mada",
+
+		"startIntroPart1": "Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.",
+		"startIntroPart2": "Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?",
+
+		"declaringWar": "Don't mean to stand in your way, but I have to protect them!",
+		"attacked": "How dare you! Really insignificant as well!",
+		"defeated": "You may win, but you cannot win upon my spirit.",
+		"introduction": "You came before the great warrior, Gajah Mada from Nusantara!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "Are you a male concubine, stranger?",
+		"tradeRequest": "What if we make a deal, you and me?",
+
+		"outerColor": [99,205,218],
+		"innerColor": [168,53,32],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Spice Islanders",
+		"uniques": ["Comment [Receive a [Nutmeg], [Cloves] & [Pepper] luxury resources in coastal cities in other continents (In continents where the capital is not located)]","[+1 Happiness] [in all coastal cities] <on foreign continents>","Triggers a [Spice Islanders] event <upon founding a city> <on foreign continents> <hidden from users>","[1] Movement point cost to embark"],
+
+		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
+			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
+			"Malang","Padang","Ternate","Banjarmasin","Pontianak","Cimahi","Balikpapan","Jambi","Komodo","Solo",
+			"Biak","Djawa","Kudus","Lombok","Samosir","Sragen","Garut","Gresik","Nias","Madiun",
+			
+			"Yogyakarta","Bima","Sorong"]
+	},
+	{
+		"name": "Morocco",
+		"leaderName": "Ahmad al-Mansur",
+		"adjective": ["Moroccan"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Ahmad al-Mansur",
+
+		"startIntroPart1": "The people of Morocco await your guidance, great Sultan Ahmad al-Mansur of the Saadi Dynasty. Well known for your skill as both a negotiator and a diplomat, your careful words allowed the forging of new alliances, securing the sovereignty of your nation and its people for decades. And still, when words failed, you found equal success in conquest, leading the Moroccan armies to victory on the battlefield while greatly expanding the grasp of your empire.",
+		"startIntroPart2": "Wise and respected Sultan, the people look to you for leadership. Can your diplomacy match that of your rivals, or will you meet them sword in hand? Your once great kingdom yearns for that former glory - can you build a civilization that stands the test of time?",
+
+		"declaringWar": "The gain from the war, what will you get out of it?",
+		"attacked": "Shame on you, using violence which doesn't solve anything.",
+		"defeated": "The gain is having a clean system from corruption.",
+		"introduction": "I am the Sultan of Marrakesh Ahmad Al-Mansur, in the name of my people I welcome you!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What are you doing here?",
+		"tradeRequest": "I came with all hope, but haven't reached an agreement.",
+
+		"outerColor": [160,12,9],
+		"innerColor": [54,189,98],
+		"favoredReligion": "Islam",
+		"uniqueName": "Gateway to Africa",
+		"uniques": ["[+1 Culture, +2 Gold] from each Trade Route","[+1 Culture] from every [Trading post]"],
+
+		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
+			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
+			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
+			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"]
 	}
 ]
