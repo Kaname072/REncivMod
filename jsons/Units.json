@@ -103,7 +103,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Mysticism Warrior"],
+		"promotions": ["[Iberian Warrior] ability"],
 		"attackSound": "nonmetalhit",
 	},
 	{
