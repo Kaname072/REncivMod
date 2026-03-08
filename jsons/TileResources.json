@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pepper",
+    "resourceType": "Luxury",
+    "gold": 2,
+    "uniques": ["Doesn't generate naturally"]
+  },
+  {
+    "name": "Cloves",
+    "resourceType": "Luxury",
+    "food": 2,
+    "uniques": ["Doesn't generate naturally"]
+  },
+  {
+    "name": "Nutmeg",
+    "resourceType": "Luxury",
+    "food": 2,
+    "uniques": ["Doesn't generate naturally"]
+  }
+]
