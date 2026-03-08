@@ -76,5 +76,28 @@
 			"[+1 Production, +1 Faith] from [Stone] tiles [in this city]",
 			"[+1 Production, +1 Faith] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
+	},
+	{
+		"name": "Ducal Stable",
+		"uniqueTo": "Poland",
+		"replaces": "Stable",
+		"maintenance": 0,		
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [15] XP [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Candi",
+		"uniqueTo": "Indonesia",
+		"replaces": "Garden",
+		"faith": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Hill]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
 	}
 ]
