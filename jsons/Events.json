@@ -6,21 +6,21 @@
       {
         "text": "[Nutmeg]",
         "uniques": [
-          "Instantly gain [2] [Nutmeg] <hidden from users>",
+          "Provides [2] [Nutmeg] <in this city> <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Cloves]",
         "uniques": [
-          "Instantly gain [2] [Cloves] <hidden from users>",
+          "Provides [2] [Cloves] <in this city> <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Pepper]",
         "uniques": [
-          "Instantly gain [2] [Pepper] <hidden from users>",
+          "Provides [2] [Pepper] <in this city> <hidden from users>",
           "Play [WLTK] sound"
         ]
       }
