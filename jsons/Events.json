@@ -4,20 +4,23 @@
     "text": "We research exotic spices! select one to gain [2]",
     "choices": [
       {
-        "text": "[]",
+        "text": "[Nutmeg]",
         "uniques": [
+          "Turn this tile into a [Nutmeg] tile <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
-        "text": "[]",
+        "text": "[Cloves]",
         "uniques": [
+          "Turn this tile into a [Cloves] tile <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
-        "text": "[]",
+        "text": "[Pepper]",
         "uniques": [
+          "Turn this tile into a [Pepper] tile <hidden from users>",
           "Play [WLTK] sound"
         ]
       }
