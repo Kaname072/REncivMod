@@ -152,34 +152,6 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Sloop",
-		"replaces": "Privateer",
-		"uniqueTo": "Pirates",
-		"unitType": "Melee Water",
-		"movement": 5,
-		"strength": 25,
-		"cost": 150,
-		"requiredTech": "Navigation",
-		"upgradesTo": "Destroyer",
-		"uniques": ["[+100]% Strength <vs [Land] units> <when defending>"],
-		"promotions": ["Coastal Raider I", "[Privateer] ability", "Landing Party"],
-		"attackSound": "cannon"
-	},
-	{
-		"name": "Great Captain",
-		"replaces": "Great Admiral",
-		"uniqueTo": "Pirates",
-		"unitType": "Civilian Water",
-		"uniques": [
-            "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
-            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"Can be earned through combat <for [Water] units>",
-            "Is part of Great Person group [Admiral]",
-            "[This Unit] gets a name from the [Captain] group",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
 		"name": "Jagas Marauder",
 		"uniqueTo": "Angola",
 		"replaces": "Spearman",
@@ -239,5 +211,53 @@
 		"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Winged Hussar",
+		"uniqueTo": "Poland",
+		"replaces": "Lancer",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 28,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I", "Shock I", "Heavy Charge"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
+	{
+		"name": "Berber Cavalry",
+		"uniqueTo": "Morocco",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"promotions": ["Desert Warrior"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in your territory>","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "cavalry"
+	},
+	{
+		"name": "Cetbang Cannon",
+		"uniqueTo": "Indonesia",
+		"replaces": "Cannon",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 17,
+		"cost": 155,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"promotions": ["[Cetbang Cannon] ability"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","May attack when embarked","Double movement in [Water]"],
+		"attackSound": "cannon"
 	}
 ]
