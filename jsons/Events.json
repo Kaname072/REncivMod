@@ -6,21 +6,21 @@
       {
         "text": "[Nutmeg]",
         "uniques": [
-          "Turn this tile into a [Nutmeg] tile <hidden from users>",
+          "Instantly gain [2] [Nutmeg] <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Cloves]",
         "uniques": [
-          "Turn this tile into a [Cloves] tile <hidden from users>",
+          "Instantly gain [2] [Cloves] <hidden from users>",
           "Play [WLTK] sound"
         ]
       },
       {
         "text": "[Pepper]",
         "uniques": [
-          "Turn this tile into a [Pepper] tile <hidden from users>",
+          "Instantly gain [2] [Pepper] <hidden from users>",
           "Play [WLTK] sound"
         ]
       }
