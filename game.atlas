@@ -158,14 +158,14 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Iberian Warrior
+UnitIcons/Falcata Swordsman
   rotate: false
   xy: 1000, 200
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/War Cart
+UnitIcons/Heavy Cart
   rotate: false
   xy: 1400, 200
   size: 200, 200
