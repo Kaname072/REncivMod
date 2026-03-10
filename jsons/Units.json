@@ -107,20 +107,20 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "War Cart",
+		"name": "Heavy Cart",
 		"uniqueTo": "Sumerian",
 		"replaces": "Chariot Archer",
-		"unitType": "Mounted",
+		"unitType": "Archery",
 		"movement": 4,
 		"strength": 12,
-		"cost": 75,
+		"rangedStrength": 12,
+		"cost": 56,
 		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",	
+		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+50]% Strength <vs [Spearman] units> <when defending>","[+50]% Strength <vs [Pikeman] units> <when defending>","Can move after attacking","No defensive terrain bonus","Ignores Zone of Control"],
-		"promotions": ["Blitz"],
-		"attackSound": "horse"
+		"uniques": ["No defensive terrain bonus", "Can move after attacking", "Rough terrain penalty"],
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Minon",
@@ -203,7 +203,7 @@
 		"replaces": "Catapult",
 		"unitType": "Siege",
 		"movement": 2,
-		"strength": 11,
+		"strength": 12,
 		"cost": 100,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
@@ -241,8 +241,8 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"promotions": ["Desert Warrior"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <when fighting in [your] tiles>","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Berber Cavalry] ability"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "cavalry"
 	},
 	{
