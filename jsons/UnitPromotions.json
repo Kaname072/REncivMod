@@ -30,8 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "[Iberian Warrior] ability",
-    "uniques": ["Double movement in [River]"]
+    "name": "Connection with Rivers",
+    "uniques": ["[+33]% Strength <when fighting in [River] tiles>","Double movement in [River]"]
   },
   {
     "name": "[Minon] ability",
@@ -39,7 +39,7 @@
   },
   {
     "name": "[Jagas Marauder] ability",
-    "uniques": ["Earn [75]% of the damage done to [City] units as [Gold]"]
+    "uniques": ["Earn [50]% of the damage done to [City] units as [Gold]"]
   },
   {
     "name": "[Cetbang Cannon] ability",
@@ -55,11 +55,11 @@
   },
   {
     "name": "Heavy Charge",
-    "uniques": ["Ignores Zone of Control", "[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+    "uniques": ["Comment [Can stun a [Land] [Unit] for [2] turns by attacking it]","[Target Unit] gains the [Stunned] status for [2] turn(s) <when attacking> <upon damaging a [{non-[Stunned]} {Land}] unit> <hidden from users>"]
   },
   {
-    "name": "Desert Warrior",
-    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
+    "name": "[Berber Cavalry] ability",
+    "uniques": ["[+25]% Strength <when fighting in [your] tiles>","[+50]% Strength <when fighting in [Desert] tiles>"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
@@ -72,5 +72,11 @@
   {
     "name": "Enemy Tactics Knowledge",
     "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>","Ignores Zone of Control <in [Friendly Land] tiles>"]
+  },
+  {
+    "name": "Stunned",
+    "uniques": ["[-15]% Strength <when attacking>","[-1] Movement","[-1] Strength <when defending> <hidden from users>"],
+    ///"outerColor": [0,0,255],
+    "innerColor": [0,0,255]
   }
 ]
