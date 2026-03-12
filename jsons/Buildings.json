@@ -102,17 +102,38 @@
 	}, ///Extra luxury for Indonesia
 	{
 		"name": "Nutmeg Plantation",
-		"cost": 0,
-		"uniques": ["Provides [2] [Nutmeg]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Pepper Plantation]> <in cities without a [Cloves Plantation]> <hidden from users>","Unsellable"]
+		"cost": 1,
+		"uniques": ["Provides [2] [Nutmeg]",
+			"Must be next to [Coast] <on foreign continents>",
+			"Only available <for [Indonesia] Civilizations> <hidden from users>",
+			"Only available <in cities without [Pepper Plantation]> <hidden from users>",
+			"Only available <in cities without a [Cloves Plantation]> <hidden from users>",
+			"Never destroyed when city is captured <hidden from users>",
+			"Limited to [1] per Civilization",
+			"Unsellable"]
 	},
 	{
 		"name": "Cloves Plantation",
-		"cost": 0,
-		"uniques": ["Provides [2] [Cloves]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Pepper Plantation]> <in cities without a [Nutmeg Plantation]> <hidden from users>","Unsellable"]
+		"cost": 1,
+		"uniques": ["Provides [2] [Cloves]",
+			"Must be next to [Coast] <on foreign continents>",
+			"Only available <for [Indonesia] Civilizations> <hidden from users>",
+			"Only available <in cities without [Pepper Plantation]> <hidden from users>",
+			"Only available <in cities without a [Nutmeg Plantation]> <hidden from users>",
+			"Never destroyed when city is captured <hidden from users>",
+			"Limited to [1] per Civilization",
+			"Unsellable"]
 	},
 	{
 		"name": "Pepper Plantation",
-		"cost": 0,
-		"uniques": ["Provides [2] [Pepper]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Nutmeg Plantation]> <in cities without a [Cloves Plantation]> <hidden from users>","Unsellable"]
+		"cost": 1,
+		"uniques": ["Provides [2] [Pepper]",
+			"Must be next to [Coast] <on foreign continents>",
+			"Only available <for [Indonesia] Civilizations> <hidden from users>",
+			"Only available <in cities without [Cloves Plantation]> <hidden from users>",
+			"Only available <in cities without a [Nutmeg Plantation]> <hidden from users>",
+			"Never destroyed when city is captured <hidden from users>",
+			"Limited to [1] per Civilization",
+			"Unsellable"]
 	}
 ]
