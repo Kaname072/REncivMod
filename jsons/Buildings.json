@@ -18,7 +18,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]", "[+2 Science] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Education"
 	},
 	{
@@ -28,19 +28,19 @@
 		"faith": 2,
 		"production": 1,
 		"requiredBuilding": "Shrine",
-		"maintenance": 2,
+		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+5]% Production when constructing [All] buildings [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Production] from [{improved} {Luxury resource}] tiles [in this city]", "Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat Temple",
 		"uniqueTo": "Sumerian",
 		"replaces": "Temple",
-		"faith": 4,
+		"faith": 2,
 		"science": 4,
 		"requiredBuilding": "Shrine",
-		"maintenance": 3,
+		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
 	},
@@ -102,14 +102,17 @@
 	}, ///Extra luxury for Indonesia
 	{
 		"name": "Nutmeg Plantation",
-		"uniques": ["Provides [2] [Nutmeg]","Unbuildable","Unsellable"]
+		"cost": 0,
+		"uniques": ["Provides [2] [Nutmeg]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Pepper Plantation]> <in cities without a [Cloves Plantation]> <hidden from users>","Unsellable"]
 	},
 	{
 		"name": "Cloves Plantation",
-		"uniques": ["Provides [2] [Cloves]","Unbuildable","Unsellable"]
+		"cost": 0,
+		"uniques": ["Provides [2] [Cloves]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Pepper Plantation]> <in cities without a [Nutmeg Plantation]> <hidden from users>","Unsellable"]
 	},
 	{
 		"name": "Pepper Plantation",
-		"uniques": ["Provides [2] [Pepper]","Unbuildable","Unsellable"]
+		"cost": 0,
+		"uniques": ["Provides [2] [Pepper]","Must be next to [Coast] <on foreign continents>","Only available <for [Indonesia] Civilizations> <in cities without [Nutmeg Plantation]> <in cities without a [Cloves Plantation]> <hidden from users>","Unsellable"]
 	}
 ]
