@@ -380,7 +380,7 @@
 		"innerColor": [57,1,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Solidarity",
-		"uniques": ["Comment [Receive a [Culture] boost upon entering in a new era]", "[+33]% [Culture] [in all cities] <for [12] turns> <starting from the [Classical era]> <upon entering a new era> <hidden from users>"],
+		"uniques": ["Comment [Receive a [Culture] boost upon entering in a new era]", "[+50]% [Culture] [in all cities] <for [5] turns> <starting from the [Classical era]> <upon entering a new era> <hidden from users>","[-33]% Culture cost of adopting new Policies <for [5] turns> <starting from the [Classical era]> <upon entering a new era> <hidden from users>"],
 
 		"cities": ["Warsaw","Cracow","Lodz","Wroclaw","Poznan„","Gdansk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Bialystok","Gdynia","Swidnica","Czestochowa","Radom","Torun„","Kielce","Gliwice","Lowicz",
@@ -411,7 +411,7 @@
 		"innerColor": [168,53,32],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Spice Islanders",
-		"uniques": ["Comment [Receive a [Nutmeg], [Cloves] & [Pepper] luxury resources in coastal cities in other continents (In continents where the capital is not located)]","[+1 Happiness] [in all coastal cities] <on foreign continents>","Triggers a [Spice Islanders] event <upon founding a city> <on foreign continents> <hidden from users>","[1] Movement point cost to embark"],
+		"uniques": ["Comment [Receive a [Nutmeg], [Cloves] & [Pepper] luxury resources in coastal cities in other continents (In continents where the capital is not located)]","Triggers a [Spice Islanders] event <upon founding a city> <on foreign continents> <hidden from users>","[1] Movement point cost to embark"],
 
 		"cities": ["Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
 			"Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
