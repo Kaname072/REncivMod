@@ -1,19 +1,5 @@
 [
 	{
-		"name": "Caravan",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 125,
-		"requiredTech": "Agriculture",
-		"uniques": [
-			"Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence",
-			"[+15]% production cost <when at war> <hidden from users>",
-			"May enter foreign tiles without open borders",
-			"Cannot embark",
-			"Can only be built",
-		]
-	},
-	{
 		"name": "Pracinha",
 		"uniqueTo": "Brazil",
 		"replaces": "Infantry",
@@ -53,7 +39,7 @@
 		"movement": 2,
 		"strength": 50,
 		"cost": 320,
-		"uniques": ["Can be purchased for [160] [Gold] [in all cities]"],
+		"uniques": ["Can be purchased for [150] [Gold] [in all cities]"],
 		"promotions": ["[Dorobanți] ability"],
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
@@ -63,17 +49,17 @@
 	{
 		"name": "Sofa",
 		"uniqueTo": "Mali",
-		"replaces": "Archer",
+		"replaces": "Composite Bowman",
 		"unitType": "Archery",
-		"movement": 2,
-		"strength": 5,
-		"rangedStrength": 7,
-		"cost": 40,
-		"requiredTech": "Archery",
-		"uniques": ["[-50]% maintenance costs","Can move immediately once bought"],
-		"obsoleteTech": "Construction",
-		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"uniques": ["[-50]% maintenance costs"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "crossbow"
 	},
 	{
 		"name": "Impi",
@@ -116,7 +102,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques": ["May upgrade to [Swordsman] through ruins-like effects"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"promotions": ["Connection with Rivers"],
 		"attackSound": "nonmetalhit",
 	},
@@ -137,7 +123,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Minon",
+		"name": "Agojie",
 		"replaces": "Musketman",
 		"uniqueTo": "Dahomey",
 		"unitType": "Gunpowder",
