@@ -158,7 +158,7 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Falcata Swordsman
+UnitIcons/Iberian Warrior
   rotate: false
   xy: 1000, 200
   size: 200, 200
@@ -179,7 +179,7 @@ UnitIcons/Nau
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Minon
+UnitIcons/Agojie
   rotate: false
   xy: 1800, 200
   size: 200, 200
@@ -501,7 +501,7 @@ TileSets/FantasyHex/Units/War Cart
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Minon
+TileSets/FantasyHex/Units/Agojie
   rotate: false
   xy: 5, 913
   size: 32, 28
@@ -585,7 +585,7 @@ TileSets/HexaRealm/Units/War Cart
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Minon
+TileSets/HexaRealm/Units/Agojie
   rotate: false
   xy: 340, 808
   size: 64, 56
