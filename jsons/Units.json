@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Caravan",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 125,
+		"requiredTech": "Agriculture",
+		"uniques": [
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence",
+			"[+15]% production cost <when at war> <hidden from users>",
+			"May enter foreign tiles without open borders",
+			"Cannot embark",
+			"Can only be built",
+		]
+	},
+	{
 		"name": "Pracinha",
 		"uniqueTo": "Brazil",
 		"replaces": "Infantry",
