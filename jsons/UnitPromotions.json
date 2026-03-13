@@ -34,7 +34,7 @@
     "uniques": ["[+33]% Strength <when fighting in [River] tiles>","Double movement in [River]"]
   },
   {
-    "name": "[Minon] ability",
+    "name": "[Agojie] ability",
     "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"]
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "name": "Enemy Land Knowledge",
-    "uniques": ["[+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>","Ignores Zone of Control <in [Enemy Land] tiles>"]
+    "uniques": ["[+25]% Strength <when defending> <vs [non-[Melee]] units> <when fighting in [Enemy Land] tiles>","Ignores Zone of Control"]
   },
   {
     "name": "Enemy Tactics Knowledge",
-    "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>","Ignores Zone of Control <in [Friendly Land] tiles>"]
+    "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>"]
   },
   {
     "name": "Stunned",
-    "uniques": ["[-15]% Strength <when attacking>","[-1] Movement","[-1] Strength <when defending> <hidden from users>"],
+    "uniques": ["[-15]% Strength <when attacking>","[-1] Movement","[-1] Strength <when defending>"],
     ///"outerColor": [0,0,255],
     "innerColor": [0,0,255]
   }
