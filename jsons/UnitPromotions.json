@@ -31,7 +31,7 @@
   },
   {
     "name": "Connection with Rivers",
-    "uniques": ["[+33]% Strength <when fighting in [River] tiles>","Double movement in [River]"]
+    "uniques": ["[+33]% Strength <when fighting in [River] tiles>","Double movement in [River]","Eliminates combat penalty for attacking over a river"]
   },
   {
     "name": "[Agojie] ability",
@@ -55,7 +55,9 @@
   },
   {
     "name": "Heavy Charge",
-    "uniques": ["Comment [Can stun a [Land] [Unit] for [2] turns by attacking it]","[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [{non-[Stunned]} {Land}] unit> <hidden from users>"]
+    "uniques": ["Comment [Can stun a [Land] [Unit] for [2] turns by attacking it]","[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [{non-[Stunned]} {Land}] unit> <hidden from users>"],
+    ///"outerColor": [225,0,0],
+    "innerColor": [255,0,0]
   },
   {
     "name": "[Berber Cavalry] ability",
