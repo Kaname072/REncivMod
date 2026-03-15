@@ -75,6 +75,19 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Force transform to Worker",
+    "text": "Force transform to Worker",
+    "presentation": "None",
+    "choices": [
+      {
+        "text": "Destroy",
+        "uniques": [
+          "[This Unit] is destroyed",
+          "Free [Worker] appears"
+        ]
+      }
+    ]
   }
 ]
-          
