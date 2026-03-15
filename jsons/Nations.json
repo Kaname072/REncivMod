@@ -471,7 +471,7 @@
 		
 		"tradeRequest": "Would you listen to my proposal?",
 
-		"outerColor": [87,69,52],
+		"outerColor": [82,64,47],
 		"innerColor": [86,248,232],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Expanse",
@@ -501,11 +501,18 @@
 
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
 
-		"outerColor": [225,255,235],
-		"innerColor": [147,72,195],
+		"outerColor": [147,72,195],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Serenissima",
-		"uniques": ["[+50]% [Gold] [in capital]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","[Settler] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>","[Conquistador] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
+		"uniques": [
+			"[+50]% [Gold] [in capital]",
+			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
+			"May not annex cities",
+			"May buy items in puppet cities",
+			"Cannot build [Settler] units",
+			"[Settler] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>",
+			"[Conquistador] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
 		//// for precautions, militaristic city-states can gift it
 		
 		"cities": ["Venice"],
