@@ -63,6 +63,10 @@
     "name": "[Berber Cavalry] ability",
     "uniques": ["[+25]% Strength <when fighting in [your] tiles>","[+50]% Strength <when fighting in [Desert] tiles>"]
   },
+  {
+    "name": "Full Moon Striker",
+    "uniques": ["[+25]% Strength <vs [non-[Wounded]] units> <when attacking>"]
+  },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
     "uniques": ["[+50]% Strength <vs [Air] units>","Invisible to non-adjacent units <in [Vegetation] tiles>"]
