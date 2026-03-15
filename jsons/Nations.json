@@ -505,7 +505,7 @@
 		"innerColor": [147,72,195],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Serenissima",
-		"uniques": ["[+50]% [Gold] [in capital]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","[Settler] units gain the [Unable to found cities!] promotion <hidden from users>","[Conquistador] units gain the [Unable to found cities!] promotion <hidden from users>"],
+		"uniques": ["[+50]% [Gold] [in capital]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","[Settler] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>","[Conquistador] units gain the [Unable to found cities!] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
 		//// for precautions, militaristic city-states can gift it
 		
 		"cities": ["Venice"],
