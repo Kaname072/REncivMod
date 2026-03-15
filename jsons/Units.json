@@ -260,5 +260,59 @@
 		"promotions": ["[Cetbang Cannon] ability"],
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","May attack when embarked","Double movement in [Water]"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Pathfinder",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects"],
+		"promotions": ["Ignore terrain cost", "Survivalism I"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Comanche Riders",
+		"replaces": "Cavalry",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"promotion": ["Full Moon Striker"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "cavalry"
+	},
+	{
+		"name": "Great Galleass",
+		"replaces": "Galleass",
+		"unitType": "Ranged Water",
+		"movement": 3,
+		"strength": 18,
+		"rangedStrength": 20,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["Cannot enter ocean tiles"],
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Merchant of Venice",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [90] Influence",
+			"Double movement in [Water]",
+			"Can instantly construct a [Customs house] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Merchant] group",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"movement": 2
 	}
 ]
