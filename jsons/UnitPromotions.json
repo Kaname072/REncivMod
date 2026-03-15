@@ -75,9 +75,15 @@
     "name": "Enemy Tactics Knowledge",
     "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>"]
   },
-  {
+  { //// Debuff promotions ////
     "name": "Stunned",
     "uniques": ["[-10]% Strength","[-1] Movement"],
+    ///"outerColor": [0,0,255],
+    "innerColor": [0,0,255]
+  },
+  { //// Venice Anti-Settler promotion ////
+    "name": "Unable to found cities!",
+    "uniques": ["Triggers a [Force transform to Worker] event <upon turn start>","Cannot move"],
     ///"outerColor": [0,0,255],
     "innerColor": [0,0,255]
   }
