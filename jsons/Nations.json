@@ -501,8 +501,8 @@
 
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
 
-		"outerColor": [105,34,172],
-		"innerColor": [255,254,231],
+		"outerColor": [225,255,235],
+		"innerColor": [147,72,195],
 		"uniqueName": "Serenissima",
 		"uniques": ["[+50]% [Gold] [in capital]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","[Settler] units gain the [Unable to found cities!] promotion <hidden from users>"],
 
