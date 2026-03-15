@@ -450,5 +450,62 @@
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
 			"Taza","Fquih ben Salah","Khouribga","Nador","Settat","Berrechid","Larache","Khemisset","Guelmim","Dakhla",
 			"Chefchaouen","Ben Guerir","Eli Kelaa des Sraghna","Erfoud"]
+	},
+	{
+		"name": "Shoshone",
+		"leaderName": "Pocatello",
+		"adjective": ["Shoshone"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Pocatello",
+		
+		"startIntroPart1": "Blessings be upon you, wise and fearsome Chief Pocatello, revered leader of the Shoshone people. As the young chieftain of the Shoshone, you rose to face a wave of encroaching American settlements across the western United States. Forced to defend the Shoshone ancestral lands from a seemingly endless stream of new emigrants, your war band struck fear into those who would claim the sacred lands of your people. After years of strife, you skillfully avoided a direct conflict with the armies of the U.S. government, and negotiated a series of treaties in the hopes of establishing a lasting peace for the Shoshone.",
+		"startIntroPart2": "Most esteemed Pocatello, your people once again look to you for guidance. Will you conquer your enemies, driving them far from your lands? Or will you seek out peaceful diplomacy and trade? Will you build a civilization that stands the test of time?",
+
+		"declaringWar": "Shoshone!, We will kill the white man!",
+		"attacked": "I must make the foreigner go away!",
+		"defeated": "This will not be the end of my people, I assure you.",
+		"introduction": "I am Chief Pocatello. You have arrived in the thick of Shoshone land.",
+
+		"neutralHello": "Our time has arrived!",
+		"hateHello": "?",
+		
+		"tradeRequest": "Would you listen to my proposal?",
+
+		"outerColor": [87,69,52],
+		"innerColor": [86,248,232],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Great Expanse",
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>","[-50]% Culture cost of natural border growth [in this city] <for [8] turns> <upon founding a city>"],
+
+		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
+			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
+			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"]
+	},
+	{
+		"name": "Venice",
+		"leaderName": "Enrico Dandolo",
+		"adjective": ["Venetian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Greetings, most astute Doge Enrico Dandolo of Venice, master of statecraft and shrewd negotiator. Although you rose to power late in life, old age did little to slow your cunning or ambition, as you deftly managed the bustling commercial center of Venice during a time of great instability. In aligning yourself with the Fourth Crusade, you carefully gained a strategic advantage and used the Crusaders to reacquire lost territory for Venice. Your role in guiding the Crusaders during the sacking of Constantinople led to an even greater expansion of your power, and secured your legacy throughout history.",
+		"startIntroPart2": "Most insightful and cunning Doge, Venice once again requires the service of a skilled leader, one who can bring the republic back to the forefront of world affairs. Can you establish your nation through careful trade, or will you work to conquer your enemies through diplomacy? Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "When you will be gone, Sir, there will be more for me!",
+		"attacked": "You have revealed your purposes too early, my friend!",
+		"defeated": "A wrong calculation, on my part.",
+		"introduction": "Welcome to Venice. I am Doge Enrico Dandolo.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "You! What do you want?",
+
+		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+
+		"outerColor": [105,34,172],
+		"innerColor": [255,254,231],
+		"uniqueName": "Serenissima",
+		"uniques": ["[+50]% [Gold] [in capital]","May not annex cities","May buy items in puppet cities","Cannot build [Settler] units","[Settler] units gain the [Unable to found cities!] promotion <hidden from users>"],
+
+		"cities": ["Venice"],
 	}
 ]
