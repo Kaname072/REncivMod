@@ -65,7 +65,7 @@
   },
   {
     "name": "Full Moon Striker",
-    "uniques": ["[+25]% Strength <vs [non-[Wounded]] units> <when attacking>"]
+    "uniques": ["[+1] Movement"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
