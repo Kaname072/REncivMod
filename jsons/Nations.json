@@ -475,7 +475,7 @@
 		"innerColor": [86,248,232],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Expanse",
-		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>","[-50]% Culture cost of natural border growth [in this city] <for [8] turns> <upon founding a city>"],
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>","Gain control over [6] tiles [in this city] <upon founding a city>"],
 
 		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
 			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
@@ -516,5 +516,35 @@
 		//// for precautions, militaristic city-states can gift it
 		
 		"cities": ["Venice"],
+	},
+	{
+		"name": "Quilombola",
+		"leaderName": "Zumbi",
+		"adjective": ["Quilombolas"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You don't have space in my lands!",
+		"attacked": "We never surrender!",
+		"defeated": "I don't have fear! c'mon! kill me and burn everything you see!",
+		"introduction": "Someone find us? well. I am Quilombo King, Zumbi, what you name, stranger?",
+		
+		"neutralHello": "Oh, it's you?",
+		"hateHello": "You're hinding in jungles and forest, well?",
+		
+		"tradeRequest": "I have a proposal for you.",
+
+		"outerColor": [0,64,0],
+		"innerColor": [0,194,0],
+		
+		"uniqueName": "Refuge",
+		"uniques": ["[+30]% Strength <for [Military] units> <when defending> <in [City-State] tiles>","[50]% Food is carried over after population increases [in all cities connected to capital]"],
+		
+		"cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Zumbi","Kalunga","Canaveíras","Tabocas","Arotirene","Aqualtene","Jeremobão",
+			"Buraco de Tatú","Inhambupe","Morro Alto","Quiricós","Acaranquanha","Urubá","Carananduba","Ronco","Jacobina","Camamú",
+			,"Ilhéus","Matas do Concavo","Itapicuru","Jaguaripe"]
 	}
 ]
