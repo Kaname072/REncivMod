@@ -69,7 +69,7 @@
   },
   {
     "name": "Capoeira",
-    "uniques": ["[+15]% Strength <when attacking>","[-15]% Strength <when defending>","Withdraws before melee combat <with [50]% chance>"]
+    "uniques": ["All tiles cost 1 movement <in [non-[Enemy Land]] tiles>","Withdraws before melee combat <with [50]% chance>"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
@@ -89,10 +89,16 @@
     ///"outerColor": [0,0,255],
     "innerColor": [0,0,255]
   },
+  {
+    "name": "Feared",
+    "uniques": ["[-100]% To Flank Attack bonuses","[-1] Sight"],
+    ///"outerColor": [0,0,255],
+    "innerColor": [0,0,255]
+  },
   { //// Venice Anti-Settler promotion ////
     "name": "Unable to found cities!",
     "uniques": ["Triggers a [Force transform to Worker] event <upon turn start>","Cannot move"],
     ///"outerColor": [0,0,255],
-    "innerColor": [0,0,255]
+    "innerColor": [255,255,255]
   }
 ]
