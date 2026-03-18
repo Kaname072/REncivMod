@@ -43,8 +43,9 @@
 	  "uniqueTo": "Quilombola",
 	  "terrainsCanBeBuiltOn": ["Forest","Jungle"],
 	  "food": 1,
+	  "culture": 1,
 	  "techRequired": "Guilds",
-	  "uniques": ["[+1 Food] <after discovering [Fertilizer] technology>","[+1 Food] from [Fresh Water] tiles","Gives a defensive bonus of [25]%", "Pillaging this improvement yields approximately [+14 Gold]"]
+	  "uniques": ["[+1 Food] <after discovering [Fertilizer]>","[+1 Food] from [Fresh Water] tiles","Gives a defensive bonus of [25]%", "Pillaging this improvement yields approximately [+14 Gold]"]
   },
   {
 	  "name": "Feitoria",
