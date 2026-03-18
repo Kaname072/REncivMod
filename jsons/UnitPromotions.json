@@ -35,11 +35,11 @@
   },
   {
     "name": "[Agojie] ability",
-    "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"]
+    "uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>","Heals [25] damage if it kills a unit"]
   },
   {
     "name": "[Jagas Marauder] ability",
-    "uniques": ["Earn [50]% of the damage done to [City] units as [Gold]"]
+    "uniques": ["[+50]% Health from pillaging tiles","Earn [50]% of the damage done to [City] units as [Gold]"]
   },
   {
     "name": "[Cetbang Cannon] ability",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Feared",
-    "uniques": ["[-100]% To Flank Attack bonuses","[-1] Sight"],
+    "uniques": ["[-25]% Strength <when attacking>","[-1] Sight"],
     ///"outerColor": [0,0,255],
     "innerColor": [0,0,255]
   },
