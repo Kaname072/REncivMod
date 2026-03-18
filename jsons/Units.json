@@ -268,7 +268,7 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"strength": 8,
-		"cost": 45,
+		"cost": 30,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["May upgrade to [Composite Bowman] through ruins-like effects"],
@@ -326,12 +326,12 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 7,
-		"cost": 36,
+		"cost": 40,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"promotions": ["Capoeira"],
-		"uniques": ["Ignores Zone of Control"],
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
 	}
 ]
