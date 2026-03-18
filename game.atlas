@@ -634,6 +634,13 @@ TileSets/FantasyHex/Units/Cetbang Cannon
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Capoeirista
+  rotate: false
+  xy: 5, 1125
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Warrior-Pirates
   rotate: false
   xy: 47, 913
@@ -723,6 +730,13 @@ TileSets/HexaRealm/Units/Cetbang Cannon
   xy: 486, 873
   size: 64, 65
   orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Capoeirista
+  rotate: false
+  xy: 120, 938
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-Pirates
