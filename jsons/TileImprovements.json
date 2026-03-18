@@ -39,19 +39,17 @@
 	  "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+18 Gold]"]
   },
   {
-	  "name": "Mocambo",
-	  "uniqueTo": "Quilombola",
-	  "terrainsCanBeBuiltOn": ["Jungle","Forest"],
+	  "name": "Sovkhoz",
+	  "uniqueTo": "Soviet",
+	  "terrainsCanBeBuiltOn": ["Tundra","Snow"],
 	  "food": 1,
-	  "culture": 1,
+	  "production": 1,
 	  "techRequired": "Guilds",
 	  "uniques": ["[+1 Food] <after discovering [Fertilizer]>",
-		  "[+1 Food] from [Fresh Water] tiles",
-		  "[+1 Gold] for each adjacent [Trading post]",
-		  "Gives a defensive bonus of [25]%",
+		  "[+1 Production] <starting from the [Industrial era]>",
 		  "Cannot be built on [Luxury resource] tiles",
 		  "Cannot be built on [Bonus resource] tiles",
-		  "Pillaging this improvement yields approximately [+14 Gold]"]
+		  "Pillaging this improvement yields approximately [+18 Gold]"]
   },
   {
 	  "name": "Feitoria",
