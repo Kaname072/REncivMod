@@ -53,8 +53,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,232,215],
-		"innerColor": [165,0,21],
+		"outerColor": [255,231,225],
+		"innerColor": [168,120,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
 		"uniques": ["[-33]% Natural religion spread [in all cities]","[+2] Movement <for [Religious Unit] units>","Comment [When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold], [Science] & [Culture]]", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Gold] <hidden from users>", "When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science] <hidden from users>"],
@@ -204,7 +204,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]","[+1 Production] from every [Quarry] <in cities without a [Pedra Formosa]>"],
+		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]","[+1 Production] from every [Quarry] <in cities without a [Pedra Formosa]> <after discovering [Calendar]>"],
 		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -233,7 +233,7 @@
 		"innerColor": [228,131,12],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
-		"uniques": ["Free Great Person <upon discovering [Writing] technology>","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
+		"uniques": ["Free [Great General] appears <upon discovering [Writing] technology>","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -316,8 +316,8 @@
 
 		"tradeRequest": "How about we reach this agreement?",
 
-		"outerColor": [255,203,0],
-		"innerColor": [218,41,28],
+		"outerColor": [78,21,27],
+		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
 		"uniques": ["Can build [all] improvements at a [+25]% rate <when not at war>","[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"],
@@ -539,9 +539,9 @@
 
 		"outerColor": [0,64,0],
 		"innerColor": [0,194,0],
-		
+		"favoredReligion": "Christianity",
 		"uniqueName": "Refuge",
-		"uniques": ["[+30]% Strength <for [Military] units> <when defending> <in [City-State] tiles>","[50]% Food is carried over after population increases [in all cities connected to capital]"],
+		"uniques": ["[50]% Food is carried over after population increases [in all cities]"],
 		
 		"cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Zumbi","Kalunga","Canaveíras","Tabocas","Arotirene","Aqualtene","Jeremobão",
 			"Buraco de Tatú","Inhambupe","Morro Alto","Quiricós","Acaranquanha","Urubá","Carananduba","Ronco","Jacobina","Camamú",
