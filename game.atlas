@@ -123,6 +123,13 @@ NationIcons/Venice
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Quilombola
+  rotate: false
+  xy: 1000, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -277,6 +284,13 @@ UnitIcons/Merchant of Venice
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Capoeirista
+  rotate: false
+  xy: 1000, 800
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Wooden Church
   rotate: false
   xy: 600, 400
@@ -417,6 +431,13 @@ ImprovementIcons/Kasbah
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Mocambo
+  rotate: false
+  xy: 1000, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Deus Vult
   rotate: false
   xy: 1200, 200
@@ -466,6 +487,27 @@ UnitPromotionIcons/Heavy Charge
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Capoeira
+  rotate: false
+  xy: 1000, 800
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Full Moon Striker
+  rotate: false
+  xy: 2600, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Feared
+  rotate: false
+  xy: 2000, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Stunned
   rotate: false
   xy: 2800, 600
@@ -504,6 +546,13 @@ UnitPromotionIcons/Enemy Camouflage
 UnitPromotionIcons/Enemy Tactics Knowledge
   rotate: false
   xy: 2800, 800
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unable to found cities!
+  rotate: false
+  xy: 1800, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
