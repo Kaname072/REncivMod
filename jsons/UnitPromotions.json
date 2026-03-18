@@ -47,7 +47,7 @@
   },
   {
     "name": "Captured Tank",
-    "uniques": ["Comment [This is a captured tank from [Angola]]","[This Unit] takes [10] damage <upon turn end> <in [non-[Angola]] tiles> <when number of [Remaining [Angola] Civilizations] is more than [0]>","Unable to pillage tiles <when number of [Remaining [Angola] Civilizations] is more than [0]>","Can only heal by pillaging <when number of [Remaining [Angola] Civilizations] is more than [0]>"]
+    "uniques": ["Comment [This is a captured tank from [Soviet]]","[This Unit] takes [10] damage <upon turn end> <in [non-[Soviet]] tiles> <when number of [Remaining [Soviet] Civilizations] is more than [0]>","Unable to pillage tiles <when number of [Remaining [Soviet] Civilizations] is more than [0]>","Can only heal by pillaging <when number of [Remaining [Soviet] Civilizations] is more than [0]>"]
   },
   {
     "name": "Rescued Tank",
@@ -68,8 +68,8 @@
     "uniques": ["[+1] Movement"]
   },
   {
-    "name": "Capoeira",
-    "uniques": ["All tiles cost 1 movement <in [non-[Enemy Land]] tiles>","Withdraws before melee combat <with [50]% chance>"]
+    "name": "Heroism",
+    "uniques": ["Earn [100]% of killed [Military] units [Strength] as [Golden Age points]"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
