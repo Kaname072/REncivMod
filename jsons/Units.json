@@ -318,5 +318,20 @@
             "[This Unit] gets a name from the [Merchant] group",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+	},
+	{
+		"name": "Capoeirista",
+		"uniqueTo": "Quilombola",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 7,
+		"cost": 36,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"promotions": ["Capoeira"],
+		"uniques": ["Ignores Zone of Control"],
+		"attackSound": "nonmetalhit",
 	}
 ]
