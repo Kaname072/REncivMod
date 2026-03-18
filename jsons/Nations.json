@@ -518,33 +518,35 @@
 		"cities": ["Venice"],
 	},
 	{
-		"name": "Quilombola",
-		"leaderName": "Zumbi",
-		"adjective": ["Quilombolas"],
-		"startBias": ["Jungle"],
+		"name": "Soviet",
+		"leaderName": "Joseph Stalin",
+		"adjective": ["Soviets"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Great comrade, Josef! After the bloody revolution of 1917, Russia transitioned into the great Soviet Union! Conquering entire countries and nations for its control and ideology, defeating the Germans in the Second World War and threatening the greatest global power of the time. Years passed in this conflict, and various upheavals within and outside our government began to shatter our future. The great socialist state fell into the chaos of the Cold War.",
+		"startIntroPart2": "Comrade Stalin! Now you have the chance to avenge our failure! Will you be able to create the communist nation you've always dreamed of? Will the Empire of tomorrow be a nation that withstands the test of time?",
 
-		"declaringWar": "You don't have space in my lands!",
-		"attacked": "We never surrender!",
-		"defeated": "I don't have fear! c'mon! kill me and burn everything you see!",
-		"introduction": "Someone find us? well. I am Quilombo King, Zumbi, what you name, stranger?",
+		"declaringWar": "You're a time waste! get out my way!",
+		"attacked": "Haha! We never surrender! comrades, attack!",
+		"defeated": "The fire rises, again. enjoy your victory! because i'll never forget you face.",
+		"introduction": "Hello my comrade, we are the Soviet people. We have come in search of our utopia, but if you stand in our way, we will show you war.",
 		
 		"neutralHello": "Oh, it's you?",
-		"hateHello": "You're hinding in jungles and forest, well?",
+		"hateHello": "...",
 		
-		"tradeRequest": "I have a proposal for you.",
+		"tradeRequest": "Hello my comrade. I have a proposal for you.",
 
-		"outerColor": [0,64,0],
-		"innerColor": [0,194,0],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Refuge",
-		"uniques": ["[50]% Food is carried over after population increases [in all cities]"],
+		"outerColor": [205,0,0],
+		"innerColor": [255,215,0],
+		"favoredReligion": "Christianity",///they're are atheist gorvernmet, but russia is historical orthodoxy
+		"uniqueName": "The Revolution",
+		"uniques": [
+			"[Great Engineer] is earned [50]% faster <while the empire is happy>",
+			"[+2 Production] from every specialist [in all cities connected to capital] <while the empire is happy>",
+			"[+1 Happiness] [in all cities] <starting from the [Industrial era]>"],
 		
-		"cities": ["Macaco","Andalaquituxe","Subupira","Dambrapanga","Zumbi","Kalunga","Canaveíras","Tabocas","Arotirene","Aqualtene","Jeremobão",
-			"Buraco de Tatú","Inhambupe","Morro Alto","Quiricós","Acaranquanha","Urubá","Carananduba","Ronco","Jacobina","Camamú",
-			"Ilhéus","Matas do Concavo","Itapicuru","Jaguaripe"]
+		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Vladimir","Rostov","Kursk","Belgorod","Tambov",
+			"Kalinin","Pskov","Bryansk","Kaluga","Yaroslavl","Kurgan","Saratov","Kostroma","Vologda","Omsk","Murmansk","Smolensk"]
 	}
 ]
