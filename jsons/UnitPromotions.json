@@ -67,6 +67,10 @@
     "name": "Full Moon Striker",
     "uniques": ["[+1] Movement"]
   },
+  {
+    "name": "Capoeira",
+    "uniques": ["[+15]% Strength <when attacking>","[-15]% Strength <when defending>","Withdraws before melee combat <with [50]% chance>"]
+  },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
     "uniques": ["[+50]% Strength <vs [Air] units>","Invisible to non-adjacent units <in [Vegetation] tiles>"]
