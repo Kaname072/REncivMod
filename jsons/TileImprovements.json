@@ -60,7 +60,7 @@
 	  "techRequired": "Navigation",
 	  "uniques": [
 		  "Comment [Provides a [1] copy of a adjacent Land Luxury resource]",
-		  "Must be next to [{City-State} {Luxury resource}]",
+		  "Must be next to [City-State]",
 		  "Provides [1] [Furs] <with [1] to [2] neighboring [Furs] tiles> <hidden from users>",
 		  "Provides [1] [Cotton] <with [1] to [2] neighboring [Cotton] tiles> <hidden from users>",
 		  "Provides [1] [Dyes] <with [1] to [2] neighboring [Dyes] tiles> <hidden from users>",
@@ -82,7 +82,7 @@
 		  "Gives a defensive bonus of [50]%",
 		  "Can be built outside your borders <hidden from users>",
 		  "Can only be built on [{Coastal} {Unowned}] tiles",
-		  "Unavailable <within [3] tiles of a [Feitoria]> <hidden from users>",
+		  "Unavailable <within [5] tiles of a [Feitoria]> <hidden from users>",
 		  "Removes removable features when built <hidden from users>",
 		  "Destroyed when pillaged <hidden from users>",
 		  "Cannot be built on [Resource] tiles",
