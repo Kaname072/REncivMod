@@ -1,11 +1,8 @@
 {
-  "name": "Romania Unique",
+  "name": "REnciv Mod",
   "uniques": [
-    "No defensive terrain bonus <for [{Military} {Land}] units> <in [Romania] tiles> <for [non-[Romania]] Civilizations>"]
-},
-{
-  "name": "T-55 stuff",
-  "uniques": [
+    "No defensive terrain bonus <for [{Military} {Land}] units> <in [Romania] tiles> <for [non-[Romania]] Civilizations>"
+  ////T-55 stuff
     ,"When defeating a [{T-55} {non-[Captured Tank]} {non-[Rescued Tank]}] unit, earn [75] Gold and recruit it <with [75]% chance> <for [{Major} {non-[Soviet]}] Civilizations>",
     "When defeating a [{T-55} {Captured Tank}] unit, earn [125] Gold and recruit it <for [Soviet] Civilizations>",
     "Triggers a [T-55 Capture] event <upon gaining a [T-55] unit> <for [non-[Soviet]] Civilizations> <when number of [Remaining [Soviet] Civilizations] is more than [0]>",
@@ -13,10 +10,6 @@
     ////T-55 nerf for foreigners
     ,"[-10]% Strength <for [T-55] units> <vs [Soviet] units> <for [non-[Soviet]] Civilizations>","[-1] Sight <for [T-55] units> <for [non-[Soviet]] Civilizations>",
     "[-100]% maintenance costs <for [T-55] units> <for [non-[Soviet]] Civilizations>"
-  ]
-},
-{
-  "name": "Lusitanian Duo Boost",
-  "uniques": [
+    ///Lusitanian Coop Boost",
     "[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>"]
 }
