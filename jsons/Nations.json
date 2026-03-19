@@ -24,7 +24,7 @@
 		"innerColor": [0,107,35],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Carnival",
-		"uniques": ["[Great Artist] is earned [50]% faster <while the empire is happy>",
+		"uniques": ["[Great Artist] is earned [+50]% faster <while the empire is happy>",
 			"Free [Great Artist] appears <upon discovering [Drama and Poetry] technology>",
 			"[+50]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
@@ -86,7 +86,7 @@
 		"innerColor": [5,5,60],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when attacking> <vs [Siege] units>","[-25]% enemy spy effectiveness [in all cities]","Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
+		"uniques": ["[+25]% Strength <when attacking> <vs [Siege] units>","[-50]% enemy spy effectiveness [in all cities]","Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
@@ -115,7 +115,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trans-Saharan routes",
-		"uniques": ["[+1 Gold, +2 Science] from each Trade Route","[+1 Gold] from every [Quarry]","[+1 Gold] from every [Trading post]"],
+		"uniques": ["[+1 Gold, +2 Science] from each Trade Route"],
 		"cities":["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -193,7 +193,7 @@
 		"declaringWar": "Your presence bothers us! Prepare for war!!",
 		"attacked": "This is a genuine mistake! you will pay terrible for this!",
 		"defeated": "I was wrong, you are stronger than I thought you were.",
-		"introduction": "Hello, I am Viriato! The general leader of the Lusitanians. You seem to have a warrior spirit.",
+		"introduction": "Hello, I am Viriato! A general and leader of the Lusitanians. You seem to have a warrior spirit. you welcome!",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you?",
@@ -204,8 +204,12 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["[+10]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>","[+10]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>","Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [10]% strength for [10] turns]","[+1 Production] from every [Quarry] <in cities without a [Pedra Formosa]> <after discovering [Calendar]>"],
-		"cities": ["Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
+		"uniques": ["[+15]% Strength <for [10] turns> <upon entering a war with [Major] Civilizations> <hidden from users>",
+			"[+15]% Strength <for [10] turns> <upon entering a war with [City-State] Civilizations> <hidden from users>",
+			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]",
+			"[-100]% City-State Influence degradation <for [10] turns> <upon entering a war with [City-State] Civilizations>",
+			"[+1 Production] from every [Quarry] <in cities without a [Pedra Formosa]> <after discovering [Calendar]>"],
+		"cities": ["Olisipo","Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
 	{
@@ -289,8 +293,9 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Age of Discovery",
-		"uniques": ["Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","[Great Merchant] is earned [+50]% faster","[+2] Movement <for [Great Person] units> <when [Embarked]>"],
+		"uniqueName": "Discovery Pioneers",
+		"uniques": ["[Great Admiral] is earned [+50]% faster <while the empire is happy>",
+			"[-50]% XP required for promotions <for [{Military} {Water}] units>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego"]
@@ -348,10 +353,9 @@
 		"innerColor": [255,177,9],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Treasures of Nineveh",
-		"uniques": ["Comment [Upon capturing a city, receive [10] times its [Culture], [Science] & [Food] production as [Science] immediately]",
-			"Upon capturing a city, receive [10] times its [Culture] production as [Science] immediately <hidden from users>",
-			"Upon capturing a city, receive [10] times its [Science] production as [Science] immediately <hidden from users>",
-			"Upon capturing a city, receive [10] times its [Food] production as [Science] immediately <hidden from users>"],
+		"uniques": ["[+33]% [Science] [in annexed cities] <for [15] turns> <upon conquering a city> <hidden from users>",
+			"[+33]% [Science] [in puppeted cities] <for [15] turns> <upon conquering a city> <hidden from users>",
+			"Comment [Receive a [Science] boost in annexed/puppeted cities, upon conquering a city]"],
 		"cities": ["Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
 			"Shubat-Enlil","Qatna","Sareisa","Sam al","Qarqar","Til Barsip","Sultantepe","Erbil","Hamath","Guzana",	"Turuspa","Nasibina","Arpad","Kelashin","Urartu","Sabata","Hit"]
 	},
@@ -380,7 +384,7 @@
 		"innerColor": [57,1,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Solidarity",
-		"uniques": ["Comment [Receive a [Culture] boost upon entering in a new era]", "[+50]% [Culture] [in all cities] <for [5] turns> <starting from the [Classical era]> <upon entering a new era> <hidden from users>","[-33]% Culture cost of adopting new Policies <for [5] turns> <starting from the [Classical era]> <upon entering a new era> <hidden from users>"],
+		"uniques": ["Free Social Policy <upon entering a new era> <starting from the [Classical era]>"],
 
 		"cities": ["Warsaw","Cracow","Lodz","Wroclaw","Poznan„","Gdansk","Szczecin","Bydgoszcz","Lublin","Sopot",
 			"Katowice","Bialystok","Gdynia","Swidnica","Czestochowa","Radom","Torun„","Kielce","Gliwice","Lowicz",
@@ -444,7 +448,7 @@
 		"innerColor": [54,189,98],
 		"favoredReligion": "Islam",
 		"uniqueName": "Gateway to Africa",
-		"uniques": ["[+1 Culture, +2 Gold] from each Trade Route","[+1 Culture] from every [Trading post]"],
+		"uniques": ["[+3 Culture, +2 Gold] from each Trade Route"],
 
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
@@ -475,7 +479,7 @@
 		"innerColor": [86,248,232],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Expanse",
-		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>","Gain control over [6] tiles [in this city] <upon founding a city>"],
+		"uniques": ["[+15]% Strength <for [Military] units> <when fighting in [Friendly Land] tiles>","Gain control over [4] tiles [in this city] <upon founding a city>"],
 
 		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
 			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
@@ -487,6 +491,7 @@
 		"adjective": ["Venetian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Enrico Dandolo",
 
 		"startIntroPart1": "Greetings, most astute Doge Enrico Dandolo of Venice, master of statecraft and shrewd negotiator. Although you rose to power late in life, old age did little to slow your cunning or ambition, as you deftly managed the bustling commercial center of Venice during a time of great instability. In aligning yourself with the Fourth Crusade, you carefully gained a strategic advantage and used the Crusaders to reacquire lost territory for Venice. Your role in guiding the Crusaders during the sacking of Constantinople led to an even greater expansion of your power, and secured your legacy throughout history.",
 		"startIntroPart2": "Most insightful and cunning Doge, Venice once again requires the service of a skilled leader, one who can bring the republic back to the forefront of world affairs. Can you establish your nation through careful trade, or will you work to conquer your enemies through diplomacy? Can you build a civilization that will stand the test of time?",
@@ -523,8 +528,9 @@
 		"adjective": ["Soviets"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Joseph Stalin",
 
-		"startIntroPart1": "Great comrade, Josef! After the bloody revolution of 1917, Russia transitioned into the great Soviet Union! Conquering entire countries and nations for its control and ideology, defeating the Germans in the Second World War and threatening the greatest global power of the time. Years passed in this conflict, and various upheavals within and outside our government began to shatter our future. The great socialist state fell into the chaos of the Cold War.",
+		"startIntroPart1": "Great leader, Joseph! After the bloody revolution of 1917, Russia transitioned into the great Soviet Union! Conquering entire countries and nations for its control and ideology, defeating the Germans in the Second World War and threatening the greatest global power of the time. Years passed in this conflict, and various upheavals within and outside our government began to shatter our future. The great socialist state fell into the chaos of the Cold War.",
 		"startIntroPart2": "Comrade Stalin! Now you have the chance to avenge our failure! Will you be able to create the communist nation you've always dreamed of? Will the Empire of tomorrow be a nation that withstands the test of time?",
 
 		"declaringWar": "You're a time waste! get out my way!",
