@@ -16,7 +16,7 @@
 		"introduction": "Hello, I am Pedro II of Brazil. It seems that brilliant minds are destined to meet.",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -49,7 +49,7 @@
 		"introduction": "Kongo King. You seem blessed by God, Faith brother. I believe in you believes!",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -107,7 +107,7 @@
 		"introduction": "Hey! My eyes are right here! My gold is just a detail.",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"hateHello": "What do you need?!",
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -166,8 +166,8 @@
 		"defeated": "I for one welcome our new conquer overlord!",
 		"introduction": "Baldwin IV, King of the Holy Kingdom. You seem to have a lot of faith in your hands.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -195,8 +195,8 @@
 		"defeated": "I was wrong, you are stronger than I thought you were.",
 		"introduction": "Hello, I am Viriato! A general and leader of the Lusitanians. You seem to have a warrior spirit. you welcome!",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"neutralHello": "Hello!",
+		"hateHello": "What?",
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -228,8 +228,8 @@
 		"defeated": "I am impressed. I, the Great Gilgamesh, he who defeated gods, have been defeated by another superior being. I grant you my kingdom.",
 		"introduction": "The great king of Uruk is flattered to meet you! I hope we can be friends.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"neutralHello": "Hail.",
+		"hateHello": "Oh, it's you.",
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -285,8 +285,8 @@
 		"defeated": "This was not part of my plan. The Portuguese crown will not accept this humiliation; you will pay!",
 		"introduction": "Good morning, I am João III of Portugal. I believe our interests may be of interest to your Empire.",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "Oh, it's you?",
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
@@ -317,7 +317,7 @@
 		"introduction": "Hello, honored neighbor. I'm Mwene Nzinga Bandi, or just Nzinga, Ndongo and Matamba Queen.",
 
 		"neutralHello": "You need something?",
-		"hateHello": "Go on.",
+		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "How about we reach this agreement?",
 
@@ -538,7 +538,7 @@
 		"defeated": "The fire rises, again. enjoy your victory! because i'll never forget you face.",
 		"introduction": "Hello my comrade, we are the Soviet people. We have come in search of our utopia, but if you stand in our way, we will show you war.",
 		
-		"neutralHello": "Oh, it's you?",
+		"neutralHello": "Oh, it's you.",
 		"hateHello": "...",
 		
 		"tradeRequest": "Hello my comrade. I have a proposal for you.",
@@ -549,7 +549,7 @@
 		"uniqueName": "The Revolution",
 		"uniques": [
 			"[Great Engineer] is earned [50]% faster <while the empire is happy>",
-			"[+2 Production] from every specialist [in all cities connected to capital] <while the empire is happy>",
+			"[+2 Production] from every specialist [in all cities connected to capital]",
 			"[+1 Happiness] [in all cities] <starting from the [Industrial era]>"],
 		
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Vladimir","Rostov","Kursk","Belgorod","Tambov",
