@@ -69,7 +69,7 @@
   },
   {
     "name": "Heroism",
-    "uniques": ["Earn [100]% of killed [Military] units [Strength] as [Golden Age points]"]
+    "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
