@@ -72,7 +72,7 @@
 	  "terrainsCanBeBuiltOn": ["Desert","Flood plains"],
 	  "production": 1,
 	  "food": 1,
-	  "gold" 1,
+	  "gold": 1,
 	  "turnsToBuild": 7,
 	  "techRequired": "Chivalry",
 	  "uniques": ["Gives a defensive bonus of [50]%",
@@ -92,6 +92,6 @@
 		  "[+1 Production] <after discovering [Industrialization]>",
 		  "Cannot be built on [Luxury resource] tiles",
 		  "Cannot be built on [Bonus resource] tiles",
-		  "Pillaging this improvement yields approximately [+18 Gold]"]
+		  "Pillaging this improvement yields approximately [+12 Gold]"]
   }
 ]
