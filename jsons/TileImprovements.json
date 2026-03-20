@@ -1,5 +1,4 @@
 [
-	
   {
 	  "name": "Brazilwood Camp",
 	  "uniqueTo": "Brazil",
@@ -28,29 +27,6 @@
 		  "Unavailable <within [2] tiles of a [Tata Somba]> <hidden from users>",
 		  "Pillaging this improvement yields approximately [+22 Gold, +18 Culture]"
 	  ]
-  },
-  {
-	  "name": "Kasbah",
-	  "uniqueTo": "Morocco",
-	  "terrainsCanBeBuiltOn": ["Desert","Flood plains"],
-	  "production": 1,
-	  "gold": 1,
-	  "food": 1,
-	  "techRequired": "Chivalry",
-	  "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+18 Gold]"]
-  },
-  {
-	  "name": "Sovkhoz",
-	  "uniqueTo": "Soviet",
-	  "terrainsCanBeBuiltOn": ["Tundra","Snow"],
-	  "food": 1,
-	  "production": 1,
-	  "techRequired": "Guilds",
-	  "uniques": ["[+1 Food] <after discovering [Fertilizer]>",
-		  "[+1 Production] <starting from the [Industrial era]>",
-		  "Cannot be built on [Luxury resource] tiles",
-		  "Cannot be built on [Bonus resource] tiles",
-		  "Pillaging this improvement yields approximately [+18 Gold]"]
   },
   {
 	  "name": "Feitoria",
@@ -89,5 +65,33 @@
 		  "Cannot be built on [Resource] tiles",
 		  "[-1 Gold] <hidden from users>",
 		  "Pillaging this improvement yields approximately [+33 Gold]"]
+  },
+  {
+	  "name": "Kasbah",
+	  "uniqueTo": "Morocco",
+	  "terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+	  "production": 1,
+	  "food": 1,
+	  "gold" 1,
+	  "turnsToBuild": 7,
+	  "techRequired": "Chivalry",
+	  "uniques": ["Gives a defensive bonus of [50]%",
+		  "Cannot be built on [Luxury resource] tiles",
+		  "Cannot be built on [Bonus resource] tiles",
+		  "Pillaging this improvement yields approximately [+18 Gold]"]
+  },
+  {
+	  "name": "Sovkhoz",
+	  "uniqueTo": "Soviet",
+	  "terrainsCanBeBuiltOn": ["Tundra","Snow"],
+	  "food": 1,
+	  "production": 1,
+	  "turnsToBuild": 7,
+	  "techRequired": "Civil Service",
+	  "uniques": ["[+1 Food] <after discovering [Fertilizer]>",
+		  "[+1 Production] <after discovering [Industrialization]>",
+		  "Cannot be built on [Luxury resource] tiles",
+		  "Cannot be built on [Bonus resource] tiles",
+		  "Pillaging this improvement yields approximately [+18 Gold]"]
   }
 ]
