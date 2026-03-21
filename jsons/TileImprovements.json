@@ -15,17 +15,16 @@
   {
 	  "name": "Tata Somba",
 	  "uniqueTo": "Dahomey",
-	  "terrainsCanBeBuiltOn": ["Plains","Desert"],
+	  "terrainsCanBeBuiltOn": ["Land"],
 	  "gold": 1,
-	  "turnsToBuild": 7,
+	  "turnsToBuild": 4,
 	  "techRequired": "Engineering",
 	  "uniques": [
+		  "Comment [[+15]% [Strength] <for [{Military} {Land}] units> <adjacent>]",
 		  "Gives a defensive bonus of [25]%",
-		  "[+1 Gold] for each adjacent [Trading post]",
-		  "[+1 Food] for each adjacent [Farm]",
-		  "Must be next to [City center]",
-		  "Unavailable <within [2] tiles of a [Tata Somba]> <hidden from users>",
-		  "Pillaging this improvement yields approximately [+22 Gold, +18 Culture]"
+		  "Can be built outside your borders",
+		  "Unavailable <within [1] tiles of a [Tata Somba]> <hidden from users>",
+		  "Pillaging this improvement yields approximately [+16 Gold, +8 Culture]"
 	  ]
   },
   {
@@ -85,7 +84,6 @@
 	  "uniqueTo": "Soviet",
 	  "terrainsCanBeBuiltOn": ["Tundra","Snow"],
 	  "food": 1,
-	  "production": 1,
 	  "turnsToBuild": 7,
 	  "techRequired": "Civil Service",
 	  "uniques": ["[+1 Food] <after discovering [Fertilizer]>",
