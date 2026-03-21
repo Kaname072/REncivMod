@@ -39,7 +39,7 @@
 		"movement": 2,
 		"strength": 50,
 		"cost": 320,
-		"uniques": ["Can be purchased for [160] [Gold] [in all cities]"],
+		"uniques": ["Can be purchased for [175] [Gold] [in all cities]"],
 		"promotions": ["[Dorobanți] ability"],
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
@@ -57,7 +57,7 @@
 		"cost": 75,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
-		"uniques": ["[-100]% maintenance costs"],
+		"uniques": ["[-50]% maintenance costs"],
 		"upgradesTo": "Crossbowman",
 		"attackSound": "crossbow"
 	},
@@ -114,7 +114,7 @@
 		"movement": 4,
 		"strength": 12,
 		"rangedStrength": 12,
-		"cost": 56,
+		"cost": 62,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
@@ -148,7 +148,7 @@
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
 		"promotions": ["Landing Party"],
-		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence", "Withdraws before melee combat <with [80]% chance>"],
+		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
@@ -176,6 +176,7 @@
 		"cost": 375,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
+		"promotions": ["Drill I"],
 		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 	},
