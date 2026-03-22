@@ -26,34 +26,35 @@
 		"uniqueTo": "Romania",
 		"replaces": "Temple",
 		"faith": 2,
-		"production": 1,
 		"requiredBuilding": "Shrine",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Production] from [{improved} {Luxury resource}] tiles [in this city]", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Production] from [Plantation] tiles [in this city]",
+			"[+1 Production] from [Pasture] tiles [in this city]",
+			"[+1 Production] from [Camp] tiles [in this city]",
+			"Destroyed when the city is captured"]
 	},
 	{
 		"name": "Ziggurat Temple",
 		"uniqueTo": "Sumerian",
 		"replaces": "Temple",
 		"faith": 2,
-		"science": 4,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Science] per [3] population [in this city]"]
 	},
 	{
 		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
-		"faith": 1,
+		"faith": 2,
 		"culture": 1,
 		"cost": 40,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["[Faith] cost of purchasing [Missionary] units [-25]% <in this city>","Only available <when religion is enabled>"]
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Royal Library",
@@ -72,9 +73,9 @@
 		"production": 1,		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"maintenance": 0,
 		"hurryCostModifier": 0,
-		"uniques": ["Must be next to [Fresh Water]",
-			"[+1 Production, +1 Faith] from [Stone] tiles [in this city]",
-			"[+1 Production, +1 Faith] from [Marble] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Stone] tiles [in this city]",
+			"[+1 Production] from [Marble] tiles [in this city]", 
+			"[+1 Faith] from [River] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -84,7 +85,8 @@
 		"maintenance": 0,		
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
-		"uniques": ["New [Mounted] units start with [15] XP [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+		"uniques": ["New [Mounted] units start with [15] XP [in this city]",
+			"[+15]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
@@ -95,7 +97,7 @@
 		"uniqueTo": "Indonesia",
 		"replaces": "Garden",
 		"faith": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Hill]"],
+		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
