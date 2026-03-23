@@ -119,7 +119,7 @@
 		"innerColor": [255,204,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "The Great Pilgrimage",
-		"uniques": ["Comment [All [Friendly] [holy city] will receive a big [Gold] boost  during your [Golden Age]]", "[+25]% Great Person generation [in all cities] <during a Golden Age>"],
+		"uniques": ["Comment [All [Friendly] Civilizations with a holy cities will receive a big amount of [Gold] during their [Golden Age]]", "[+25]% [Science] [in all cities] <during a Golden Age>", "[+25]% Great Person generation [in all cities] <during a Golden Age>"],
 		"cities":["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -179,7 +179,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tolerance",
-		"uniques": ["[+1 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+1 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
+		"uniques": ["[+2 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+2 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
 		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
@@ -328,7 +328,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+1] Movement <for [Land] units> <in [your] tiles>"],
+		"uniques": [""],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
