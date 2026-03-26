@@ -11,5 +11,7 @@
     ,"[-10]% Strength <for [T-55] units> <vs [Soviet] units> <for [non-[Soviet]] Civilizations>","[-1] Sight <for [T-55] units> <for [non-[Soviet]] Civilizations>",
     "[-100]% maintenance costs <for [T-55] units> <for [non-[Soviet]] Civilizations>"
     ///Lusitanian Coop Boost",
-    "[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>"]
+    "[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>"
+    /// Mali Unique,
+    "Triggers a [Mansa arrived] event <upon entering a Golden Age> <after founding a religion> <when number of [Remaining [Mali] Civilizations] is more than [0]>"]
 }
