@@ -186,7 +186,7 @@ UnitIcons/Iberian Warrior
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Heavy Cart
+UnitIcons/War-Cart
   rotate: false
   xy: 1400, 200
   size: 200, 200
