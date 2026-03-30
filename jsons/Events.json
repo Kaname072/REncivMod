@@ -1,21 +1,12 @@
 [
   {
     "name": "Mansa arrived",
-    "text": "Mansa Musa arrived here! he going to our holy city!",
+    "text": "Mansa Musa arrived here! he going to our holy city! you are receive a [Gold] boost during the Mali Golden Age!",
     "presentation": "Alert",
     "choices": [
       {
-        "text": "Mansa arrived",
+        "text": "Ok.",
         "uniques": [
-          "Gain [100]-[125] [Gold] <during the [Ancient era]>",
-          "Gain [150]-[175] [Gold] <during the [Classical era]>",
-          "Gain [175]-[200] [Gold] <during the [Medieval era]>",
-          "Gain [200]-[250] [Gold] <during the [Renaissance era]>",
-          "Gain [250]-[300] [Gold] <during the [Industrial era]>",
-          "Gain [350]-[400] [Gold] <during the [Modern era]>",
-          "Gain [400]-[450] [Gold] <during the [Atomic era]>",
-          "Gain [450]-[500] [Gold] <during the [Information era]>",
-          "Gain [500]-[550] [Gold] <during the [Future era]>",
           "Play [choir] sound"
         ]
       }
