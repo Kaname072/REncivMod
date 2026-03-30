@@ -5,7 +5,7 @@
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [Melee] units [in this city] receive the [Buffalo Horns] promotion <before the [Renaissance era]>", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]","All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -44,7 +44,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Science] per [3] population [in this city]"]
+		"uniques": ["[+1 Science] per [2] population [in this city]"]
 	},
 	{
 		"name": "Kulumbimbi",
@@ -70,12 +70,13 @@
 		"uniqueTo": "Lusitanian",
 		"replaces": "Stone Works",
 		"happiness": 1,
-		"production": 1,		"requiredNearbyImprovedResources": ["Marble", "Stone"],
+		"production": 1,
+		"faith": 2,
+		"requiredNearbyImprovedResources": ["Marble", "Stone"],
 		"maintenance": 0,
 		"hurryCostModifier": 0,
 		"uniques": ["[+1 Production] from [Stone] tiles [in this city]",
-			"[+1 Production] from [Marble] tiles [in this city]", 
-			"[+1 Faith] from [River] tiles [in this city]"],
+			"[+1 Production] from [Marble] tiles [in this city]"],
 		"requiredTech": "Calendar"
 	},
 	{
@@ -104,6 +105,7 @@
 	}, ///Extra luxury for Indonesia
 	{
 		"name": "Nutmeg Plantation",
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Provides [2] [Nutmeg]",
 			"Must be next to [Coast]",
@@ -117,6 +119,7 @@
 	},
 	{
 		"name": "Cloves Plantation",
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Provides [2] [Cloves]",
 			"Must be next to [Coast]",
@@ -130,6 +133,7 @@
 	},
 	{
 		"name": "Pepper Plantation",
+		"isNationalWonder": true,
 		"cost": 1,
 		"uniques": ["Provides [2] [Pepper]",
 			"Must be next to [Coast]",
@@ -140,5 +144,12 @@
 			"Never destroyed when city is captured <hidden from users>",
 			"Limited to [1] per Civilization",
 			"Unsellable"]
+	},
+	{
+		"name": "Musa Pilgrimage",
+		"isNationalWonder": true,
+		"culture": 1,
+		"cost": 0,
+		"uniques": ["Comment [This buildings is solely for the unique feature to function.]","Destroyed when the city is captured","Unbuildable"]
 	}
 ]
