@@ -150,6 +150,6 @@
 		"isNationalWonder": true,
 		"gold": 1,
 		"cost": 0,
-		"uniques": ["Comment [This buildings is solely for the unique feature to function.]","Destroyed when the city is captured","Unbuildable"]
+		"uniques": ["Comment [This buildings is solely for the unique feature to function.]", "Triggers a global alert upon completion", "Limited to [1] per Civilization", "Destroyed when the city is captured","Unbuildable"]
 	}
 ]
