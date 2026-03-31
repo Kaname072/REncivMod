@@ -84,14 +84,14 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [155,144,196],
-		"innerColor": [0,39,128],
+		"outerColor": [0,39,128],
+		"innerColor": [252,210,15],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <for [{Military} {Land}] units> <vs [{Wounded} {Land}] units>",
+		"uniques": ["[+10]% Strength <for [{Wounded} {Land}] units> <when defending>",
 			"No movement cost to pillage <for [Mounted] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
-		"cities": ["Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
+		"cities": ["Bucharest","Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
 	},
 	{
@@ -304,7 +304,7 @@
 		"uniqueName": "Ocean Pioneers",
 		"uniques": ["[+1 Gold] from every [Fishing Boats]",
 			"[Great Admiral] is earned [+50]% faster",
-			"[+50]% XP gained from combat<for [{Military} {Water}] units>"],
+			"[+50]% XP gained from combat <for [{Military} {Water}] units>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego"]
