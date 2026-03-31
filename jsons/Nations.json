@@ -84,8 +84,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [149,78,85],
-		"innerColor": [5,5,60],
+		"outerColor": [155,144,196],
+		"innerColor": [0,39,128],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
 		"uniques": ["[+15]% Strength <for [{Military} {Land}] units> <vs [{Wounded} {Land}] units>",
@@ -122,8 +122,9 @@
 		"uniques": ["Comment [All Civilizations (incluides yourself) receive a big boost of [Gold] in yours [Holy] cities during the [Mali] [Golden Age]]",
 			"Gain a free [Musa Pilgrimage] [in capital] <upon entering a Golden Age> <hidden from users>",
 			"Remove [Musa Pilgrimage] [in capital] <upon ending a Golden Age> <hidden from users>",
-			"[+25]% [Science] [in all cities] <during a Golden Age>",
-			"[+25]% Great Person generation [in all cities] <during a Golden Age>"],
+			"Comment [[Science] and [Great Person] boost <during a Golden Age>]",
+			"[+25]% [Science] [in all cities] <during a Golden Age> <hidden from users>",
+			"[+25]% Great Person generation [in all cities] <during a Golden Age> <hidden from users>"],
 		"cities":["Nyeni","Tombouctu","Gao","Walata","Jenne","Dia","Kuna","Jinjo","Direi",
 		"Kukiya","Diara","Ra's Al-ma","Awlil"]
 	},
@@ -179,8 +180,8 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [255,233,39],
-		"innerColor": [255,255,255],
+		"outerColor": [20,20,20],
+		"innerColor": [255,255,39],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tolerance",
 		"uniques": ["[+2 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+2 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
@@ -290,7 +291,7 @@
 		"declaringWar": "I didn't want to have to take such drastic measures, well, you'll be stopped.",
 		"attacked": "Things are getting increasingly turbulent between us.",
 		"defeated": "This was not part of my plan. The Portuguese crown will not accept this humiliation; you will pay!",
-		"introduction": "Good morning, I am João III of Portugal. I believe our interests may be of interest to your Empire.",
+		"introduction": "Good day, I'm João III of Portugal. I believe our interests may be of interest to your Empire.",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
@@ -300,10 +301,10 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Age of Discovery",
-		"uniques": ["[+1 Production] from every [Fishing Boats]",
+		"uniqueName": "Ocean Pioneers",
+		"uniques": ["[+1 Gold] from every [Fishing Boats]",
 			"[Great Admiral] is earned [+50]% faster",
-			"[-50]% XP required for promotions <for [{Military} {Water}] units>"],
+			"[+50]% XP gained from combat<for [{Military} {Water}] units>"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego"]
@@ -333,7 +334,8 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": [""],
+		"uniques": ["[+1 Happiness] from every [Wonder]",
+			"[+1 Culture] from every [{Culture} {Wonder}]"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
