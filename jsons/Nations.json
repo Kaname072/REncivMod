@@ -57,7 +57,7 @@
 		"innerColor": [168,120,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[Faith] cost of purchasing [Religious Unit] units [-33]%",
+		"uniques": ["[Faith] cost of purchasing [Religious Unit] units [-25]%",
 			"[Faith] cost of purchasing [Faith] buildings [-50]%",
 			"[+2] Movement <for [Religious Unit] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
@@ -180,12 +180,12 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [20,20,20],
-		"innerColor": [255,255,39],
+		"outerColor": [16,16,16],
+		"innerColor": [255,255,48],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Tolerance",
-		"uniques": ["[+2 Faith, +1 Happiness] [in all cities] <in cities following our religion>","[+2 Gold, +1 Culture] [in all cities] <in cities with a [foreign] religion>"],
-		"cities": ["Jerusalem","Acre","Arsur","Naples","Japhe","Ascalon","St. Abraham","Darum","Oultre Lourdan","Caesarea",
+		"uniqueName": "Papal States",
+		"uniques": ["Comment [Have more [6] extra [Enhancer] [Beliefs] when enhancing a religion]"],
+		"cities": ["Jerusalem","Ascalon","Acre","Arsur","Naples","Japhe","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
 	},
 	{
@@ -301,10 +301,10 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,51,153],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Ocean Pioneers",
+		"uniqueName": "Discovery Pioneers",
 		"uniques": ["[+1 Gold] from every [Fishing Boats]",
-			"[Great Admiral] is earned [+50]% faster",
-			"[+50]% XP gained from combat <for [{Military} {Water}] units>"],
+			"[+2] Movement <for [Settler] units> <when [Embarked]>",
+			"[-25]% maintenance cost for [all] buildings [in all coastal cities]"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
 			"Maputo","Tavira","Figueira da Foz","Viana do Castelo","São Tomé and Príncipe","Silves","Sintra","Dili","Lamego"]
