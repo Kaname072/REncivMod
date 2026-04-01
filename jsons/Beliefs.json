@@ -12,7 +12,7 @@
   {
     "name": "Outremers",
     "type": "Enhancer",
-    "uniques" ["May buy [Outremer] buildings for [80] [Faith] [in cities following this religion]", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["May buy [Outremer] buildings for [80] [Faith] [in cities following this religion]", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
     "name": "Protect God House",
