@@ -30,8 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Connection with Rivers",
-    "uniques": ["[+33]% Strength <when fighting in [River] tiles>","Double movement in [River]","Eliminates combat penalty for attacking over a river"]
+    "name": "Ambusher Tactics",
+    "uniques": ["[+50]% to Flank Attack bonuses","[+20]% Strength <vs [Siege] units>"]
   },
   {
     "name": "[Agojie] ability",
@@ -70,6 +70,10 @@
   {
     "name": "Heroism",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+  },
+  {
+    "name": "Great Admirals II",
+    "uniques": ["[Great Admiral] is earned [+100]% faster"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
