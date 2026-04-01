@@ -27,6 +27,6 @@
   {
     "name": "Protection for Pilgrims",
     "type": "Enhancer",
-    "uniques": ["[+33]% [Faith] [in cities following this religion] <during a Golden Age>"]
+    "uniques": ["[+33]% [Faith] [in cities following this religion] <during a Golden Age>", "Only available <for [Jerusalem] Civilizations>"]
   }
 ]
