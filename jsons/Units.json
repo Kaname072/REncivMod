@@ -103,7 +103,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
-		"promotions": ["Connection with Rivers"],
+		"promotions": ["Ambusher Tactics"],
 		"attackSound": "nonmetalhit",
 	},
 	{
@@ -147,8 +147,8 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"promotions": ["Landing Party"],
-		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence", "Withdraws before melee combat <with [80]% chance>"],
+		"promotions": ["Great Admirals II"],
+		"uniques": ["[+1] Sight", "Can move after attacking","Can undertake a trade mission with City-State, giving a large sum of gold and [1] Influence", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
