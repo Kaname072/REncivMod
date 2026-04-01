@@ -151,5 +151,12 @@
 		"gold": 1,
 		"cost": 0,
 		"uniques": ["Comment [This buildings is solely for the unique feature to function.]", "Triggers a global alert upon completion", "Limited to [1] per Civilization", "Destroyed when the city is captured","Unbuildable"]
+	},
+	{
+		"name": "Outremer",
+		"faith": 2,
+		"gold": 1,
+		"cost": 0,
+		"uniques": ["[+2 Happiness] <in [Annexed] cities>", "[+1 Faith] from [Fort] tiles [in this city]", "[+2 Faith] from [Citadel] tiles [in this city]", "Unbuildable"]
 	}
 ]
