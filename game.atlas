@@ -144,9 +144,16 @@ UnitIcons/Turcopole Cavalry
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pracinha
+UnitIcons/Bandeirante
   rotate: false
   xy: 0, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pracinha
+  rotate: false
+  xy: 0, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -405,7 +412,7 @@ ResourceIcons/Nutmeg
   index: -1
 ImprovementIcons/Brazilwood Camp
   rotate: false
-  xy: 0, 400
+  xy: 0, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -634,14 +641,14 @@ TileSets/FantasyHex/Units/Cetbang Cannon
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Capoeirista
+TileSets/FantasyHex/Units/Bandeirante
   rotate: false
   xy: 5, 1125
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Pirates
+TileSets/FantasyHex/Units/Warrior+Angola
   rotate: false
   xy: 47, 913
   size: 32, 28
@@ -732,14 +739,14 @@ TileSets/HexaRealm/Units/Cetbang Cannon
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Capoeirista
+TileSets/HexaRealm/Units/Bandeirante
   rotate: false
   xy: 120, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Warrior-Pirates
+TileSets/HexaRealm/Units/Warrior+Angola
   rotate: false
   xy: 340, 873
   size: 64, 56
