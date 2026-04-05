@@ -39,7 +39,7 @@
   },
   {
     "name": "[Jagas Marauder] ability",
-    "uniques": ["[+50]% Health from pillaging tiles","Earn [50]% of the damage done to [City] units as [Gold]"]
+    "uniques": ["[+50]% Health from pillaging tiles","Earn [100]% of the damage done to [City] units as [Gold]"]
   },
   {
     "name": "[Cetbang Cannon] ability",
@@ -74,6 +74,10 @@
   {
     "name": "Great Admirals II",
     "uniques": ["[Great Admiral] is earned [+100]% faster"]
+  },
+  {
+    "namw": "[Bandeirante] ability",
+    "uniques": ["Comment [Enemy units dont have Defensive Terrain bonus when defending]", "Comment [Destroys [Fort] when attacking and destroys [Citadel] when attacking with [50]% chance]","Destroys tile improvements when attacking <when fighting in [{Fort} {Foreign Land}] tiles> <hidden from users>", "Destroys tile improvements when attacking <when fighting in [{Citadel} {Foreign Land}] tiles> <with [50]% chance> <hidden from users>"],
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
