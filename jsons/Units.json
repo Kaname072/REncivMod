@@ -8,7 +8,7 @@
 		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Hearpy Eagle Sight", "Woodsman"],
+		"promotions": ["Harpy Eagle Sight", "Woodsman"],
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
