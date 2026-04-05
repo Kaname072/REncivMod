@@ -648,7 +648,7 @@ TileSets/FantasyHex/Units/Bandeirante
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior+Angola
+TileSets/FantasyHex/Units/Warrior-Angola
   rotate: false
   xy: 47, 913
   size: 32, 28
@@ -746,7 +746,7 @@ TileSets/HexaRealm/Units/Bandeirante
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Warrior+Angola
+TileSets/HexaRealm/Units/Warrior-Angola
   rotate: false
   xy: 340, 873
   size: 64, 56
