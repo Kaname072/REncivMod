@@ -85,7 +85,7 @@
   },
   {
     "name": "Defense Breaker",
-    "uniques": ["Comment [Destroys [Fort] when attacking and destroys [Citadel] when attacking with [50]% chance]","Destroys tile improvements when attacking <upon defeating a [Land] unit> <when fighting in [{Fort} {Foreign Land}] tiles> <hidden from users>", "Destroys tile improvements when attacking <upon defeating a [Land] unit> <when fighting in [{Citadel} {Foreign Land}] tiles> <with [50]% chance> <hidden from users>"],
+    "uniques": ["Comment [Destroys [Fort] when attacking and destroys [Citadel] when attacking with [50]% chance]","Destroys tile improvements when attacking <when fighting in [{Fort} {Foreign Land}] tiles> <hidden from users>", "Destroys tile improvements when attacking <when fighting in [{Citadel} {Foreign Land}] tiles> <with [50]% chance> <hidden from users>"],
     ///"outerColor": [225,0,0],
     "innerColor": [255,0,0]
   },
