@@ -480,7 +480,14 @@ UnitPromotionIcons/No Fear
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Connection with Rivers
+UnitPromotionIcons/Harpy Eagle Sight
+  rotate: false
+  xy: 1800, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Striker
   rotate: false
   xy: 2400, 600
   size: 200, 200
@@ -592,7 +599,7 @@ TileSets/FantasyHex/Units/Dorobanți
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Iberian Warrior
+TileSets/FantasyHex/Units/Falcata Swordsman
   rotate: false
   xy: 5, 875
   size: 32, 28
@@ -648,7 +655,7 @@ TileSets/FantasyHex/Units/Bandeirante
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Angola
+TileSets/FantasyHex/Units/Longswordsman-Barbarians
   rotate: false
   xy: 47, 913
   size: 32, 28
@@ -690,7 +697,7 @@ TileSets/HexaRealm/Units/Dorobanți
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Iberian Warrior
+TileSets/HexaRealm/Units/Falcata Swordsman
   rotate: false
   xy: 120, 808
   size: 64, 56
@@ -746,7 +753,7 @@ TileSets/HexaRealm/Units/Bandeirante
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Warrior-Angola
+TileSets/HexaRealm/Units/Longswordsman-Barbarians
   rotate: false
   xy: 340, 873
   size: 64, 56
