@@ -1,15 +1,15 @@
 [
   {
 	  "name": "Brazilwood Camp",
+	  "uniqueTo": "Brazil",
 	  "terrainsCanBeBuiltOn": ["Jungle"],
-	  "production": 1,
+	  "production": 2,
 	  "turnsToBuild": 7,
 	  "techRequired": "Machinery",
 	  "uniques": ["[+2 Culture] <after discovering [Acoustics]>",
 		  "[+2 Gold] <after discovering [Economics]>",
 		  "Cannot be built on [Luxury resource] tiles",
 		  "Cannot be built on [Bonus resource] tiles",
-		  "Unbuildable",
 		  "Pillaging this improvement yields approximately [+18 Gold]"]
   },
   {
