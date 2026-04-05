@@ -2,6 +2,7 @@
 	{
 		"name": "Ikanda",
 		"uniqueTo": "Zulu",
+		"production": 2,
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
