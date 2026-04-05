@@ -1,23 +1,23 @@
 [
   {
     "name": "Buffalo Chest",
-    "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>","Only available <for [Zulu] Civilizations> <hidden from users>"],
+    "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>"],
     "prerequisites": ["Buffalo Horns"],
     "unitTypes": ["Sword"]
   },
   {
     "name": "Buffalo Horns",
-    "uniques": ["[+25]% to Flank Attack bonuses", "Only available <for [Zulu] Civilizations> <hidden from users>"]
+    "uniques": ["[+25]% to Flank Attack bonuses"]
   },
   {
     "name": "Buffalo Loins",
-    "uniques": ["[+1] Movement","[+30]% Strength <vs [Ranged] units> <when defending>","Only available <for [Zulu] Civilizations> <hidden from users>"]
+    "uniques": ["[+1] Movement","[+30]% Strength <vs [Ranged] units> <when defending>"],
     "prerequisites": ["Buffalo Chest"],
     "unitTypes": ["Sword"]
   },
   {
     "name": "[Dorobanți] ability",
-    "uniques": ["May capture killed [Siege] units","Can move after attacking"]
+    "uniques": ["[+50]% Strength <when attacking> <in [City center] tiles>", "May capture killed [Siege] units"]
   },
   {
     "name": "Deus Vult",
@@ -30,8 +30,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Ambusher Tactics",
-    "uniques": ["[+50]% to Flank Attack bonuses","[+20]% Strength <vs [Siege] units>"]
+    "name": "Striker",
+    "uniques": ["[+33]% Strength <when attacking>"]
   },
   {
     "name": "[Agojie] ability",
@@ -68,16 +68,30 @@
     "uniques": ["[+1] Movement"]
   },
   {
-    "name": "Heroism",
+    "name": "Heroism I",
     "uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Golden Age points]"]
+  },
+  {
+    "name": "Heroism II",
+    "uniques": ["Earn [100]% of killed [Military] unit's [Cost] as [Golden Age points]"]
+  },
+  {
+    "name": "Great Admirals I",
+    "uniques": ["[Great Admiral] is earned [+50]% faster"]
   },
   {
     "name": "Great Admirals II",
     "uniques": ["[Great Admiral] is earned [+100]% faster"]
   },
   {
-    "name": "[Bandeirante] ability",
-    "uniques": ["Comment [Enemy units dont have Defensive Terrain bonus when defending]", "Comment [Destroys [Fort] when attacking and destroys [Citadel] when attacking with [50]% chance]","Destroys tile improvements when attacking <when fighting in [{Fort} {Foreign Land}] tiles> <hidden from users>", "Destroys tile improvements when attacking <when fighting in [{Citadel} {Foreign Land}] tiles> <with [50]% chance> <hidden from users>"],
+    "name": "Defense Breaker",
+    "uniques": ["Comment [Destroys [Fort] when attacking and destroys [Citadel] when attacking with [50]% chance]","Destroys tile improvements when attacking <upon defeating a [Land] unit> <when fighting in [{Fort} {Foreign Land}] tiles> <hidden from users>", "Destroys tile improvements when attacking <upon defeating a [Land] unit> <when fighting in [{Citadel} {Foreign Land}] tiles> <with [50]% chance> <hidden from users>"],
+    ///"outerColor": [225,0,0],
+    "innerColor": [255,0,0]
+  },
+  {
+    "name": "Harpy Eagle Sight",
+    "uniques": ["Can see over obstacles"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
