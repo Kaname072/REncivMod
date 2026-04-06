@@ -15,5 +15,5 @@
     ///Lusitanian Coop Boost"
     ,"[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>",
     ///Angola unique
-    "[This Unit] gains [1] XP <in [Foreign Land] tiles> <for [Angola] Civilizations>"]
+    "[This Unit] gains [1] XP <within [3] of a [{non-[Unowned]}]> <upon turn end> <for [{Land} {non-[Siege]}] units> <for [Angola] Civilizations>"]
 }
