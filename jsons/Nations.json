@@ -24,7 +24,7 @@
 		"innerColor": [0,107,35],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Carnival",
-		"uniques": ["[+50]% [Culture] [in all cities] <during a Golden Age>","[+100]% Yield from every [Landmark] <during a Golden Age>","[Great Artist] is earned [50]% faster <while the empire is happy>"],
+		"uniques": [""],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá",
@@ -82,12 +82,11 @@
 
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [0,39,128],
-		"innerColor": [252,210,15],
+		"outerColor": [0,11,83],
+		"innerColor": [205,85,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[+15]% Strength <when fighting in [Pillaged] tiles>",
-			"No movement cost to pillage <for [Mounted] units>",
+		"uniques": ["No movement cost to pillage <for [Mounted] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Bucharest","Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
 			"Timişoara","Târgumures","Clujnapoca","Oradea"]
@@ -238,8 +237,8 @@
 		
 		"tradeRequest": "My friend, do you think you can accept this request?",
 
-		"outerColor": [228,131,12],
-		"innerColor": [14,66,170],
+		"outerColor": [0,214,85],
+		"innerColor": [0,43,164],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
 		"uniques": ["Free [Great General] appears <upon discovering [Writing] technology>","Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
@@ -268,8 +267,8 @@
 		
 		"tradeRequest": "Business is business, can you give it for me?",
 
-		"outerColor": [53,53,53],
-		"innerColor": [255,255,255],
+		"outerColor": [158,190,17],
+		"innerColor": [52,52,52],
 		"uniqueName": "Transatlantic Trade",
 		"uniques": ["Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
@@ -331,8 +330,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+1 Happiness] from every [Wonder]",
-			"[+1 Culture] from every [{Culture} {Wonder}]"],
+		"uniques": ["[+25]% XP required for promotions <for [{Land} {non-[Siege]}] units>", "Comment [[{Land} {non-[Siege]}] units gain [1] XP per turn, in [Foreign Land] tiles (At least [3] tiles away from any city)]"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
@@ -518,7 +516,10 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Serenissima",
 		"uniques": [
-			"[+50]% [Gold] [in capital]",
+			"Comment [[+50]% [Gold], [Science], [Culture] [in capital]]",
+			"[+50]% [Gold] [in capital] <hidden from users>",
+			"[+50]% [Science] [in capital] <hidden from users> <when number of [turns] is more than [75]>",
+			"[+50]% [Culture] [in capital] <hidden from users> <when number of [turns] is more than [50]>",
 			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
 			"May not annex cities",
 			"May buy items in puppet cities",
