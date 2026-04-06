@@ -1,6 +1,7 @@
 {
   "name": "REnciv Mod",
-  "uniques": ["[+75]% [Gold] [in holy cities] <if [Musa Pilgrimage] is constructed by anybody> <after founding a religion>" ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <after founding a religion> <if [Musa Pilgrimage] is constructed by anybody>"
+  "uniques": ["[Gold] cost of purchasing items in cities [+100]% <for [non-[Mali]] Civilizationss> <if [Musa Pilgrimage] is constructed by anybody> <after founding a religion>"
+    ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <after founding a religion> <if [Musa Pilgrimage] is constructed by anybody>"
     ,"When defeating a [{T-55} {non-[Captured Tank]} {non-[Rescued Tank]}] unit, earn [75] Gold and recruit it <with [75]% chance> <for [{Major} {non-[Soviet]}] Civilizations>"
     ,"When defeating a [Captured Tank] unit, earn [125] Gold and recruit it <for [Soviet] Civilizations>"],
   "unitUniques": [
@@ -12,5 +13,7 @@
     ,"[-10]% Strength <for [Captured Tank] units> <vs [Soviet] units> <for [non-[Soviet]] Civilizations>","[-1] Sight <for [Captured Tank] units> <for [non-[Soviet]] Civilizations>"
     ,"[-100]% maintenance costs <for [Captured Tank] units> <for [non-[Soviet]] Civilizations>"
     ///Lusitanian Coop Boost"
-    ,"[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>"]
+    ,"[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>",
+    ///Angola unique
+    "[This Unit] gains [1] XP <in [Foreign Land] tiles> <for [Angola] Civilizations>"]
 }
