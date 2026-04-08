@@ -39,7 +39,11 @@
   },
   {
     "name": "[Jagas Marauder] ability",
-    "uniques": ["[+50]% Health from pillaging tiles","Earn [100]% of the damage done to [City] units as [Gold]"]
+    "uniques": ["[+50]% Health from pillaging tiles"]
+  },
+  {
+    "name": "[Bandeirante] ability",
+    "uniques": ["Earn [50]% of the damage done to [Military] units as [Gold]"],
   },
   {
     "name": "[Cetbang Cannon] ability",
@@ -60,8 +64,12 @@
     "innerColor": [255,0,0]
   },
   {
+    "name": "Homeland Defensor",
+    "uniques": ["[+25]% Strength <when fighting in [your] tiles>"] 
+  },
+  {
     "name": "[Berber Cavalry] ability",
-    "uniques": ["[+25]% Strength <when fighting in [your] tiles>","[+50]% Strength <when fighting in [Desert] tiles>"]
+    "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"]
   },
   {
     "name": "Full Moon Striker",
@@ -90,8 +98,20 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Harpy Eagle Sight",
+    "name": "Eagle Sight",
     "uniques": ["Can see over obstacles"]
+  },
+  {   ////Angola unique promotions ////
+    "name": "Blood I",
+    "uniques": ["[+10]% Strength"]
+  },
+  {
+    "name": "Blood II",
+    "uniques": ["[+15]% Strength"]
+  },
+  {
+    "name": "Blood III",
+    "uniques": ["[+20]% Strength"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
