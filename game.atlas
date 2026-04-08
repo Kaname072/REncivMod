@@ -291,9 +291,9 @@ UnitIcons/T-55
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Wooden Church
+BuildingIcons/Painted Monastery
   rotate: false
-  xy: 600, 400
+  xy: 2600, 1000
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -329,6 +329,13 @@ BuildingIcons/Kulumbimbi
 BuildingIcons/Tata Somba
   rotate: false
   xy: 1800, 400
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kilombo
+  rotate: false
+  xy: 2200, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -412,7 +419,7 @@ ResourceIcons/Nutmeg
   index: -1
 ImprovementIcons/Brazilwood Camp
   rotate: false
-  xy: 0, 600
+  xy: 0, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -664,7 +671,7 @@ TileSets/FantasyHex/Units/Longswordsman-Barbarians
   index: -1
 TileSets/FantasyHex/Tiles/Kasbah
   rotate: false
-  xy: 5, 1035
+  xy: 5, 1257
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -762,7 +769,7 @@ TileSets/HexaRealm/Units/Longswordsman-Barbarians
   index: -1
 TileSets/HexaRealm/Tiles/Kasbah
   rotate: false
-  xy: 413, 938
+  xy: 413, 1076
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
