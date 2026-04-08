@@ -186,7 +186,7 @@ UnitIcons/Impi
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Iberian Warrior
+UnitIcons/Falcata Swordsman
   rotate: false
   xy: 1000, 200
   size: 200, 200
@@ -487,7 +487,7 @@ UnitPromotionIcons/No Fear
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Harpy Eagle Sight
+UnitPromotionIcons/Eagle Sight
   rotate: false
   xy: 1800, 1000
   size: 200, 200
@@ -496,7 +496,7 @@ UnitPromotionIcons/Harpy Eagle Sight
   index: -1
 UnitPromotionIcons/Striker
   rotate: false
-  xy: 2400, 600
+  xy: 2200, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
