@@ -8,7 +8,7 @@
 		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Harpy Eagle Sight", "Woodsman"],
+		"promotions": ["[Bandeirante] ability", "Woodsman"],
 		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
@@ -120,7 +120,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Can move after attacking", "Rough terrain penalty"],
+		"uniques": ["No defensive terrain bonus", "Can move after attacking"],
 		"attackSound": "arrow"
 	},
 	{
@@ -164,7 +164,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions": ["[Jagas Marauder] ability","Besiege"],
+		"promotions": ["[Jagas Marauder] ability", "Cover I"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -242,7 +242,7 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"promotions": ["[Berber Cavalry] ability"],
+		"promotions": ["Homeland Defensor", "[Berber Cavalry] ability"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "cavalry"
 	},
@@ -304,6 +304,7 @@
 		"requiredTech": "Compass",
 		"obsoleteTech": "Navigation",
 		"upgradesTo": "Frigate",
+		"promotions": ["Great Admirals I"],
 		"uniques": ["Cannot enter ocean tiles"],
 		"attackSound": "cannon"
 	},
