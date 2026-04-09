@@ -21,7 +21,7 @@
   },
   {
     "name": "Deus Vult",
-    "uniques": ["[+20]% Strength <when fighting in [Enemy Land] tiles>"]
+    "uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles>"]
   },
   {
     "name": "No Fear",
@@ -116,6 +116,10 @@
   {
     "name": "Enemy Tactics Knowledge",
     "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>"]
+  },
+  {
+    "name": "Blitzkrieg",
+    "uniques": ["[+30]% Strength <when attacking>", "[+25]% to Flank Attack bonuses", "[+100]% Strength <vs cities> <when attacking> <when [non-[Siege]]>", "[+1] Movement"]
   },
   { //// Debuff promotions ////
     "name": "Stunned",
