@@ -1,7 +1,7 @@
 [
   {
     "name": "Mansa arrived",
-    "text": "Mansa Musa arrived here! he going to our holy city! you are receive a [Gold] boost during the Mali Golden Age!",
+    "text": "Mansa Musa arrived here! he going to our holy city! the [Gold] cost in all cities are [100]% inflated during the Mali Golden Age!",
     "presentation": "Alert",
     "choices": [
       {
@@ -72,6 +72,19 @@
         "uniques": [
           "[This Unit] is destroyed",
           "Free [Worker] appears"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blitzkrieg",
+    "text": "Blitzkrieg",
+    "presentation": "None",
+    "choices": [
+      {
+        "text": "Blitzkrieg",
+        "uniques": [
+          "Play [WLTK] sound"
         ]
       }
     ]
