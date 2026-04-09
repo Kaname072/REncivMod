@@ -37,11 +37,10 @@
 		"name": "Kilombo",
 		"uniqueTo": "Angola",
 		"replaces": "Colosseum",
-		"maintenance": 1,
 		"happiness": 2,
-		"culture": 2,
-		"uniques": ["Comment [[First Blood] units garrisoned [in this city] gains [1] XP per turn, when not at war]"],
-		"hurryCostModifier": 25,
+		"food": 1,
+		"uniques": ["Comment [[Combat] units garrisoned [in this city] gains [2] XP per turn]"],
+		"cost": 100,
 		"requiredTech": "Construction"
 	},
 	{
@@ -92,8 +91,7 @@
 	{
 		"name": "Ducal Stable",
 		"uniqueTo": "Poland",
-		"replaces": "Stable",
-		"maintenance": 0,		
+		"replaces": "Stable",		
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["New [Mounted] units start with [15] XP [in this city]",
