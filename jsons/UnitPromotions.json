@@ -102,16 +102,8 @@
     "uniques": ["Can see over obstacles"]
   },
   {   ////Angola unique promotions ////
-    "name": "Blood I",
-    "uniques": ["[+10]% Strength"]
-  },
-  {
-    "name": "Blood II",
-    "uniques": ["[+15]% Strength"]
-  },
-  {
-    "name": "Blood III",
-    "uniques": ["[+20]% Strength"]
+    "name": "Combat",
+    "uniques": ["[+10]% Strength", "Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
   },
   {   //// Rescued Tanks Promotions ////
     "name": "Enemy Camouflage",
