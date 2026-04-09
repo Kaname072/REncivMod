@@ -13,7 +13,7 @@
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
-		"introduction": "Hello, I am Pedro II of Brazil. It seems that brilliant minds are destined to meet.",
+		"introduction": "Hello, I am Pedro II from Brazil. It seems that brilliant minds are destined to meet.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
@@ -26,7 +26,7 @@
 		"uniqueName": "Magnanimous",
 		"uniques": ["[+1 Happiness] from every [{Culture} {Wonder}]",
 			"[Great Artist] is earned [+50]% faster",
-			"[+50]% Yields from [Landmark]"],
+			"[+50]% Yield from every [Landmark]"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá",
@@ -57,8 +57,8 @@
 		"innerColor": [168,120,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[Faith] cost of purchasing [Religious Unit] units [-25]%",
-			"[Faith] cost of purchasing [Faith] buildings [-50]%",
+		"uniques": ["[+100]% Natural religion spread [in annexed cities]",
+			"[+100]% Natural religion spread [in puppeted cities]",
 			"[+2] Movement <for [Religious Unit] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
@@ -88,7 +88,7 @@
 		"innerColor": [205,85,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wallachia Dragon",
-		"uniques": ["[-50]% Gold cost of upgrading <for [Military] units>",
+		"uniques": ["[Faith] cost of purchasing [Faith] buildings [-50]%",
 			"No movement cost to pillage <for [Mounted] units>",
 			"Comment [Enemy Land Units dont have Defensive Terrain bonus in your territory]"],
 		"cities": ["Bucharest","Târgoviste","Piteşti","Sibiu","Arad","Craiova","Giurgiu","Constanta","Ploieşti","Galati","Brăila","Tulcea","Bacău",
@@ -213,7 +213,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["Comment [[Military] units are Invisible to non-adjacent units in [Forest] and [Jungle] tiles] when HP below [33]%",
+		"uniques": ["Comment [[Military] units are Invisible to non-adjacent units in [Forest] and [Jungle] tiles] when HP below [33]%]",
 			"[+15]% Strength <for [10] turns> <upon entering a war with [All] Civilizations> <hidden from users>",
 			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]",
 			"[-100]% City-State Influence degradation <for [10] turns> <upon entering a war with [City-State] Civilizations>"],
@@ -303,7 +303,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Discovery Pioneers",
 		"uniques": ["[+1 Gold] from every [Fishing Boats]",
-			"[+2] Movement <for [Settler] units> <when [Embarked]>",
+			"[+2] Movement <for [Civilian] units> <when [Embarked]>",
 			"[-25]% maintenance cost for [all] buildings [in all coastal cities]"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
@@ -522,10 +522,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Serenissima",
 		"uniques": [
-			"Comment [[+50]% [Gold], [Science], [Culture] [in capital]]",
-			"[+50]% [Gold] [in capital] <hidden from users>",
-			"[+50]% [Science] [in capital] <hidden from users> <when number of [turns] is more than [75]>",
-			"[+50]% [Culture] [in capital] <hidden from users> <when number of [turns] is more than [50]>",
+			"[+100]% [Gold] [in capital]",
 			"Free [Merchant of Venice] appears <upon discovering [Optics] technology>",
 			"May not annex cities",
 			"May buy items in puppet cities",
@@ -560,13 +557,41 @@
 		"outerColor": [205,0,0],
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",///they're are atheist gorvernmet, but russia is historical orthodoxy
-		"uniqueName": "The Revolution",
+		"uniqueName": "Iron Fist",
 		"uniques": [
 			"[Great Engineer] is earned [50]% faster <while the empire is happy>",
-			"[+2 Production] from every specialist [in all cities connected to capital]",
-			"[+1 Happiness] [in all cities] <starting from the [Industrial era]>"],
+			"[+2 Production] from every specialist"],
 		
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Vladimir","Rostov","Kursk","Belgorod","Tambov",
 			"Kalinin","Pskov","Bryansk","Kaluga","Yaroslavl","Kurgan","Saratov","Kostroma","Vologda","Omsk","Murmansk","Smolensk"]
+	}, (This is not a n***sm glorification! Just like with the Soviets, everything in this mod is meant to be historically accurate.)
+	{
+		"name": "The Nazis",
+        "leaderName": "Adolf Hitler",
+        "adjective": "Germans",
+        "preferredVictoryType": "Domination",
+        "personality": "Adolf Hitler",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I don't need explain nothing! you will be destroyed!",
+        "attacked": "What!? You fool!",
+        "defeated": "You'll never catch me alive!",
+        "introduction": "Greetings, foreigner. i'm the supreme Führer from Germany. what your offer to me?",
+
+        "neutralHello": "What now?",
+        "hateHello": "...",
+
+        "tradeRequest": "That's an order.",
+
+        "outerColor": [193,0,0],
+        "innerColor": [0,0,0],
+        "favoredReligion": "Christianity",
+        "uniqueName": "Blitzkrieg",
+        "uniques": ["No damage penalty for wounded units <for [Air] units>",
+			"Comment [[{Military} {Land}] gains the [Blitzkrieg] status for [10] turn(s) <upon declaring war on [All] Civilizations>]",
+			"Upon capturing a city, receive [25] times its [Food] production as [Golden Age points] immediately"],
+        "cities": ["Berlin","Hannover","Hamburg","Stettin","Dresden","Breslau","Leipzig","Bremen","Kessel","Frankfurt","Nuremberg","Duesseldorf","Cologne","Sttutgart","Munich"]
 	}
 ]
