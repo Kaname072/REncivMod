@@ -16,7 +16,8 @@
     ,"Invisible to non-adjacent units <when below [33] HP> <in [Vegetation] tiles> <for [Lusitanian] Civilizations>",
     "[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>",
     /// The Nazis uniques
-    "[This Unit] gains the [Blitzkrieg] status for [10] turn(s) <upon declaring war on [All] Civilizations> <for [The Nazis] Civilizations>",
+    "[This Unit] gains the [Blitzkrieg] status for [10] turn(s) <for [Land] units> <for units without [Blitzkrieg]> <upon declaring war on [Major] Civilizations> <for [The Nazis] Civilizations>",
+    "[This Unit] gains the [Blitzkrieg] status for [10] turn(s) <for [Land] units> <for units without [Blitzkrieg]> <upon declaring war on [City-States] Civilizations> <for [The Nazis] Civilizations>",
     ///Sumer unique
     "May attack when embarked <for [Sumer] Civilizations>",
     ///Angola uniques
