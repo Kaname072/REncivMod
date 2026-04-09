@@ -19,5 +19,5 @@
     "May attack when embarked <for [Sumer] Civilizations>",
     ///Angola uniques
     "[This Unit] gains the [Combat] promotion <upon defeating a [Military] unit> <for [non-[Combat]] units> <for [Angola] Civilizations>",
-    "[This Unit] gains [1] XP <in [City center] tiles> <in cities with a [Kilombo]> <upon turn end> <for [{Combat}] units> <for [Angola] Civilizations>"]
+    "[This Unit] gains [1] XP <upon ending a turn in a [City center] tile> <in cities with a [Kilombo]> <for units with [Combat]> <for [Angola] Civilizations>"]
 }
