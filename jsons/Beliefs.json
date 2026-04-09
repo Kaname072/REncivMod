@@ -2,31 +2,31 @@
   {
     "name": "Missionary Guilds",
     "type": "Enhancer",
-    "uniques": ["[Faith] cost of purchasing [Missionary] units [-40]%", "[15]% Great Person generation [in cities following this religion]", "Only available <for [Jerusalem] Civilizations>"],
+    "uniques": ["[Faith] cost of purchasing [Missionary] units [-70]%", "Only available <for [Jerusalem] Civilizations>"],
   },
   {
     "name": "Against Everyone",
     "type": "Enhancer",
-    "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-40]%", "[+15]% Strength <for [Deus Vult] units>", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-70]%", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
     "name": "Outremers",
     "type": "Enhancer",
-    "uniques": ["May buy [Outremer] buildings for [80] [Faith] [in cities following this religion]", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["May buy [Outremer] buildings for [100] [Faith] [in cities following this religion]", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
-    "name": "Protect God House",
+    "name": "Deus Plus Vult",
     "type": "Enhancer",
-    "uniques": ["[+20]% Strength <for [Military] units> <within [2] tiles of a [{Friendly} {Holy site}]>", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["[+15]% Strength <for units with [Deus Vult]>", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
     "name": "Gospel for Everyone",
     "type": "Enhancer",
-    "uniques": ["[+2 Faith] from every [Great Improvement]","[+2 Faith] from every [Great Improvement] <starting from the [Renaissance era]>", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["[+2 Faith] from every [Great Improvement]","[+3 Faith] from every [Great Improvement] <starting from the [Renaissance era]>", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
-    "name": "Protection for Pilgrims",
+    "name": "Scripture Interpretation",
     "type": "Enhancer",
-    "uniques": ["[+33]% [Faith] [in cities following this religion] <during a Golden Age>", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["Gain [500] [Faith] <upon entering a new era> <(modified by game speed)>", "Only available <for [Jerusalem] Civilizations>"]
   }
 ]
