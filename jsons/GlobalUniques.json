@@ -13,15 +13,15 @@
     ,"[-10]% Strength <for [Captured Tank] units> <vs [Soviet] units> <for [non-[Soviet]] Civilizations>","[-1] Sight <for [Captured Tank] units> <for [non-[Soviet]] Civilizations>"
     ,"[-100]% maintenance costs <for [Captured Tank] units> <for [non-[Soviet]] Civilizations>"
     ///Lusitanian uniques
-    ,"Invisible to non-adjacent units <when below [33] HP> <in [Vegetation] tiles>",
+    ,"Invisible to non-adjacent units <when below [33] HP> <in [Vegetation] tiles> <for [Lusitanian] Civilizations>",
     "[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations>",
     ///Sumer unique
     "May attack when embarked <for [Sumer] Civilizations>",
     ///Angola uniques
     "[This Unit] gains the [Blood I] promotion <upon defeating a [Military] unit> <for [non-[{Blood I} {Blood II} {Blood III}]] units> <for [Angola] Civilizations>",
-    "[This Unit] gains the [Blood II] promotion <upon defeating a [Military] unit> <for [[Blood I] [non-[{Blood II} {Blood III}]]] units> <for [Angola] Civilizations>",
+    "[This Unit] gains the [Blood II] promotion <upon defeating a [Military] unit> <for [Blood I] units> <for [Angola] Civilizations>",
     "[This Unit] loses the [Blood I] promotion <upon gaining the [Blood II] promotion> <for [Angola] Civilizations>",
-    "[This Unit] gains the [Blood III] promotion <upon defeating a [Military] unit> <for [[Blood II] [non-[Blood III]]] units> <for [Angola] Civilizations>",
-    "[This Unit] loses the [Blood II] promotion <upon gaining the [Blood III] promotion> <for [Angola] Civilizations> <upon turn end>",
+    "[This Unit] gains the [Blood III] promotion <upon defeating a [Military] unit> <for [Blood II] units> <for [Angola] Civilizations>",
+    "[This Unit] loses the [Blood II] promotion <upon gaining the [Blood III] promotion> <for [Angola] Civilizations>",
     "[This Unit] gains [1] XP <in [City center] tiles> <in cities with a [Kilombo]> <upon turn end> <for [{Blood I} {Blood II} {Blood III}] units> <for [Angola] Civilizations>"]
 }
