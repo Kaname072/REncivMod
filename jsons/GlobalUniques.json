@@ -18,10 +18,6 @@
     ///Sumer unique
     "May attack when embarked <for [Sumer] Civilizations>",
     ///Angola uniques
-    "[This Unit] gains the [Blood I] promotion <upon defeating a [Military] unit> <for [non-[{Blood I} {Blood II} {Blood III}]] units> <for [Angola] Civilizations>",
-    "[This Unit] gains the [Blood II] promotion <upon defeating a [Military] unit> <for [Blood I] units> <for [Angola] Civilizations>",
-    "[This Unit] loses the [Blood I] promotion <upon gaining the [Blood II] promotion> <for [Angola] Civilizations>",
-    "[This Unit] gains the [Blood III] promotion <upon defeating a [Military] unit> <for [Blood II] units> <for [Angola] Civilizations>",
-    "[This Unit] loses the [Blood II] promotion <upon gaining the [Blood III] promotion> <for [Angola] Civilizations>",
-    "[This Unit] gains [1] XP <in [City center] tiles> <in cities with a [Kilombo]> <upon turn end> <for [{Blood I} {Blood II} {Blood III}] units> <for [Angola] Civilizations>"]
+    "[This Unit] gains the [Combat] promotion <upon defeating a [Military] unit> <for [non-[Combat]] units> <for [Angola] Civilizations>",
+    "[This Unit] gains [1] XP <in [City center] tiles> <in cities with a [Kilombo]> <upon turn end> <for [{Combat}] units> <for [Angola] Civilizations>"]
 }
