@@ -336,7 +336,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "B-109",
+		"name": "BF-109",
 		"uniqueTo": "The Nazis",
 		"replaces": "Fighter",
 		"unitType": "Fighter",
