@@ -231,9 +231,10 @@
 		"startIntroPart1": "Sumer, cradle of civilizations, of agriculture, mother of writing and literature. Even after the conquest by the Akkadians, we Sumerians still influenced the Akkadians, Babylonians, and Assyrians. Sumerian architecture and society continue to amaze the world that arose around our strength.",
 		"startIntroPart2": "Legendary King Gilgamesh, whose absolute power affects even the gods, will his majesty triumph through time and history? Will he influence everything and everyone?",
 
-		"declaringWar": "I need another throne! Grant me yours immediately!",
-		"attacked": "Ha ha! what a joke!",
-		"defeated": "I am impressed. I, the Great Gilgamesh, he who defeated gods, have been defeated by another superior being. I grant you my kingdom.",
+		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
+		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of the Sumerians!",
+		"denounced": "Ha ha! what a joke!",
+		"defeated": "What treachery has struck us? No, what evil?",
 		"introduction": "The great king of Uruk is flattered to meet you! I hope we can be friends.",
 
 		"neutralHello": "Hail.",
@@ -560,7 +561,8 @@
 		"uniqueName": "Iron Fist",
 		"uniques": [
 			"[Great Engineer] is earned [50]% faster <while the empire is happy>",
-			"[+2 Production] from every specialist [in all cities]"],
+			"[+2 Production] from every specialist [in all cities]",
+			"Will not be chosen for new games <when espionage is disabled>"],
 		
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Vladimir","Rostov","Kursk","Belgorod","Tambov",
 			"Kalinin","Pskov","Bryansk","Kaluga","Yaroslavl","Kurgan","Saratov","Kostroma","Vologda","Omsk","Murmansk","Smolensk"]
@@ -590,9 +592,9 @@
         "favoredReligion": "Christianity",
         "uniqueName": "Blitzkrieg Tactic",
         "uniques": ["No damage penalty for wounded units <for [Air] units>",
-			"No movement cost to pillage <for [Armored] units>",
-			"[+1] Movement <for [Melee] units> <for [10] turns> <upon declaring war on [All] Civilizations>",
-			"Upon capturing a city, receive [20] times its [Food] production as [Golden Age points] immediately"],
+			"[+1] Movement <for [{Melee} {Land}] units> <for [10] turns> <upon declaring war on [All] Civilizations>",
+			"Upon capturing a city, receive [25] times its [Food] production as [Golden Age points] immediately",
+			"Will not be chosen for new games <when espionage is disabled>"],
         "cities": ["Berlin","Hannover","Hamburg","Stettin","Dresden","Breslau","Leipzig","Bremen","Kessel","Frankfurt","Nuremberg","Duesseldorf","Cologne","Sttutgart","Munich"]
 	}
 ]
