@@ -17,7 +17,7 @@
   },
   {
     "name": "[Dorobanți] ability",
-    "uniques": ["[+50]% Strength <when attacking> <in [City center] tiles>", "May capture killed [Siege] units"]
+    "uniques": ["[+75]% Strength <when attacking> <in [City center] tiles>", "May capture killed [Siege] units"]
   },
   {
     "name": "Deus Vult",
@@ -43,11 +43,11 @@
   },
   {
     "name": "[Bandeirante] ability",
-    "uniques": ["Earn [50]% of the damage done to [Military] units as [Gold]"],
+    "uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>", "No movement cost to pillage"],
   },
   {
     "name": "[Cetbang Cannon] ability",
-    "uniques": ["[+100]% Strength <vs [Water] units> <when attacking>"]
+    "uniques": ["[+100]% Strength <vs [Water] units> <when attacking>", "May attack when embarked"]
   },
   {
     "name": "Captured Tank",
@@ -101,6 +101,14 @@
     "name": "Eagle Sight",
     "uniques": ["Can see over obstacles"]
   },
+  {
+    "name": "Blitzkrieg",
+    "uniques": ["[+25]% to Flank Attack bonuses", "[+100]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"]
+  },
+  {
+    "name": "Luftwaffe",
+    "uniques": ["[+150]% Strength <vs [Armored] units> <when attacking>", "[+1] Movement"]
+  },
   {   ////Angola unique promotions ////
     "name": "Combat",
     "uniques": ["[+10]% Strength", "Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
@@ -116,10 +124,6 @@
   {
     "name": "Enemy Tactics Knowledge",
     "uniques": ["[+10]% Strength bonus for [{Military} {Land}] units within [1] tiles <in [Friendly Land] tiles>"]
-  },
-  {
-    "name": "Blitzkrieg",
-    "uniques": ["[+30]% Strength <when attacking>", "[+25]% to Flank Attack bonuses", "[+100]% Strength <vs cities> <when attacking> <when [non-[Siege]]>", "[+1] Movement"]
   },
   { //// Debuff promotions ////
     "name": "Stunned",
