@@ -58,7 +58,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
 		"uniques": ["[+100]% Natural religion spread [in annexed cities]",
-			"[+100]% Natural religion spread [in puppeted cities]",
+			"[+50]% Natural religion spread [in puppeted cities]",
 			"[+2] Movement <for [Religious Unit] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
@@ -335,7 +335,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["[+30]% Strength <vs [Barbarian] units>",
+		"uniques": ["[+25]% Strength <vs [Barbarian] units>",
 			"[+1 Gold] from every [Strategic resources]",
 			"[+1 Gold] from every [Strategic resources] <after discovering [Chemistry]>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
@@ -577,9 +577,9 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "I don't need explain nothing! you will be destroyed!",
+        "declaringWar": "Resisting is futile! You should have obeyed me sooner!",
         "attacked": "What!? You fool!",
-        "defeated": "You'll never catch me alive!",
+        "defeated": "My generals lied to me! All those officers are dishonest! But, you... you'll never catch me alive!",
         "introduction": "Greetings, foreigner. i'm the supreme Führer from Germany. what your offer to me?",
 
         "neutralHello": "What now?",
@@ -590,10 +590,10 @@
         "outerColor": [193,0,0],
         "innerColor": [0,0,0],
         "favoredReligion": "Christianity",
-        "uniqueName": "Blitzkrieg Tactic",
+        "uniqueName": "Blitzkrieg",
         "uniques": ["No damage penalty for wounded units <for [Air] units>",
-			"[+1] Movement <for [Land] units> <for [10] turns> <upon declaring war on [All] Civilizations>",
-			"Upon capturing a city, receive [15] times its [Science] production as [Golden Age points] immediately",
+			"[+1] Movement <for [Land] units> <for [11] turns> <upon declaring war on [All] Civilizations>",
+			"Upon capturing a city, receive [7] times its [Science] production as [Golden Age points] immediately",
 			"Will not be chosen for new games <when espionage is disabled>"],
         "cities": ["Berlin","Hannover","Hamburg","Stettin","Dresden","Breslau","Leipzig","Bremen","Kessel","Frankfurt","Nuremberg","Duesseldorf","Cologne","Sttutgart","Munich"]
 	}
