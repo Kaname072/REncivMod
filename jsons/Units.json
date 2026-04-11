@@ -330,7 +330,7 @@
 		"movement": 2,
 		"strength": 70,
 		"cost": 375,
-		"promotions": ["[Wehrmacht] ability"],
+		"promotions": ["[Werhmacht] ability"],
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"obsoleteTech": "Mobile Tactics",
