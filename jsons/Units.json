@@ -168,19 +168,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "T-55",
-		"replaces": "Tank",
-		"unitType": "Armored",
-		"movement": 5,
-		"strength": 70,
-		"cost": 375,
-		"requiredTech": "Combined Arms",
-		"upgradesTo": "Modern Armor",
-		"promotions": ["Drill I"],
-		"uniques": ["Comment [It can be captured by enemies but is weaker when controlled by them; you can retrieve it once, and gain a unique promotion]","Can move after attacking","No defensive terrain bonus"],
-		"attackSound": "tankshot"
-	},
-	{
 		"name": "Red Guard",
 		"uniqueTo": "Soviet",
 		"replaces": "Great War Infantry",
