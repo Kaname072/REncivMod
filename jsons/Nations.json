@@ -596,5 +596,33 @@
 			"Upon capturing a city, receive [7] times its [Science] production as [Golden Age points] immediately",
 			"Will not be chosen for new games <when espionage is disabled>"],
         "cities": ["Berlin","Hannover","Hamburg","Stettin","Dresden","Breslau","Leipzig","Bremen","Kessel","Frankfurt","Nuremberg","Duesseldorf","Cologne","Sttutgart","Munich"]
+	},
+	{
+		"name": "Ashanti",
+        "leaderName": "Osei Tutu I",
+        "adjective": "Asanti"
+        "startBias": ["Forest"],
+        "preferredVictoryType": "Domination",
+        "personality": "Osei Tutu I",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "My army can't wait any longer. Will you be ready for what's coming?",
+        "attacked": "You don't see how this will your last act!",
+        "denounced": "Coward.",
+        "defeated": "You defeated me. You are a fearless warrior, though. Keep with golden stool, I'm leaving for heaven.",
+        "introduction": "From heaven, the Ashanti King is excited for meeting you. you're welcome.",
+
+        "neutralHello": "Good day.",
+        "hateHello": "Oh, it's you.",
+
+        "tradeRequest": "Up here. You'll need this to get up here.",
+
+        "outerColor": [250,246,71],
+        "innerColor": [250,89,0],
+        "uniqueName": "Golden Stool",
+        "uniques": [""],
+        "cities": ["Kumasi","Bekwai","Manpong","Juaben","Elmina","Bono-Manso","Dankara","Anamabo","Choumie","Yobati","Fosoko","Sowa","Obuasi","Jukwaa","Oguaa","Kelebim","Fomena","Yeji","Yagbum","Salaga","Asantemanso","Abakeseso"]
 	}
 ]
