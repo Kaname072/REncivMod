@@ -13,7 +13,7 @@
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
 		"defeated": "May God grant me these last wishes - peace and prosperity for Brazil.",
-		"introduction": "Hello, I am Pedro II from Brazil. It seems that brilliant minds are destined to meet.",
+		"introduction": "I am Pedro, Emperor of Brazil. I have little time for pleasantries, what brings you here?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
@@ -23,10 +23,9 @@
 		"outerColor": [63,201,21],
 		"innerColor": [0,107,35],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Magnanimous",
-		"uniques": ["[+1 Happiness] from every [{Culture} {Wonder}]",
-			"[Great Artist] is earned [+50]% faster",
-			"[+50]% Yield from every [Landmark]"],
+		"uniqueName": "Carnival",
+		"uniques": ["[75]% [Culture] [in all cities] <during a Golden Age>",
+			"[Great Artist] is earned [+100]% faster <during a Golden Age>"],
 		"cities": ["Rio de Janeiro","São Paulo","Salvador","Brasília","Fortaleza","Belo Horizonte","Manaus","Curitiba","Recife","Porto Alegre",
 			"Belém","Goiânia","Guarulhos","Campinas","São Luis","Maceió","Duque de Caxias","Natal","Campo Grande","Teresina",
 			"Florianópolis","Nova Iguaçu","Sao Bernardo do Campo","João Pessoa","Osasco","Jaboatão dos Guararapes","São José dos Campos","Contagem","Uberlândia","Aracaju","Cuiabá",
@@ -43,10 +42,10 @@
 		"startIntroPart1": "Glory to the Kongo King! Lord Mvemba a Nzinga, or as he became known, Alfonso I. His reign over the Kongo was majestic and sacred. After the war against his brother, the Kongo was converted to Catholicism and expanded its kingdom more than ever before, taking over a large part of West Africa and spreading its immense culture and religion. After his death, the Kongo faced unimaginable challenges to survive and was dismantled and annexed by those who claimed to be our allies.",
 		"startIntroPart2": "Great Alfonso I! Are you able to make our kingdom as powerful as it once was? Can you make it shine in history and throughout the ages?",
 
-		"declaringWar": "My patience is over, i'll finish you now!",
+		"declaringWar": "Your light is not divine. This will not go unpunished. You will be destroyed!",
 		"attacked": "You hurt us! we never forget this!",
-		"defeated": "My people never will accept a barbarian crown!",
-		"introduction": "Kongo King. You seem blessed by God, Faith brother. I believe in you believes!",
+		"defeated": "No one will accept this! No one will forget this massacre! You will not be glorified.",
+		"introduction": "Welcome, friend. I'm Mvemba a Nzinga. You seem blessed by God. Can you give to me your enlightening?",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "Oh, it's you.",
@@ -74,10 +73,10 @@
 		"startIntroPart1": "Vlad Tepes! His strength and cruelty against invaders and infiltrators proved our resistance against the Ottoman invasions. During his reign, Wallachia consolidated its sovereignty and spiritual honor. Years after the wars, the Romanian nation was founded by the legendary King Carol I. Even in exile, you ignored the unjust demands of those infiltrators and put Wallachia first! Romanians have never stopped dreaming of a leader as sovereign as his highness.",
 		"startIntroPart2": "Your Highness! Is your relentless strength capable of bringing glorious days to Romania? Will you be able to make our kingdom as sovereign as it once was?",
 
-		"declaringWar": "I will not obey your idiotic demands! Let's see who has the power here, this is war!",
+		"declaringWar": "I will not obey your idiotic demands! Let's see who has the power here!",
 		"attacked": "You dont have sense of you're are doing!",
 		"defeated": "Kill me now, I will not kneel before you...",
-		"introduction": "Hello neighbor! Vlad III or Vlad Tepes, well, i wait you don't try to threaten Romania, I am the Dracula you've heard so much about, haha.",
+		"introduction": "Huh? what you doing here? Well, i'm Vlad, welcome to Romania.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What?",
@@ -105,10 +104,10 @@
 		"startIntroPart1": "Great Musa! After triumphs in wars of expansion, the Mali Empire rose in West Africa, expanding Mandinka culture and consolidating the Islamic faith. You were also recognized for your wealth, strength, wisdom, and mercy. You made a great pilgrimage to the holy city, bringing with you high culture and wealth, as well as skilled engineers and mathematicians. The Empire declined after rival empires arose and internal conflicts intensified.",
 		"startIntroPart2": "Oh Great Mansa! May our golden age never end! May our Empire shine through time and history.",
 
-		"declaringWar": "You dont have spiritual abundance! i will show how to make a true nation for you people!",
+		"declaringWar": "Where is your spiritual abundance?! You're ignorance is bothers us!",
 		"attacked": "This have a price! and you will pay!",
 		"defeated": "Ok, you win. Stay with my richness, i dont care. but dont hurt my people!",
-		"introduction": "Hey! My eyes are right here! My gold is just a detail.",
+		"introduction": "Hey! My eyes are right here! My gold is just a detail. Mansa Musa, Malian king! haha.",
 
 		"neutralHello": "Greetings.",
 		"hateHello": "What do you need?!",
@@ -173,7 +172,7 @@
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
 		"defeated": "I for one welcome our new conquer overlord!",
-		"introduction": "Baldwin IV, King of the Holy Kingdom. You seem to have a lot of faith in your hands.",
+		"introduction": "Baldwin IV, King of the Holy Kingdom. And you is?",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
@@ -292,7 +291,7 @@
 		"declaringWar": "I didn't want to have to take such drastic measures, well, you'll be stopped.",
 		"attacked": "Things are getting increasingly turbulent between us.",
 		"defeated": "This was not part of my plan. The Portuguese crown will not accept this humiliation; you will pay!",
-		"introduction": "Good day, I'm João III of Portugal. I believe our interests may be of interest to your Empire.",
+		"introduction": "Good day, I'm João III, Portugal king. Welcome to my kingdom, friend.",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Oh, it's you.",
@@ -312,11 +311,11 @@
 	},
 	{
 		"name": "Angola",
-		"leaderName": "Nzinga Mbandi",
+		"leaderName": "Nzinga Mbande",
 		"adjective": "Angolan"
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
-		"personality": "Nzinga Mbandi",
+		"personality": "Nzinga Mbande",
 
 		"startIntroPart1": "Great and Powerful Nzinga Mbandi! Your Highness is magnificent, Great Queen of the ancient kingdoms of Ndongo and Matamba. Your Highness strategically conquered our riches, spirituality, and soldiers, and demanded our honor and recognition against the Portuguese colonists! Your struggle will never be forgotten! After years of countless confrontations, both diplomatic and violent, the great Angolan nation emerged through many struggles! But even after years of anguish, Angola still awaits its apogee.",
 		"startIntroPart2": "Great Queen Nzinga! You demonstrated courage and power against our colonizers! Show that power to our hearts! Angola awaits your great apogee!",
@@ -324,7 +323,7 @@
 		"declaringWar": "Our ideals are far apart, the raid's are coming!",
 		"attacked": "Your audacity impresses me, but not in a good way!",
 		"defeated": "My people will not accept being ruled by foreigners!",
-		"introduction": "Hello, honored neighbor. I'm Mwene Nzinga Bandi, or just Nzinga, Ndongo and Matamba Queen.",
+		"introduction": "Hello, honored neighbor. I'm Mwene Nzinga Bande, or just Nzinga, Ndongo and Matamba Queen.",
 
 		"neutralHello": "You need something?",
 		"hateHello": "What do YOU want?!",
@@ -619,10 +618,39 @@
 
         "tradeRequest": "Up here. You'll need this to get up here.",
 
-        "outerColor": [250,246,71],
-        "innerColor": [250,89,0],
+        "outerColor": [255,243,0],
+        "innerColor": [0,32,0],
         "uniqueName": "Golden Stool",
         "uniques": [""],
         "cities": ["Kumasi","Bekwai","Manpong","Juaben","Elmina","Bono-Manso","Dankara","Anamabo","Choumie","Yobati","Fosoko","Sowa","Obuasi","Jukwaa","Oguaa","Kelebim","Fomena","Yeji","Yagbum","Salaga","Asantemanso","Abakeseso"]
+	},
+	{
+		"name": "Khmer",
+        "leaderName": "Jayavarman VII",
+        "adjective": "Khmerian"
+        "startBias": ["Lakes"],
+        "preferredVictoryType": "Scientific",
+        "personality": "Jayavarman VII",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You're causing a lot of problems in our administration. I'll have to stop you!",
+        "attacked": "Your recklessness is... reckless!",
+        "denounced": "That's a problem.",
+        "defeated": "Okay. It's all yours now, be merciful.",
+        "introduction": "May peace be with you. The Khmer kingdom extends its best wishes to your people.",
+
+        "neutralHello": "Peace upon be you.",
+        "hateHello": "What YOU want?!",
+
+        "tradeRequest": "This is much to you, or i'll need offers more?",
+
+        "outerColor": [224,0,37],
+        "innerColor": [3,46,161],
+        "favoredReligion": "Buddhism",
+        "uniqueName": "Spirituality",
+        "uniques": [""],
+        "cities": ["Angkor","Roluos","Phimai","Champassak","Banteay Srei","Sambor Prey Kuk","Preah Vihear","Vyadhapura","Nakhom Pathom","U Thong","Rachaburi","Phetchaburi","Vat Nokor","Angkor Borei","Chaiya","Oc Eo","Strung Treng","Maha Rosei","Kapong Cham","Hanchei","Phnom Kulen","Vijaya","Krâchêh"]
 	}
 ]
