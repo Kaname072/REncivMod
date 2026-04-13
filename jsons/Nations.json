@@ -264,17 +264,18 @@
 		"declaringWar": "Your presence bothers us! Prepare for war!!",
 		"attacked": "That's funny, the last ones who took the same actions didn't end up well.",
 		"defeated": "We were destroyed, my army was unable to stop him. I am disappointed.",
-		"introduction": "Hi, you seem good at business, I hope you don't get in our way.",
+		"introduction": "Someone appears, how are you?",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Disgusting.",
+		"hateHello": "Wha?",
 		
 		"tradeRequest": "Business is business, can you give it for me?",
 
-		"outerColor": [158,190,17],
-		"innerColor": [52,52,52],
-		"uniqueName": "Transatlantic Trade",
-		"uniques": ["Earn [33]% of killed [Military] unit's [Strength] as [Gold]"],
+		"outerColor": [119,191,33],
+		"innerColor": [82,0,55],
+		"uniqueName": "Captives Commerce",
+		"uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Gold]",
+			"Upon capturing a city, receive [10] times its [Culture] production as [Faith] immediately"],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
 	},
 	{		
@@ -623,9 +624,9 @@
         "innerColor": [0,136,0],
         "uniqueName": "Sika Dwa Kofi",
         "uniques": ["Gain a free [Golden Stool] [in capital] <if [Golden Stool] is not constructed by anybody>",
-			"Comment [[Golden Stool] offers [+1 Faith] from every tile adjacent to you [Capital] [City center] after founding a pantheon]",
-			"Comment [[Golden Stool] offers [+2 Gold, +1 Faith] from every tile adjacent to you [Capital] [City center] after founding a religion]",
-			"Comment [[Golden Stool] offers [+3 Gold, +2 Faith] from every tile adjacent to you [Capital] [City center] after enhancing a religion]"],
+			"Comment [[Golden Stool] provides [+1 Faith] from every tile adjacent to you [Capital] [City center] after founding a pantheon]",
+			"Comment [[Golden Stool] provides [+2 Gold, +1 Faith] from every tile adjacent to you [Capital] [City center] after founding a religion]",
+			"Comment [[Golden Stool] provides [+3 Gold, +2 Faith] from every tile adjacent to you [Capital] [City center] after enhancing a religion]"],
         "cities": ["Kumasi","Bekwai","Manpong","Juaben","Elmina","Bono-Manso","Dankara","Anamabo","Choumie","Yobati","Fosoko","Sowa","Obuasi","Jukwaa","Oguaa","Kelebim","Fomena","Yeji","Yagbum","Salaga","Asantemanso","Abakeseso"]
 	},
 	{
