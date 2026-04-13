@@ -115,7 +115,9 @@
   },
   {
     "name": "Lumberjack",
-    "uniques": ["Can build [Remove Forest] improvements on tiles <in [Foreign Land] tiles>", "Can build [Remove Jungle] improvements on tiles <in [Foreign Land] tiles>", "Can build [Remove Forest] improvements at a [+50]% rate", "Can build [Remove Jungle] improvements at a [+50]% rate"],
+    "uniques": ["Can build [{Remove Forest} {Remove Jungle}] improvements on tiles <in [Foreign Land] tiles>", "Can build [{Remove Forest} {Remove Jungle}] improvements at a [+50]% rate"],
+    ///"outerColor": [0,0,255],
+    "innerColor": [0,255,0]
   },
   {   ////Angola unique promotions ////
     "name": "Combat",
