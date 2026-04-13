@@ -157,7 +157,7 @@
 		"name": "Golden Stool",
 		"isNationalWonder": true,
 		"cost": 0,
-		"uniques": ["[+1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a pantheon> <before founding a religion>",
+		"uniques": ["[+1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a Pantheon> <before founding a religion>",
 			"[+2 Gold, +1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a religion> <before enhancing a religion>",
 			"[+3 Gold, +2 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after enhancing a religion>",
 			"[+200]% Gold given to enemy if city is captured <in this city>",
