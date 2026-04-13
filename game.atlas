@@ -137,6 +137,20 @@ NationIcons/The Nazis
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Khmer
+  rotate: false
+  xy: 1400, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ashanti
+  rotate: false
+  xy: 1600, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -175,6 +189,27 @@ UnitIcons/Shield Bearer
 UnitIcons/Sofa
   rotate: false
   xy: 400, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Asafo Warrior
+  rotate: false
+  xy: 1600, 800
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ankobia
+  rotate: false
+  xy: 1600, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ballista Elephant
+  rotate: false
+  xy: 1400, 800
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -347,9 +382,9 @@ BuildingIcons/Kulumbimbi
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Tata Somba
+BuildingIcons/Golden Stool
   rotate: false
-  xy: 1800, 400
+  xy: 2400, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -473,6 +508,13 @@ ImprovementIcons/Sovkhoz
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Prasat
+  rotate: false
+  xy: 1400, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Deus Vult
   rotate: false
   xy: 1200, 200
@@ -559,7 +601,7 @@ UnitPromotionIcons/Luftwaffe
   index: -1
 UnitPromotionIcons/Feared
   rotate: false
-  xy: 2000, 400
+  xy: 2800, 600
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -711,6 +753,27 @@ TileSets/FantasyHex/Tiles/Kasbah
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Ballista Elephant
+  rotate: false
+  xy: 47, 1125
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Asafo Warrior
+  rotate: false
+  xy: 47, 1257
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ankobia
+  rotate: false
+  xy: 5, 1389
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Sofa
   rotate: false
   xy: 194, 808
@@ -805,6 +868,27 @@ TileSets/HexaRealm/Units/Werhmacht
 TileSets/HexaRealm/Tiles/Kasbah
   rotate: false
   xy: 413, 1076
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ballista Elephant
+  rotate: false
+  xy: 193, 938
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Asafo Warrior
+  rotate: false
+  xy: 256, 938
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Ankobia
+  rotate: false
+  xy: 329, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
