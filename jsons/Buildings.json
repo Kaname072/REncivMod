@@ -161,16 +161,17 @@
 			"[+2 Gold, +1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a religion> <before enhancing a religion>",
 			"[+3 Gold, +2 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after enhancing a religion>",
 			"[+200]% Gold given to enemy if city is captured <in this city>",
-			"Unbuildable",
+			"Unbuildable <hidden from users>",
 			"Never destroyed when city is captured",
-			"Limited to [1] per Civilization"]
+			"Unsellable <hidden from users>",
+			"Limited to [1] per Civilization <hidden from users>"]
 	},
 	{
 		"name": "Musa Pilgrimage",
 		"isNationalWonder": true,
 		"gold": 1,
 		"cost": 0,
-		"uniques": ["Comment [This buildings is solely for the unique feature to function.]", "Triggers a global alert upon completion", "Limited to [1] per Civilization", "Destroyed when the city is captured","Unbuildable"]
+		"uniques": ["Comment [This buildings is solely for the unique feature to function]", "Triggers a global alert upon completion", "Limited to [1] per Civilization", "Destroyed when the city is captured", "Unbuildable <hidden from users>", "Unsellable <hidden from users>"]
 	},
 	{
 		"name": "Outremer",
