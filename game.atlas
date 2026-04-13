@@ -601,7 +601,7 @@ UnitPromotionIcons/Luftwaffe
   index: -1
 UnitPromotionIcons/Feared
   rotate: false
-  xy: 2800, 600
+  xy: 2000, 800
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -874,21 +874,21 @@ TileSets/HexaRealm/Tiles/Kasbah
   index: -1
 TileSets/HexaRealm/Units/Ballista Elephant
   rotate: false
-  xy: 193, 938
+  xy: 194, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Asafo Warrior
   rotate: false
-  xy: 256, 938
+  xy: 266, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ankobia
   rotate: false
-  xy: 329, 938
+  xy: 340, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
