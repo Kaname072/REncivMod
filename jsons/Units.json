@@ -125,16 +125,16 @@
 	},
 	{
 		"name": "Agojie",
-		"replaces": "Musketman",
 		"uniqueTo": "Dahomey",
+		"replaces": "Rifleman",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 24,
-		"cost": 140,
-		"requiredTech": "Gunpowder",
-		"upgradesTo": "Rifleman",
-		"obsoleteTech": "Rifling",
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
 		"promotions": ["[Agojie] ability"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
 	{
@@ -353,5 +353,48 @@
 		"upgradesTo": "Jet Fighter",
 		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Ballista Elephant",
+		"uniqueTo": "Khmer",
+		"replaces": "Trebuchet",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 15,
+		"rangedStrength": 17,
+		"cost": 135,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Mounted] units>","No defensive terrain bonus","Must set up to ranged attack"],
+		"attackSound": "throw"
+	},
+	{
+		"name": "Asafo Warrior",
+		"uniqueTo": "Ashanti",
+		"replaces": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"promotions": ["Woodsman", "Lumberjack"],
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ankobia",
+		"uniqueTo": "Ashanti",
+		"replaces": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Shock I", "Homeland Defensor"],
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
