@@ -115,7 +115,7 @@
   },
   {
     "name": "Lumberjack",
-    "uniques": ["Comment [Can build [{Remove Forest} {Remove Jungle}] improvements on tiles]", "Comment [Can build [{Remove Forest} {Remove Jungle}] improvements at a [+50]% rate]", "Can build [Remove Forest] improvements on tiles <hidden from users>", "Can build [Remove Jungle] improvements on tiles <hidden from users>", "Can build [Remove Forest] improvements at a [+50]% rate <hidden from users", "Can build [Remove Jungle] improvements at a [+50]% rate <hidden from users>"],
+    "uniques": ["Comment [Can build [{Remove Forest} {Remove Jungle}] improvements on tiles]", "Comment [Can build [{Remove Forest} {Remove Jungle}] improvements at a [+50]% rate]", "Can build [Remove Forest] improvements on tiles <hidden from users>", "Can build [Remove Jungle] improvements on tiles <hidden from users>", "Can build [Remove Forest] improvements at a [+50]% rate <hidden from users>", "Can build [Remove Jungle] improvements at a [+50]% rate <hidden from users>"],
     ///"outerColor": [0,0,255],
     "innerColor": [0,255,0]
   },
