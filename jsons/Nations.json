@@ -622,7 +622,7 @@
         "outerColor": [255,243,0],
         "innerColor": [0,136,0],
         "uniqueName": "Sika Dwa Kofi",
-        "uniques": ["Gain a free [Golden Stool] [in capital]", "Comment [([Golden Stool offers [+1 Faith] from every tile adjacent to you [{Capital} {City center}] after founding a pantheon)]", "Comment [([Golden Stool offers [+2 Gold, +1 Faith] from every tile adjacent to you [{Capital} {City center}] after founding a religion)]", "Comment [([Golden Stool offers [+3 Gold, +2 Faith] from every tile adjacent to you [{Capital} {City center}] after enhancing a religion)]"],
+        "uniques": ["Gain a free [Golden Stool] [in capital] <if [Golden Stool] is not constructed by anybody>", "Comment [([Golden Stool offers [+1 Faith] from every tile adjacent to you [{Capital} {City center}] after founding a pantheon)]", "Comment [([Golden Stool offers [+2 Gold, +1 Faith] from every tile adjacent to you [{Capital} {City center}] after founding a religion)]", "Comment [([Golden Stool offers [+3 Gold, +2 Faith] from every tile adjacent to you [{Capital} {City center}] after enhancing a religion)]"],
         "cities": ["Kumasi","Bekwai","Manpong","Juaben","Elmina","Bono-Manso","Dankara","Anamabo","Choumie","Yobati","Fosoko","Sowa","Obuasi","Jukwaa","Oguaa","Kelebim","Fomena","Yeji","Yagbum","Salaga","Asantemanso","Abakeseso"]
 	},
 	{
