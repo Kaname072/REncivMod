@@ -326,7 +326,7 @@ UnitIcons/Merchant of Venice
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/T-55
+UnitIcons/Red Guard
   rotate: false
   xy: 1000, 800
   size: 200, 200
@@ -378,6 +378,13 @@ BuildingIcons/Ziggurat Temple
 BuildingIcons/Kulumbimbi
   rotate: false
   xy: 200, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sovkhoz
+  rotate: false
+  xy: 1000, 1000
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -599,6 +606,13 @@ UnitPromotionIcons/Luftwaffe
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Gvardiya
+  rotate: false
+  xy: 1000, 600
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Feared
   rotate: false
   xy: 2000, 800
@@ -760,6 +774,13 @@ TileSets/FantasyHex/Units/Ballista Elephant
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Red Guard
+  rotate: false
+  xy: 47, 1389
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Asafo Warrior
   rotate: false
   xy: 47, 1257
@@ -875,6 +896,13 @@ TileSets/HexaRealm/Tiles/Kasbah
 TileSets/HexaRealm/Units/Ballista Elephant
   rotate: false
   xy: 194, 938
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Red Guard
+  rotate: false
+  xy: 413, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
