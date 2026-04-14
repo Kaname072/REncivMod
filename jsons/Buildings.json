@@ -2,7 +2,7 @@
 	{
 		"name": "Ikanda",
 		"uniqueTo": "Zulu",
-		"production": 1,
+		"food": 1,
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -26,7 +26,7 @@
 		"name": "Painted Monastery",
 		"uniqueTo": "Romania",
 		"replaces": "Garden",
-		"culture": 2,
+		"culture": 3,
 		"faith": 1,
 		"uniques": ["[+25]% Great Person generation [in this city]","Must not be on [Coast]"],
 		"hurryCostModifier": 25,
@@ -38,7 +38,6 @@
 		"uniqueTo": "Angola",
 		"replaces": "Colosseum",
 		"happiness": 2,
-		"food": 1,
 		"uniques": ["Comment [[Combat] units garrisoned [in this city] gains [2] XP per turn]"],
 		"cost": 100,
 		"requiredTech": "Construction"
@@ -59,9 +58,9 @@
 		"name": "Kulumbimbi",
 		"uniqueTo": "Kongo",
 		"replaces": "Shrine",
-		"faith": 2,
+		"faith": 1,
 		"culture": 1,
-		"cost": 40,
+		"cost": 30,
 		"maintenance": 1,
 		"requiredTech": "Pottery"
 	},
@@ -100,6 +99,19 @@
 			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
 			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Sovkhoz",
+		"uniqueTo": "Soviet",
+		"replaces": "Granary",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]",
+			"[+1 Food] from [Tundra] tiles [in this city]"],
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Candi",
@@ -157,12 +169,12 @@
 		"name": "Golden Stool",
 		"isNationalWonder": true,
 		"cost": 0,
-		"uniques": ["[+1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a Pantheon> <before founding a religion>",
-			"[+2 Gold, +1 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a religion> <before enhancing a religion>",
-			"[+3 Gold, +2 Faith] from [Land] tiles [in this city] <in tiles adjacent to [City center] tiles> <after enhancing a religion>",
+		"uniques": ["[+1 Faith] from [all] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a Pantheon> <before founding a religion>",
+			"[+2 Gold, +1 Faith] from [all] tiles [in this city] <in tiles adjacent to [City center] tiles> <after founding a religion> <before enhancing a religion>",
+			"[+3 Gold, +2 Faith] from [all] tiles [in this city] <in tiles adjacent to [City center] tiles> <after enhancing a religion>",
 			"[+200]% Gold given to enemy if city is captured <in this city>",
 			"Unbuildable <hidden from users>",
-			"Never destroyed when city is captured",
+			"Never destroyed when the city is captured",
 			"Unsellable <hidden from users>",
 			"Limited to [1] per Civilization <hidden from users>"]
 	},
@@ -175,8 +187,8 @@
 	},
 	{
 		"name": "Outremer",
-		"faith": 2,
-		"gold": 1,
+		"faith": 1,
+		"gold": 2,
 		"cost": 0,
 		"uniques": ["[+2 Happiness] <in [Annexed] cities>", "[+1 Faith] from [Fort] tiles [in this city]", "[+2 Faith] from [Citadel] tiles [in this city]", "Unbuildable"]
 	}
