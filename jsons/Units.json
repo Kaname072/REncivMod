@@ -9,6 +9,7 @@
 		"cost": 225,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"promotions": ["[Bandeirante Cavalry] ability"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
@@ -367,7 +368,7 @@
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Mounted] units>","No defensive terrain bonus","Must set up to ranged attack"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Mounted] units>","No defensive terrain bonus"],
 		"attackSound": "throw"
 	},
 	{
