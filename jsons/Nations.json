@@ -653,7 +653,7 @@
         "innerColor": [3,46,161],
         "favoredReligion": "Buddhism",
         "uniqueName": "Spirituality",
-        "uniques": ["Gain [+100] [Faith] <upon constructing [Wonder]> <(modified by game progress up to [10]%)>"],
+        "uniques": ["[+1 Faith] from every specialist [in all cities]"],
         "cities": ["Angkor","Roluos","Phimai","Champassak","Banteay Srei","Sambor Prey Kuk","Preah Vihear","Vyadhapura","Nakhom Pathom","U Thong","Rachaburi","Phetchaburi","Vat Nokor","Angkor Borei","Chaiya","Oc Eo","Strung Treng","Maha Rosei","Kapong Cham","Hanchei","Phnom Kulen","Vijaya","Krâchêh"]
 	}
 ]
