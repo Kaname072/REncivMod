@@ -12,7 +12,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"promotions": ["[Bandeirante Cavalry] ability"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Can see over obstacles"],
 		"attackSound": "cavalry"
 	},
 	{
@@ -131,12 +131,12 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 22,
-		"cost": 125,
+		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"promotion": ["[Agojie] ability"],
-		"uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>"],
+		"promotions": ["[Agojie] ability"],
+		"uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>","Excess Food converted to Production when under construction"],
 		"attackSound": "shot"
 	},
 	{
@@ -181,7 +181,6 @@
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"promotions": ["Gvardiya"],
-		"uniques": ["Excess Food converted to Production when under construction"],
 		"attackSound": "shot"
 	},
 	{
@@ -227,7 +226,7 @@
 		"cost": 185,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Formation I", "Shock I", "Heavy Charge"],
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
@@ -362,13 +361,13 @@
 		"replaces": "Trebuchet",
 		"unitType": "Siege",
 		"movement": 3,
-		"strength": 15,
-		"rangedStrength": 17,
-		"cost": 135,
+		"strength": 12,
+		"rangedStrength": 16,
+		"cost": 120,
 		"requiredTech": "Physics",
 		"obsoleteTech": "Chemistry",
 		"upgradesTo": "Cannon",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[+33]% Strength <vs [Mounted] units>","No defensive terrain bonus"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","[-10]% Strength for enemy [Military] units in adjacent [All] tiles","No defensive terrain bonus"],
 		"attackSound": "throw"
 	},
 	{
@@ -383,7 +382,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"promotions": ["Shock I"],
-		"uniques": ["Can build [Remove Forest] improvements on tiles","Can build a [Remove Jungle] improvements on tiles","Automation is a primary action"],
+		"uniques": ["Can build [Remove Forest] improvements on tiles","Can build [Remove Jungle] improvements on tiles","Automation is a primary action"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
