@@ -5,7 +5,7 @@
   },
   {
     "name": "Deus Vult",
-    "uniques": ["[+15]% Strength <when fighting in [Enemy Land] tiles>"]
+    "uniques": ["[+20]% Strength <when fighting in [Enemy Land] tiles>"]
   },
   {
     "name": "No Fear",
@@ -116,14 +116,6 @@
   {   ////Angola unique promotions ////
     "name": "Combat",
     "uniques": ["[+10]% Strength <when defending>", "Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
-  }, //// Caravans, Cargo Ships and Naus promotions ////
-  {
-    "name": "Cargo",
-    "uniques": ["Triggers a [Cargo Trade] event <in [City-State] tiles> <by consuming this unit>"]
-  },
-  {
-    "name": "Exotic Cargo",
-    "uniques": ["Triggers a [Cargo Trade] event <in [City-State] tiles> <by consuming this unit>"]
   },
   { //// Debuff promotions ////
     "name": "Stunned",
