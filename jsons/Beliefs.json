@@ -2,12 +2,12 @@
   {
     "name": "Missionary Guilds",
     "type": "Enhancer",
-    "uniques": ["[Faith] cost of purchasing [Missionary] units [-70]%", "Only available <for [Jerusalem] Civilizations>"],
+    "uniques": ["[Faith] cost of purchasing [Missionary] units [-80]%", "Only available <for [Jerusalem] Civilizations>"],
   },
   {
     "name": "Against Everyone",
     "type": "Enhancer",
-    "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-70]%", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["[Faith] cost of purchasing [Inquisitor] units [-80]%", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
     "name": "Outremers",
@@ -17,7 +17,7 @@
   {
     "name": "Deus Plus Vult",
     "type": "Enhancer",
-    "uniques": ["[+15]% Strength <for units with [Deus Vult]>", "Only available <for [Jerusalem] Civilizations>"]
+    "uniques": ["[+20]% Strength <for units with [Deus Vult]>", "Only available <for [Jerusalem] Civilizations>"]
   },
   {
     "name": "Gospel for Everyone",
