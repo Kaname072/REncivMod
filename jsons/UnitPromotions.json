@@ -9,7 +9,7 @@
   },
   {
     "name": "No Fear",
-    "uniques": ["Ignores Zone of Control","No defensive terrain penalty", "Comment [Immune to [Feared] debuff"],
+    "uniques": ["Ignores Zone of Control","No defensive terrain penalty", "Comment [Immune to [Feared] debuff]"],
     ///"outerColor": [225,0,0],
     "innerColor": [255,0,0]
   },
@@ -101,25 +101,31 @@
     "name": "Buffalo Chest",
     "uniques": ["[+10]% Strength","[+10]% Strength <when fighting in [Open terrain] tiles>"],
     "prerequisites": ["Buffalo Horns"],
-    "unitTypes": ["Sword"]
+    "unitTypes": ["Sword"],
+    "outerColor": [255,251,248],
+		"innerColor": [116,55,25]
   },
   {
     "name": "Buffalo Horns",
-    "uniques": ["[+25]% to Flank Attack bonuses"]
+    "uniques": ["[+25]% to Flank Attack bonuses"],
+    "outerColor": [255,251,248],
+		"innerColor": [116,55,25]
   },
   {
     "name": "Buffalo Loins",
     "uniques": ["[+1] Movement","[+30]% Strength <vs [Ranged] units> <when defending>"],
     "prerequisites": ["Buffalo Chest"],
-    "unitTypes": ["Sword"]
+    "unitTypes": ["Sword"],
+    "outerColor": [255,251,248],
+		"innerColor": [116,55,25]
   },
   {   ////Angola unique promotions ////
     "name": "Combat",
-    "uniques": ["[+10]% Strength <when defending>", "Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
+    "uniques": ["Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
   },
   { //// Debuff promotions ////
     "name": "Stunned",
-    "uniques": ["[-10]% Strength","[-1] Movement"],
+    "uniques": ["[-10]% Strength","[-1] Movement <in [Foreign Land] tiles>"],
     ///"outerColor": [0,0,255],
     "innerColor": [0,0,255]
   },
