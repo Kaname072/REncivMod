@@ -156,6 +156,21 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Besteiro do Conto",
+		"unique": "Portugal",
+		"replaces": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"uniques": ["Ignores terrain cost"],
+		"attackSound": "crossbow"
+	},
+	{
 		"name": "Jagas Marauder",
 		"uniqueTo": "Angola",
 		"replaces": "Spearman",
