@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Caravan",
+		"unitType": "Civilian",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"movement": 2,
+		"requiredTech": "Animal Husbandry",
+		"promotions": ["Cargo"],
+		"uniques": ["Cannot be purchased","No Sight","Uncapturable","Double movement in [Forest] <for [Iroquois] Civilizations> <hidden from users>","Double movement in [Jungle] <for [Iroquois] Civilizations> <hidden from users>"],
+	},
+	{
 		"name": "Bandeirante Cavalry",
 		"uniqueTo": "Brazil",
 		"replaces": "Cavalry",
@@ -150,14 +160,14 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-		"promotions": ["Great Admirals I"],
+		"promotions": ["Great Admirals I", "Exotic Cargo"],
 		"uniques": ["[+1] Sight", "Can move after attacking", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
 	{
 		"name": "Besteiro do Conto",
-		"unique": "Portugal",
+		"uniqueTo": "Portugal",
 		"replaces": "Crossbowman",
 		"unitType": "Archery",
 		"movement": 2,
