@@ -15,7 +15,7 @@
 	{
 		"name": "Tata Somba",
 		"uniqueTo": "Dahomey",
-		"terrainsCanBeBuiltOn": ["Land"],
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert"],
 		"turnsToBuild": 4,
 		"techRequired": "Engineering",
 		"uniques": [
@@ -46,7 +46,7 @@
 		"terrainsCanBeBuiltOn": ["Forest","Jungle","Lakes"],
 		"faith": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Engineering",
+		"techRequired": "Philosophy",
 		"uniques": ["[+1 Faith, +1 Production] from [Forest] tiles",
 			"[+1 Faith, +1 Culture] from [Jungle] tiles",
 			"[+2 Culture] from [Lakes] tiles",
@@ -54,5 +54,24 @@
 			"Cannot be built on [Luxury resource] tiles",
 			"Cannot be built on [Bonus resource] tiles",
 			"Pillaging this improvement yields approximately [+16 Faith]"]
+	},
+	{
+		"name": "Feitoria",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Desert","Tundra"],
+		"gold": 2,
+		"turnsToBuild": 9,
+		"requiredTech": "Navigation",
+		"uniques": ["[+1 Gold] <after discovering [Industrialization]>",
+			"Gain control over [{all} {Luxury resource} {Unowned}] tiles in a [1]-tile radius",
+			"Can only be built on [Coastal] tiles",
+			"Gives a defensive bonus of [50]%",
+			"Can be built outside your borders",
+			"Unavailable <within [4] tiles of a [Feitoria]>",
+			"Removes removable features when built",
+			"Destroyed when pillaged <hidden from users>",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Bonus resource] tiles",
+			"Pillaging this improvement yields approximately [+22 Gold]",]
 	}
 ]
