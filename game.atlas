@@ -151,6 +151,13 @@ NationIcons/Ashanti
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Caravan
+  rotate: false
+  xy: 2600, 1000
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Templar Knight
   rotate: false
   xy: 1200, 200
@@ -245,6 +252,13 @@ UnitIcons/War-Cart
 UnitIcons/Nau
   rotate: false
   xy: 1600, 200
+  size: 200, 200
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Besteiro do Conto
+  rotate: false
+  xy: 1600, 400
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -627,16 +641,16 @@ UnitPromotionIcons/Stunned
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Captured Tank
+UnitPromotionIcons/Cargo
   rotate: false
-  xy: 1000, 600
+  xy: 2600, 800
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Rescued Tank
+UnitPromotionIcons/Exotic Cargo
   rotate: false
-  xy: 2200, 800
+  xy: 2800, 800
   size: 200, 200
   orig: 100, 100
   offset: 0, 0
@@ -776,7 +790,7 @@ TileSets/FantasyHex/Units/Ballista Elephant
   index: -1
 TileSets/FantasyHex/Units/Red Guard
   rotate: false
-  xy: 47, 1389
+  xy: 47, 1329
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -790,7 +804,14 @@ TileSets/FantasyHex/Units/Asafo Warrior
   index: -1
 TileSets/FantasyHex/Units/Ankobia
   rotate: false
-  xy: 5, 1389
+  xy: 5, 1329
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Besteiro do Conto
+  rotate: false
+  xy: 5, 1401
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -917,6 +938,13 @@ TileSets/HexaRealm/Units/Asafo Warrior
 TileSets/HexaRealm/Units/Ankobia
   rotate: false
   xy: 340, 938
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Besteiro do Conto
+  rotate: false
+  xy: 487, 938
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
