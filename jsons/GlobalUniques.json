@@ -1,8 +1,7 @@
 {
   "name": "REnciv Mod",
-  "uniques": ["[Gold] cost of purchasing items in cities [+100]% <in [non-[Mali]] cities> <if [Musa Pilgrimage] is constructed by anybody> <after founding a religion>"
-    ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <after founding a religion> <if [Musa Pilgrimage] is constructed by anybody>"
-    ,"Free [Caravan] appears <upon founding a city> <for [Major] Civilizations>"],
+  "uniques": ["[Gold] cost of purchasing items in cities [+200]% <in [non-[Mali]] cities> <if [Musa Pilgrimage] is constructed by anybody>"
+    ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <if [Musa Pilgrimage] is constructed by anybody>"],
   "unitUniques": [
     "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>"
     ///Lusitanian uniques
