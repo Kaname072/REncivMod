@@ -36,7 +36,7 @@
 		"leaderName": "Mvemba a Nzinga",
 		"adjective": ["Kongolese"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Scientific",
 		"personality": "Mvemba a Nzinga",
 
 		"startIntroPart1": "Glory to the Kongo King! Lord Mvemba a Nzinga, or as he became known, Alfonso I. His reign over the Kongo was majestic and sacred. After the war against his brother, the Kongo was converted to Catholicism and expanded its kingdom more than ever before, taking over a large part of West Africa and spreading its immense culture and religion. After his death, the Kongo faced unimaginable challenges to survive and was dismantled and annexed by those who claimed to be our allies.",
@@ -56,9 +56,7 @@
 		"innerColor": [168,120,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[+100]% Natural religion spread [in annexed cities]",
-			"[-100]% maintenance costs <for [Civilian] units>",
-			"[+2] Movement <for [Religious Unit] units>"],
+		"uniques": ["[+2] Movement <for [Religious Unit] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -182,7 +180,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,48],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Papal States",
+		"uniqueName": "Crusaders States",
 		"uniques": ["Comment [Have more [6] extra [Enhancer] [Beliefs] when enhancing a religion]"],
 		"cities": ["Jerusalem","Ascalon","Acre","Arsur","Naples","Japhe","St. Abraham","Darum","Oultre Lourdan","Caesarea",
 		"Caymont","Cayphas","Galilee","Bessan","Suhete","Maron","Tyre","Montfort","St George of Labeyne","Toron"]
@@ -198,7 +196,7 @@
 		"startIntroPart1": "May the gods grant you strength, great Viriato! The Lusitanians were a tribe that lived on the Iberian Peninsula alongside some Celtic tribes. Our spirituality and resistance were strong even against the Romans, but the cowardice of those Romans brought about your downfall, great Viriato. But even so, you are still remembered for your bravery and resistance.",
 		"startIntroPart2": "Great Viriato! Do we finally have the chance to bring our ancient civilization to triumph? Will you be able to build a civilization that withstands the test of time?",
 
-		"declaringWar": "Your presence bothers us! Prepare for war!!",
+		"declaringWar": "Your presence bothers us! Prepare for war!",
 		"attacked": "This is a genuine mistake! you will pay terrible for this!",
 		"defeated": "I was wrong, you are stronger than I thought you were.",
 		"introduction": "Hello, I am Viriato! A general and leader of the Lusitanians. You seem to have a warrior spirit. you welcome!",
@@ -213,8 +211,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
 		"uniques": ["[+15]% Strength <for [10] turns> <upon entering a war with [All] Civilizations> <hidden from users>",
-			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]",
-			"[-100]% City-State Influence degradation <for [10] turns> <upon entering a war with [City-State] Civilizations>"],
+			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]"],
 		"cities": ["Olisipo","Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -244,7 +241,7 @@
 		"innerColor": [0,43,164],
 		"favoredReligion": "Islam",
 		"uniqueName": "Epic of Gilgamesh",
-		"uniques": ["Empire enters a [4]-turn Golden Age <upon gaining a [Great Person] unit>"],
+		"uniques": ["Empire enters a [5]-turn Golden Age <upon gaining a [Great Person] unit>"],
 		"cities": ["Uruk","Ur","Eridu","Nippur","Lagash","Umma","Adab","Zabalam","Girsu","Nigin","Larsa",
 			"El Obeid","Shuruppak","Abu Salabikh","Kish","Kutha","Djemdet-Nasr","Tell Agrab","Tutub",
 			"Eshnunna"]
@@ -260,21 +257,22 @@
 		"startIntroPart1": "Long live King Ghezo! The great kingdom of Dahomey, once a state paying tribute to the Oyo Empire, was a strong and rich kingdom with its powerful female warriors and Fon culture, demonstrating to several neighboring kingdoms that our power goes beyond the spiritual. But after those French invaders, our kingdom succumbed to terrible colonialism.",
 		"startIntroPart2": "King Ghezo! Could you take the reins again for our glory? Could you bring us back to the old days?",
 
-		"declaringWar": "Your presence bothers us! Prepare for war!!",
+		"declaringWar": "Xwetanu needs more supplies! your people will be a gift to me.",
 		"attacked": "That's funny, the last ones who took the same actions didn't end up well.",
-		"defeated": "We were destroyed, my army was unable to stop him. I am disappointed.",
+		"denounced": "Don't come back anymore!",
+		"defeated": "We were consumed by our own greed. We surrendered to you.",
 		"introduction": "Someone appears, how are you?",
 
 		"neutralHello": "Greetings.",
-		"hateHello": "Wha?",
+		"hateHello": "What?",
 		
 		"tradeRequest": "Business is business, can you give it for me?",
 
-		"outerColor": [119,191,33],
-		"innerColor": [82,0,55],
-		"uniqueName": "Captives Commerce",
+		"outerColor": [250,255,214],
+		"innerColor": [206,0,0],
+		"uniqueName": "Xwetanu",
 		"uniques": ["Earn [25]% of killed [Military] unit's [Strength] as [Gold]",
-			"Upon capturing a city, receive [10] times its [Culture] production as [Faith] immediately"],
+			"Upon capturing a city, receive [10] times its [Culture] production as [Faith] immediately",],
 		"cities": ["Abomey","Parakou","Malanville","Lokossa","Cotonou","Ouidah","Djougou","Natitingou","Kandi","Porto-Novo","Grand-Popo","Covê"]
 	},
 	{		
@@ -303,7 +301,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mare Clausum",
 		"uniques": ["[1] Movement point cost to embark",
-			"New [Water] units start with [15] XP [in all cities]",
+			"New [{Military} {Water}] units start with [15] XP [in all cities]",
 			"Allied City-States provide [Gold] equal to [25]% of what they produce for themselves"],
 		"cities": ["Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Evora",
 			"Faro","Castelo Branco","Bissau","Guarda","Praia","Braganza","Beja","Tomar",
@@ -459,7 +457,9 @@
 		"innerColor": [54,189,98],
 		"favoredReligion": "Islam",
 		"uniqueName": "Gateway to Africa",
-		"uniques": ["[+2 Culture, +2 Gold] from each Trade Route"],
+		"uniques": ["[+2 Culture, +1 Gold] from each Trade Route",
+			"Comment [Gain [Culture] by expending [Great Merchant] units]",
+			"Gain [75] [Culture] <(modified by game progress up to [1000]%)> <upon expending a [Great Merchant] unit> <hidden from users>"],
 
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
 			"Kenitra","Tetouan","Essaouira","Safi","Taroudannt","Mohammedia","El Aaiun","Beni Mellal","El Jadida","Ksar el Kebir",
@@ -623,8 +623,8 @@
         "uniqueName": "Sika Dwa Kofi",
         "uniques": ["Gain a free [Golden Stool] [in capital] <if [Golden Stool] is not constructed by anybody>",
 			"Comment [[Golden Stool] provides [+1 Faith] from every tile adjacent to you [Capital] [City center] after founding a pantheon]",
-			"Comment [[Golden Stool] provides [+2 Gold, +1 Faith] from every tile adjacent to you [Capital] [City center] after founding a religion]",
-			"Comment [[Golden Stool] provides [+3 Gold, +2 Faith] from every tile adjacent to you [Capital] [City center] after enhancing a religion]"],
+			"Comment [[Golden Stool] provides [+1 Gold, +1 Faith] from every tile adjacent to you [Capital] [City center] after founding a religion]",
+			"Comment [[Golden Stool] provides [+2 Gold, +2 Faith] from every tile adjacent to you [Capital] [City center] after enhancing a religion]"],
         "cities": ["Kumasi","Bekwai","Manpong","Juaben","Elmina","Bono-Manso","Dankara","Anamabo","Choumie","Yobati","Fosoko","Sowa","Obuasi","Jukwaa","Oguaa","Kelebim","Fomena","Yeji","Yagbum","Salaga","Asantemanso","Abakeseso"]
 	},
 	{
@@ -653,7 +653,7 @@
         "innerColor": [3,46,161],
         "favoredReligion": "Buddhism",
         "uniqueName": "Spirituality",
-        "uniques": ["[+1 Faith] from every specialist [in all cities]"],
+        "uniques": [""],
         "cities": ["Angkor","Roluos","Phimai","Champassak","Banteay Srei","Sambor Prey Kuk","Preah Vihear","Vyadhapura","Nakhom Pathom","U Thong","Rachaburi","Phetchaburi","Vat Nokor","Angkor Borei","Chaiya","Oc Eo","Strung Treng","Maha Rosei","Kapong Cham","Hanchei","Phnom Kulen","Vijaya","Krâchêh"]
 	}
 ]
