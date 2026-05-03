@@ -3,7 +3,8 @@
   "uniques": ["[Gold] cost of purchasing items in cities [+200]% <in [non-[Mali]] cities> <if [Musa Pilgrimage] is constructed by anybody>"
     ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <if [Musa Pilgrimage] is constructed by anybody>"],
   "unitUniques": [
-    "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>"
+    "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>",
+    "[-100]% to Flank Attack bonuses <vs [Ultra Cover] units>",
     ///Angola uniques
-    ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarian] units> <with [75]% chance>"]
+    ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarian] units> <with [75]% chance> <within [2] tiles"]
 }
