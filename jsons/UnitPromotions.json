@@ -14,8 +14,8 @@
     "innerColor": [255,0,0]
   },
   {
-    "name": "Striker",
-    "uniques": ["[+33]% Strength <when attacking>"]
+    "name": "Ultra Cover",
+    "uniques": ["[+25]% Strength <when defending> <vs [Ranged] units>", "Comment [Impossible enemies units to flank this unit]"]
   },
   {
     "name": "[Agojie] ability",
@@ -32,14 +32,6 @@
   {
     "name": "[Cetbang Cannon] ability",
     "uniques": ["[+100]% Strength <vs [Water] units> <when attacking>", "May attack when embarked"]
-  },
-  {
-    "name": "Captured Tank",
-    "uniques": ["Comment [This is a captured tank from [Soviet]]","[This Unit] takes [10] damage <upon turn end> <in [non-[Soviet]] tiles> <when number of [Remaining [Soviet] Civilizations] is more than [0]>","Unable to pillage tiles <when number of [Remaining [Soviet] Civilizations] is more than [0]>","Can only heal by pillaging <when number of [Remaining [Soviet] Civilizations] is more than [0]>"]
-  },
-  {
-    "name": "Rescued Tank",
-    "uniques": ["Comment [This is our rescued tank from our enemies]"]
   },
   {
     "name": "Heavy Charge",
@@ -87,11 +79,11 @@
   },
   {
     "name": "[Werhmacht] ability",
-    "uniques": ["[+100]% Strength <when defending> <vs cities>", "[+50]% Strength <when defending> <vs [Air] units>"]
+    "uniques": ["[+50]% Strength <when defending> <vs cities>", "[+25]% Strength <when defending> <vs [Air] units>"]
   },
   {
     "name": "Luftwaffe",
-    "uniques": ["[+200]% Strength <when attacking>", "Can move after attacking"]
+    "uniques": ["[+100]% Strength <when attacking>", "Cannot be intercepted"]
   },
   {
     "name": "Gvardiya",
@@ -120,8 +112,8 @@
 		"innerColor": [116,55,25]
   },
   {   ////Angola unique promotions ////
-    "name": "Combat",
-    "uniques": ["Comment [Gain XP when garrisoned in cities with a [Kilombo]]"]
+    "name": "Imbangala Kilombo",
+    "uniques": ["[+33]% Strength <when defending>", "[-25]% Strength <when attacking>", "[This Unit] heals [7] HP <every [2] turns> <hidden from users>", "Cannot move","","Unable to pillage <hidden from users>"]
   },
   { //// Debuff promotions ////
     "name": "Stunned",
