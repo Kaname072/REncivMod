@@ -56,7 +56,9 @@
 		"innerColor": [168,120,21],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Grace Apostle",
-		"uniques": ["[+2] Movement <for [Religious Unit] units>"],
+		"uniques": ["Comment [Gain a little [Culture] amount by expending [Religious Unit]]", 
+			"Gain [75] [Culture] <upon expending a [Religious Unit] unit> <(modified by game speed)> <hidden from users>",
+			"[+2] Movement <for [Religious Unit] units>"],
 		"cities": ["M'Banza Kongo","Soyo","Lovota","Mbula","N'Kondo","Wandu","Wembo","Kiova","Pinda","Nsoyo","Mbamba","Mpemba","Mukatu","Ndembu","Nkuso",
 		"Mbata","Mpangu","Kundi","Songo","Okango","Kongo a Niaza","Nsonso"]
 	},
@@ -210,8 +212,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["[+15]% Strength <for [10] turns> <upon entering a war with [Friendly] Civilizations> <hidden from users>",
-			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]"],
+		"uniques": ["Earn [33]% of killed [Barbarian] unit's [Strength] as [Stored Food] <in all cities>"],
 		"cities": ["Olisipo","Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -332,9 +333,9 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["Comment [All [Land] units earn the [Combat] promotion if defeat a one unit]",
-			"[+1 Gold] from every [Strategic resources]",
-			"[+1 Gold] from every [Strategic resources] <after discovering [Chemistry]>"],
+		"uniques": ["Comment [[Barbarian] Units have a chance to establish a [Imbangala Kilombo] when entering in your territory, upon defeating a [Imbangala Kilombo] you gain [100] [Gold] and recruit his units]",
+			"Comment [([Imbangala Kilombo] units will be 'stuck' in your territory and we heal by turn, but cant pillage your tile)]",
+			"When defeating a [Imbangala Kilombo] unit, earn [100] Gold and recruit it <with [100]% chance> <hidden from users>"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
@@ -458,7 +459,7 @@
 		"favoredReligion": "Islam",
 		"uniqueName": "Gateway to Africa",
 		"uniques": ["[+2 Culture, +1 Gold] from each Trade Route",
-			"Comment [Gain [Culture] by expending [Great Merchant] units]",
+			"Comment [Gain [Culture] amount by expending [Great Merchant] units (increases by game progress)]",
 			"Gain [75] [Culture] <(modified by game progress up to [1000]%)> <upon expending a [Great Merchant] unit> <hidden from users>"],
 
 		"cities": ["Marrakech","Rabat","Fes","Casablanca","Tangier","Salé","Ouarzazate","Meknes","Agadir","Oujda",
@@ -560,7 +561,7 @@
 		"uniqueName": "Iron Fist",
 		"uniques": [
 			"[Great Engineer] is earned [50]% faster <while the empire is happy>",
-			"[+2 Production] from every specialist [in all cities]",
+			"[+1 Production] from every specialist [in all cities]",
 			"Will not be chosen for new games <when espionage is disabled>"],
 		
 		"cities": ["Moscow","Leningrad","Stalingrad","Novgorod","Vladimir","Rostov","Kursk","Belgorod","Tambov",
@@ -653,7 +654,7 @@
         "innerColor": [3,46,161],
         "favoredReligion": "Buddhism",
         "uniqueName": "Spirituality",
-        "uniques": [""],
+        "uniques": ["May buy [Wonder] buildings with [Faith] for [3] times their normal Production cost"],
         "cities": ["Angkor","Roluos","Phimai","Champassak","Banteay Srei","Sambor Prey Kuk","Preah Vihear","Vyadhapura","Nakhom Pathom","U Thong","Rachaburi","Phetchaburi","Vat Nokor","Angkor Borei","Chaiya","Oc Eo","Strung Treng","Maha Rosei","Kapong Cham","Hanchei","Phnom Kulen","Vijaya","Krâchêh"]
 	}
 ]
