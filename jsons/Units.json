@@ -104,7 +104,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"requiredResource": "Iron",
-		"promotions": ["Heroism II", "Striker"],
+		"promotions": ["Heroism II", "Ultra Cover"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -136,7 +136,7 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"promotions": ["[Agojie] ability"],
-		"uniques": ["[+25]% Strength <vs [non-[Gunpowder]] units>","Excess Food converted to Production when under construction"],
+		"uniques": ["[+33]% Strength <vs [non-[Gunpowder]] units>","Excess Food converted to Production when under construction"],
 		"attackSound": "shot"
 	},
 	{
@@ -379,6 +379,7 @@
 		"strength": 14,
 		"cost": 75,
 		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Steel",
 		"promotions": ["Shock I"],
