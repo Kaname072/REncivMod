@@ -4,9 +4,6 @@
     ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <if [Musa Pilgrimage] is constructed by anybody>"],
   "unitUniques": [
     "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>"
-    ///Lusitanian uniques
-    ,"[+15]% Strength <for [10] turns> <upon entering a war with [Lusitanian] Civilizations> <for [non-[Lusitanian]] Civilizations>"
     ///Angola uniques
-    ,"[This Unit] gains the [Combat] promotion <upon defeating a [Military] unit> <for units without [Combat]> <for [Angola] Civilizations>"
-    ,"[This Unit] gains [2] XP <upon ending a turn in a [City center] tile> <in cities with a [Kilombo]> <for units with [Combat]> <for [Angola] Civilizations>"]
+    ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarian] units> <with [75]% chance>"]
 }
