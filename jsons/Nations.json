@@ -210,7 +210,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["[+15]% Strength <for [10] turns> <upon entering a war with [All] Civilizations> <hidden from users>",
+		"uniques": ["[+15]% Strength <for [10] turns> <upon entering a war with [Friendly] Civilizations> <hidden from users>",
 			"Comment [Upon entering a war with an allied civilization or allied city-States, both sides gain [15]% strength for [10] turns]"],
 		"cities": ["Olisipo","Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
