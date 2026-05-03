@@ -4,7 +4,7 @@
     ,"Triggers a [Mansa arrived] event <for [non-[Mali]] Civilizations> <if [Musa Pilgrimage] is constructed by anybody>"],
   "unitUniques": [
     "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>",
-    "[-100]% to Flank Attack bonuses <vs [Ultra Cover] units>",
+    "[-100]% to Flank Attack bonuses <vs [Ultra Cover] units>"
     ///Angola uniques
     ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarian] units> <with [75]% chance> <within [2] tiles"]
 }
