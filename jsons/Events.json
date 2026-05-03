@@ -13,34 +13,6 @@
     ]
   },
   {
-    "name": "T-55 Capture",
-    "text": "T-55 Capture",
-    "presentation": "None",
-    "choices": [
-      {
-        "text": "T-55 Capture",
-        "uniques": [
-          "[Target Unit] gains the [Captured Tank] promotion",
-          "Play [WLTK] sound"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Cargo Trade",
-    "text": "Cargo Trade",
-    "choices": [
-      {
-        "text": "Cargo Trade",
-        "uniques": [
-          "Gain [80] [Gold] <(modified by game progress up to [1000]%)>",
-          "Gain [20] [Culture] <(modified by game progress up to [500]%)> <for [Morocco] Civilizations>",
-          "Play [WLTK] sound"
-        ]
-      }
-    ]
-  },
-  {
     "name": "Force transform to Worker",
     "text": "Force transform to Worker",
     "presentation": "None",
