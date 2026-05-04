@@ -212,7 +212,7 @@
 		"innerColor": [0,84,94],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Tribes Coalization",
-		"uniques": ["Earn [33]% of killed [Barbarian] unit's [Strength] as [Stored Food] <in all cities>"],
+		"uniques": ["Earn [33]% of killed [Barbarian] unit's [Strength] as [Stored Food]"],
 		"cities": ["Olisipo","Viseo","Aeminium","Coninbriga","Caurium","Norba","Ammaia","Lacinimurga","Emerita","Scallabis",
 			"Caetobriga","Metellinum","Igaeditanorum"]
 	},
@@ -333,9 +333,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mwene Ngola",
-		"uniques": ["Comment [[Barbarian] Units have a chance to establish a [Imbangala Kilombo] when entering in your territory, upon defeating a [Imbangala Kilombo] you gain [100] [Gold] and recruit his units]",
-			"Comment [([Imbangala Kilombo] units will be 'stuck' in your territory and we heal by turn, but cant pillage your tile)]",
-			"When defeating a [Imbangala Kilombo] unit, earn [100] Gold and recruit it <with [100]% chance> <hidden from users>"],
+		"uniques": ["Can build [all] improvements at a [+25]% rate"],
 		"cities": ["Luanda","Lubango","Cabinda","Malanje","Huambo","Gabela","Sumbe","Waku Kungo","Cacolo","Ndalatando","Catumbela","Benguela","Kuito","Luena","Lucapa","Luau","Mavinga","Ondjiva","Ganda"]
 	},
 	{
