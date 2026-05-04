@@ -6,5 +6,5 @@
     "No defensive terrain bonus <for [{Military} {Land} {non-[Romania]}] units> <in [Romania] tiles>",
     "[-100]% to Flank Attack bonuses <vs [Ultra Cover] units>"
     ///Angola uniques
-    ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarian] units> <with [75]% chance> <when adjacent to a [non-[Imbangala Kilombo]] unit>"]
+    ,"[This Unit] gains the [Imbangala Kilombo] promotion <upon entering a [Angola] tile> <for [Barbarians] Civilizations> <with [75]% chance> <when adjacent to a [non-[Imbangala Kilombo]] unit>"]
 }
