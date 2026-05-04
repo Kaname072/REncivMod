@@ -652,7 +652,8 @@
         "innerColor": [3,46,161],
         "favoredReligion": "Buddhism",
         "uniqueName": "Spirituality",
-        "uniques": ["May buy [Wonder] buildings with [Faith] for [3] times their normal Production cost"],
+        "uniques": ["Comment [May buy [Wonder] buildings with [Faith] for [2] times their normal Production cost]",
+			"May buy [{Wonder} {non-[Unique Wonder]} {Cannot be hurried}] buildings with [Faith] for [3] times their normal Production cost <hidden from users>"],
         "cities": ["Angkor","Roluos","Phimai","Champassak","Banteay Srei","Sambor Prey Kuk","Preah Vihear","Vyadhapura","Nakhom Pathom","U Thong","Rachaburi","Phetchaburi","Vat Nokor","Angkor Borei","Chaiya","Oc Eo","Strung Treng","Maha Rosei","Kapong Cham","Hanchei","Phnom Kulen","Vijaya","Krâchêh"]
 	}
 ]
